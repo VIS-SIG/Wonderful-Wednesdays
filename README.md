@@ -14,9 +14,10 @@ Now the audience has the ability to improve the visualization and submit the upd
 In the first webinar you will learn about visualization principles by visualization experts being active in the SIG. In addition, we will discuss the first visualization to improve on. 
 
 Please find below the timelines for the first cycle:
-• Webinar to present the case study: March 11th
-• Timeline to submit improved visualizations: April 1st
-• Webinar to provide feedback on the submitted visualizations: April 11th
+
+* Webinar to present the case study: March 11th
+* Timeline to submit improved visualizations: April 1st
+* Webinar to provide feedback on the submitted visualizations: April 11th
 
 You will be able to submit your improvements for feedback via a google form on the homepage of the SIG after the first webinar. These submissions need to include code (which is well documented and executable) as well as the file of the visualization itself.
 
