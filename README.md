@@ -1,4 +1,4 @@
-# Wonderful-Wednesdays
+# Wonderful Wednesdays
 
 https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
