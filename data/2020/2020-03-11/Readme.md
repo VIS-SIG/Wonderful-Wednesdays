@@ -1,14 +1,12 @@
 # Psoriasis example data set
 
-Psoriasis:
+Psoriasis is a chronic relapsing disease of the skin characterized by variable clinical features. Skin lesions are characterized by prominent erythema, induration, and scaling. Plaque-type psoriasis is the most frequent clinical presentation. The pathophysiology of psoriasis is not fully understood but it is currently considered to be an immune-mediated disease. 
 
-* Red, thick, scaly plaques
-* Lifelong disease
-* High impact on quality of life
+Accumulating evidence indicates that psoriasis is a multifactorial disorder caused by the concerted action of multiple disease genes, triggered by environmental factors. Genetic factors influence the pattern of psoriasis, its severity and the age of disease onset. Psoriasis cannot be cured, only controlled, and thus represents a lifelong burden.
 
 # PASI as a primary endpoint 
 
-Psoriasis Area and Severity Index (PASI):
+Clinical response is typically defined and measured by Psoriasis Area and Severity Index (PASI):
 
 * Standard assessment in trials
 * Range 0-72
