@@ -6,7 +6,7 @@ Psoriasis:
 * Lifelong disease
 * High impact on quality of life
 
-# PASI as primary endpoint 
+# PASI as a primary endpoint 
 
 Psoriasis Area and Severity Index (PASI):
 
