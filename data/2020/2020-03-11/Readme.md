@@ -34,3 +34,9 @@ As a dervied outcome:
 * PASI90 Response Relative to Baseline: “Y”=Yes, “N”=No
 * PASI75 Response Relative to Baseline: “Y”=Yes, “N”=No
 * NRI Flag: “Y”=Yes, “N”=No; non-responder imputation, i.e. missing value is interpreted as “N”
+
+# Timelines
+
+* Webinar to present the case study: March 11th 2020. 
+* Timeline to submit improved visualizations: April 1st 2020
+* Webinar to provide feedback on the submitted visualizations: April 11th 2020
