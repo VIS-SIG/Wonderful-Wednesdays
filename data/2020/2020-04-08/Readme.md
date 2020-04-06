@@ -1,2 +1,19 @@
 # Example Survival data set
 
+* STUDYID	
+* SUBJID	
+* AGE	
+* STR01	
+* STR01N
+* STR01L
+* STR02
+* STR02N
+* STR02L
+* TRT01P
+* TRT01PN
+* PARAM
+* PARAMCD	
+* AVAL
+* CNSR
+* CNSDTDSC
+* DCTREAS
