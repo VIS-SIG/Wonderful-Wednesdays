@@ -1,0 +1,53 @@
+---
+title: "Example Survival data set"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)    
+library(broom)
+library(survival)
+library(here)
+```
+
+
+## The data set and variable definitions
+
+The  data set contains the following variables: 
+
+* STUDYID	- the study id
+* SUBJID	- subject id
+* USUBJID - unique subject id
+* AGE	- age at randomisation 
+* STR01	- Hormone receptor status 
+* STR01N - Hormone receptor positive (Numeric)
+* STR01L - Hormone receptor positive (Long format)
+* STR02 - Prior Radiotherapy at randomisation
+* STR02N - Prior Radiotherapy at randomisation (Numeric)
+* STR02L - Prior Radiotherapy at randomisation (Long format)
+* TRT01P - Planned treatment assigned at randomisation
+* TRT01PN - Planned treatment assigned at randomisation (numeric)
+* PARAM - Analysis parameter 
+* PARAMCD	- Analysis parameter code
+* AVAL - Analysis value (time)
+* CNSR - Censoring (1 = censored)
+* CNSDTDSC - Event or censoring description
+* DCTREAS - Discontinuation from study reason
+
+## Example analysis
+
+Below is a crude example of how to plot Kaplan-Meier estimates by treatment. 
+
+```{r}
+ADTTE <- read_csv('2020-04-08-psi-vissig-adtte.csv')
+
+survfit(Surv(AVAL, CNSR == 1) ~ TRT01P  , data = ADTTE )  %>%
+  tidy(fit) %>%
+  ggplot(aes(time, estimate, group = strata, colour = strata)) + 
+  geom_line() +
+  geom_point() +
+  ggtitle("Kaplan-Meier estimates by treatment") 
+```
+
