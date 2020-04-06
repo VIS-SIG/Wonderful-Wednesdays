@@ -5,7 +5,7 @@ output: github_document
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Background
@@ -44,7 +44,7 @@ The  data set contains the following variables:
 
 Below is a crude example of how to plot Kaplan-Meier estimates by treatment. 
 
-```{r}
+```{r, warning=FALSE, message=FALSE}
 library(tidyverse)    
 library(broom)
 library(survival)
