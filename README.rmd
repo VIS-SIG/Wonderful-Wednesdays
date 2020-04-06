@@ -1,0 +1,21 @@
+---
+title: "Example Survival data set"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)    
+library(broom)
+library(survival)
+```
+
+```{r}
+survfit(Surv(AVAL, CNSR == 1) ~ TRT01P  , data = ADTTE )  %>%
+  tidy(fit) %>%
+  ggplot(aes(time, estimate, group = strata, colour = strata)) + 
+  geom_line() +
+  geom_point() 
+```
+
