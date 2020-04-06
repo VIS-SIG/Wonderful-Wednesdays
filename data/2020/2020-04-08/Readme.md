@@ -1,6 +1,24 @@
 Example Survival data set
 ================
 
+## Background
+
+The example data set is based on large phase III clinical trials in
+Breast cancer such as
+[ALTTO](https://ascopubs.org/doi/pdf/10.1200/JCO.2015.62.1797).
+
+The “trial” aims to determine if a combination of two therapies tablemab
+(T) plus vismab (V) improves outcomes for metastatic human epidermal
+growth factor 2–positive breast cancer and increases the pathologic
+complete response in the neoadjuvant setting (treatment given as a first
+step to shrink a tumor before the main treatment or surgery).
+
+The trial has four treatment arms, patients with centrally confirmed
+human epidermal growth factor 2-positive early breast cancer were
+randomly assigned to 1 year of adjuvant therapy with V, T, their
+sequence (T→V), or their combination (T+V) for 52 weeks. The primary end
+point was progression-free survival (PFS).
+
 ## The data set and variable definitions
 
 The data set contains the following variables:
@@ -29,9 +47,38 @@ The data set contains the following variables:
 Below is a crude example of how to plot Kaplan-Meier estimates by
 treatment.
 
-``` r
-ADTTE <- read_csv('2020-04-08-psi-vissig-adtte.csv')
-```
+    ## Warning: package 'tidyverse' was built under R version 3.6.3
+
+    ## -- Attaching packages ---------------------------------------------------------------------- tidyverse 1.3.0 --
+
+    ## v ggplot2 3.3.0     v purrr   0.3.3
+    ## v tibble  2.1.3     v dplyr   0.8.5
+    ## v tidyr   1.0.2     v stringr 1.4.0
+    ## v readr   1.3.1     v forcats 0.5.0
+
+    ## Warning: package 'ggplot2' was built under R version 3.6.3
+
+    ## Warning: package 'tibble' was built under R version 3.6.3
+
+    ## Warning: package 'tidyr' was built under R version 3.6.3
+
+    ## Warning: package 'readr' was built under R version 3.6.3
+
+    ## Warning: package 'purrr' was built under R version 3.6.3
+
+    ## Warning: package 'dplyr' was built under R version 3.6.3
+
+    ## Warning: package 'stringr' was built under R version 3.6.3
+
+    ## Warning: package 'forcats' was built under R version 3.6.3
+
+    ## -- Conflicts ------------------------------------------------------------------------- tidyverse_conflicts() --
+    ## x dplyr::filter() masks stats::filter()
+    ## x dplyr::lag()    masks stats::lag()
+
+    ## Warning: package 'broom' was built under R version 3.6.3
+
+    ## Warning: package 'survival' was built under R version 3.6.3
 
     ## Warning: Missing column names filled in: 'X1' [1]
 
@@ -57,14 +104,5 @@ ADTTE <- read_csv('2020-04-08-psi-vissig-adtte.csv')
     ##   CNSDTDSC = col_character(),
     ##   DCTREAS = col_character()
     ## )
-
-``` r
-survfit(Surv(AVAL, CNSR == 1) ~ TRT01P  , data = ADTTE )  %>%
-  tidy(fit) %>%
-  ggplot(aes(time, estimate, group = strata, colour = strata)) + 
-  geom_line() +
-  geom_point() +
-  ggtitle("Kaplan-Meier estimates by treatment") 
-```
 
 ![](Readme_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
