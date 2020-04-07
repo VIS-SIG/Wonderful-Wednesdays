@@ -11,7 +11,7 @@ Please find below the timelines for this cycle:
   - Webinar to present the case study: **April 8th**. The **dataset can
     be accessed**
     [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
-  - Timeline to submit improved visualizations: TBC
+  - Timeline to submit improved visualizations: **May 6th, 2020**
   - Webinar to provide feedback on the submitted visualizations: **May
     13th, 2020**
 
