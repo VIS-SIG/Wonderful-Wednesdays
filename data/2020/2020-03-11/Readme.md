@@ -1,3 +1,11 @@
+In the first webinar you will learn about visualization principles by visualization experts being active in the SIG. In addition, we will discuss the first visualization to improve on. 
+
+Please find below the timelines for the first cycle:
+
+* Webinar to present the case study: **March 11th**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
+* Timeline to submit improved visualizations: April 1st
+* Webinar to provide feedback on the submitted visualizations: April 11th
+
 # Psoriasis example data set
 
 Psoriasis is a chronic relapsing disease of the skin characterized by variable clinical features. Skin lesions are characterized by prominent erythema, induration, and scaling. Plaque-type psoriasis is the most frequent clinical presentation. The pathophysiology of psoriasis is not fully understood but it is currently considered to be an immune-mediated disease. 
