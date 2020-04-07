@@ -1,6 +1,20 @@
 Example Survival data set
 ================
 
+## Timelines
+
+In the second webinar we will discuss the second visualization dataset
+to improve on.
+
+Please find below the timelines for this cycle:
+
+  - Webinar to present the case study: **April 8th**. The **dataset can
+    be accessed**
+    [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
+  - Timeline to submit improved visualizations: TBC
+  - Webinar to provide feedback on the submitted visualizations: **May
+    13th, 2020**
+
 ## Background
 
 The example simulated data set is based on large phase III clinical
