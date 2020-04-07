@@ -3,8 +3,8 @@ Example Survival data set
 
 ## Background
 
-The example data set is based on large phase III clinical trials in
-Breast cancer such as
+The example simulated data set is based on large phase III clinical
+trials in Breast cancer such as
 [ALTTO](https://ascopubs.org/doi/pdf/10.1200/JCO.2015.62.1797).
 
 The “trial” aims to determine if a combination of two therapies tablemab
@@ -19,33 +19,53 @@ randomly assigned to 1 year of adjuvant therapy with V, T, their
 sequence (T→V), or their combination (T+V) for 52 weeks. The primary end
 point was progression-free survival (PFS).
 
+As defined by
+[Cancer.gov](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/progression-free-survival):
+“the length of time during and after the treatment of a disease, such as
+cancer, that a patient lives with the disease but it does not get worse.
+In a clinical trial, measuring the progression-free survival is one way
+to see how well a new treatment works”.
+
 ## The data set and variable definitions
+
+The data set is an abridged version of the [CDISC
+ADaM](https://www.cdisc.org/standards/foundational/adam)
+[ADTTE](https://www.cdisc.org/system/files/all/standard_category/application/pdf/adam_tte_final_v1.pdf)
+time to event data set.
 
 The data set contains the following variables:
 
-  - STUDYID - the study id
-  - SUBJID - subject id
-  - USUBJID - unique subject id
-  - AGE - age at randomisation
-  - STR01 - Hormone receptor status
+  - STUDYID - the study identifier
+  - SUBJID - subject identifier
+  - USUBJID - unique subject iddentifier
+  - AGE - age at randomisation (years)
+  - STR01 - Hormone receptor status at randomisation
   - STR01N - Hormone receptor positive (Numeric)
   - STR01L - Hormone receptor positive (Long format)
   - STR02 - Prior Radiotherapy at randomisation
   - STR02N - Prior Radiotherapy at randomisation (Numeric)
   - STR02L - Prior Radiotherapy at randomisation (Long format)
   - TRT01P - Planned treatment assigned at randomisation
-  - TRT01PN - Planned treatment assigned at randomisation (numeric)
-  - PARAM - Analysis parameter
+  - TRT01PN - Planned treatment assigned at randomisation (Numeric)
+  - PARAM - Analysis parameter - Progression free survival
   - PARAMCD - Analysis parameter code
-  - AVAL - Analysis value (time)
+  - AVAL - Analysis value (time to event \[days\])
   - CNSR - Censoring (1 = censored)
   - CNSDTDSC - Event or censoring description
   - DCTREAS - Discontinuation from study reason
 
+A number of baseline measurements are also included such as age, hormone
+receptor status and prior radiotherapy treatment. Additional details on
+reasons for study discontinuation and censoring event description are
+also included.
+
 ## Example analysis
 
-Below is a crude example of how to plot Kaplan-Meier estimates by
-treatment.
+Below is a crude example of how to work with the [CDISC
+ADaM](https://www.cdisc.org/standards/foundational/adam) [ADTTE data
+set](https://www.cdisc.org/system/files/all/standard_category/application/pdf/adam_tte_final_v1.pdf).
+The example takes the AVAL, CNSR and TRT01P variables to plot
+Kaplan-Meier estimates by treatment.
 
 ``` r
 library(tidyverse)    
