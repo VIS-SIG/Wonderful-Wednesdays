@@ -15,6 +15,6 @@ You will be able to submit your improvements for feedback via a google form on t
 
 We will make the submissions available to the community together with highlights of the strength and limitations. Over time, this will lead to a gallery of visualizations for others to learn from.
 
-* Webinar to present the case study: **April 7th**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08)
-* Webinar to present the case study: **March 11th**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
+* Webinar to present the case study: **April 7th, 2020**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08)
+* Webinar to present the case study: **March 11th, 2020**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
 
