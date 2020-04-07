@@ -14,3 +14,7 @@ Now the audience has the ability to improve the visualization and submit the upd
 You will be able to submit your improvements for feedback via a google form on the homepage of the SIG after the first webinar. These submissions need to include code (which is well documented and executable) as well as the file of the visualization itself.
 
 We will make the submissions available to the community together with highlights of the strength and limitations. Over time, this will lead to a gallery of visualizations for others to learn from.
+
+* Webinar to present the case study: **April 7th**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08)
+* Webinar to present the case study: **March 11th**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
+
