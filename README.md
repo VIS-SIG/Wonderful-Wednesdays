@@ -7,7 +7,7 @@ The data visualization special interest group (VIS SIG) was recently founded und
 
 The SIG is happy to introduce a new initiative called “Wonderful Wednesdays”. This initiative will provide the participants to not only learn theoretically about visualisation principles but also apply them to relevant examples from the field of healthcare and the development of new therapies. 
 
-Inspired by 'Makeover Monday' and 'Tidy Tuesday', we will present on a monthly basis a data set reflecting the properties of a usual data set from a clinical trial or some other relevant study. This data set will come along with a visualization. 
+Inspired by ['Makeover Monday'](https://www.makeovermonday.co.uk/) and ['Tidy Tuesday'](https://github.com/rfordatascience/tidytuesday), we will present on a monthly basis a data set reflecting the properties of a usual data set from a clinical trial or some other relevant study. This data set will come along with a visualization. 
 
 Now the audience has the ability to improve the visualization and submit the updated visualization (along with the code) to receive feedback from the SIG members. Both, the presentation of the dataset and the visualization as well as the feedback will be given in webinars. These 60 minutes webinars will occur every 2nd Wednesday of the month at 5pm CET. 
 
