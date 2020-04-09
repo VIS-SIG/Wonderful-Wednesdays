@@ -68,8 +68,9 @@ The data set contains the following variables:
   - PARAM - Analysis parameter - Progression free survival
   - PARAMCD - Analysis parameter code
   - AVAL - Analysis value (time to event \[days\])
-  - CNSR - Censoring (1 = censored)
-  - CNSDTDSC - Event or censoring description
+  - CNSR - Censoring (0 = Event, 1 = censored)
+  - EVNTDESC - Event description
+  - CNSDTDSC - Censoring description
   - DCTREAS - Discontinuation from study reason
 
 A number of baseline measurements are also included such as age, hormone
