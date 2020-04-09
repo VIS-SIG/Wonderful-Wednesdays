@@ -1,8 +1,9 @@
 Example Survival data set
 ================
 
-**Note: 9April2020** A correction to the dataset has been made to
-resolve an issue with patient identifiers (SUBJID).
+**Note: 9April2020** A correction to the original dataset has been made
+to resolve an issue with patient identifiers (SUBJID) which caused a
+merge issue.
 
 ## Timelines
 
@@ -93,7 +94,7 @@ library(survival)
 ADTTE <- read_csv('2020-04-08-psi-vissig-adtte.csv')
 
 # plot KM curve by treatment 
-survfit(Surv(AVAL, CNSR == 1) ~ TRT01P  , data = ADTTE )  %>%
+survfit(Surv(AVAL, CNSR == 0) ~ TRT01P  , data = ADTTE )  %>%
   tidy(fit) %>%
   ggplot(aes(time, estimate, group = strata, colour = strata)) + 
   geom_line() +
