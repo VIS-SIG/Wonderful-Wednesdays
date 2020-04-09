@@ -8,6 +8,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+**Note: 9April2020** A correction to the dataset has been made to resolve an issue with patient identifiers (SUBJID).   
+
 ## Timelines
 
 In the second webinar we will discuss the second visualization dataset to improve on. 
