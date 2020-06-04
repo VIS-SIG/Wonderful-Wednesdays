@@ -27,10 +27,11 @@ range, and subsequent stability of Hgb levels. In particular,
 within-subject changes in Hgb should not be excessive as rapid changes
 in Hgb can lead to cardiovascular risk. In general, an increase of Hgb
 of less than 1 g/dL during each 4-week period is considered optimal,
-with a change of more than 2 g/dL being a potential safety concern. Use
-of appropriate data visualisations can demonstrate any potential benefit
-of the experimental treatment compared to the control group, in terms of
-Hgb variability, stability and control.
+with a change of more than 2 g/dL being a potential safety concern.
+
+Use of appropriate data visualisations can demonstrate any potential
+benefit of the experimental treatment compared to the control group, in
+terms of Hgb variability, stability and control.
 
 ## Data Description
 
