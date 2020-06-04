@@ -1,0 +1,43 @@
+Haemoglobin in Anaemia
+================
+
+## Wonderful Wednesdays June 10th Webinar
+
+Overview of the data set introduced at the June 10th WW webinar.
+
+## Background: Haemoglobin in Anaemia
+
+The kidney has a role in regulating erythropoiesis (the production of
+red blood cells), and patients with Chronic Kidney Disease (CKD) often
+exhibit symptoms of anaemia. Treatments for anaemia in CKD therefore aim
+to stimulate erythropoiesis and elevate haemoglobin (Hgb) concentration
+in blood plasma. Anaemia patients typically have an Hgb concentration of
+8 - 10 g/dL, and the aim for any therapeutic intervention is to restore
+Hgb to within a target range.
+
+The data provided are from a simulated trial of 300 CKD patients
+comparing a new experimental treatment (E) to a control group receiving
+current standard of care (C). The primary objective of the trial is to
+demonstrate efficacy, in terms of achieving a mean Hgb within the target
+range of 10 – 11.5 g/dL at week 24. However a successful treatment
+should also show benefit in terms of reducing Hgb variability, and an
+ideal treatment would produce a smooth increase in Hgb to the target
+range, and subsequent stability of Hgb levels. In particular,
+within-subject changes in Hgb should not be excessive as rapid changes
+in Hgb can lead to cardiovascular risk. In general, an increase of Hgb
+of less than 1 g/dL during each 4-week period is considered optimal,
+with a change of more than 2 g/dL being a potential safety concern. Use
+of appropriate data visualisations can demonstrate any potential benefit
+of the experimental treatment compared to the control group, in terms of
+Hgb variability, stability and control.
+
+## Data Description
+
+The data provided contains the following variables:
+
+  - **USUBJID** Subject unique identifier
+  - **TRT01PN** Treatment group (numeric)
+  - **TRT01P** Treatment group
+  - **AVISITN** Visit identifier (numeric)
+  - **AVISIT** Visit identifier
+  - **AVAL** Hgb concentration (g/dL)
