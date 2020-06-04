@@ -15,6 +15,18 @@ You will be able to submit your improvements for feedback via a google form on t
 
 We will make the submissions available to the community together with highlights of the strength and limitations. Over time, this will lead to a gallery of visualizations for others to learn from.
 
-* Webinar to present the case study: **May 14th, 2020**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13)
-* Webinar to present the case study: **April 7th, 2020**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08)
-* Webinar to present the case study: **March 11th, 2020**. The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11)
+## Next Webinar
+
+**June 10th, 2020** we will present a case study on [Haemoglobin in Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). 
+
+
+## Previous data sets 
+
+* [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Present on **March 11th, 2020**. 
+
+* [Survival / time to event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08). Presented on **April 7th, 2020**. The dataset can be accessed [here]
+
+* [Subgroup data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13). Presented on **May 14th, 2020**. 
+
+
+
