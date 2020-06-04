@@ -43,3 +43,10 @@ The data provided contains the following variables:
   - **AVISITN** Visit identifier (numeric)
   - **AVISIT** Visit identifier
   - **AVAL** Hgb concentration (g/dL)
+
+## Downloading single files
+
+**NOTE** to download a single data set as a csv file, click on the raw
+button and save the file. The [following link describes the process in
+further
+detail](%5D\(https://stackoverflow.com/questions/4604663/download-single-files-from-github\)).
