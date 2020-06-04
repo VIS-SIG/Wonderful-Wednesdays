@@ -36,4 +36,6 @@ Presented on **May 14th, 2020**, the [Satisfaction example data set](https://git
 * [Subgroup data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13). Presented on **May 14th, 2020**. 
 
 
+## Downloading single files
 
+**NOTE** to download a single data set as a csv file, click on the raw button and save the file. The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
