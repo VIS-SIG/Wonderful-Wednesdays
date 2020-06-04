@@ -20,6 +20,8 @@ We will make the submissions available to the community together with highlights
 
 Presented on **May 14th, 2020**, the [Satisfaction example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13) is an  example [data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13) based on survey of overall satisfaction performed in Germany in 2014, published 2016. The [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13) is rich for performing and exploring how to present subgroup or cohort information. 
 
+[Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
+
 ## Next Webinar
 
 **June 10th, 2020** we will present a case study on [Haemoglobin in Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). 
