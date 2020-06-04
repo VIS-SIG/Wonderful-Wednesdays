@@ -3,7 +3,8 @@ Haemoglobin in Anaemia
 
 ## Wonderful Wednesdays June 10th Webinar
 
-Overview of the data set introduced at the June 10th WW webinar.
+Overview of the [data set](hgb_data.csv) introduced at the June 10th WW
+webinar.
 
 ## Background: Haemoglobin in Anaemia
 
