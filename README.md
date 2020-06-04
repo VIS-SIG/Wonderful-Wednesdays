@@ -24,7 +24,7 @@ We will make the submissions available to the community together with highlights
 
 * [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Present on **March 11th, 2020**. 
 
-* [Survival / time to event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08). Presented on **April 7th, 2020**. The dataset can be accessed [here]
+* [Survival / time to event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08). Presented on **April 7th, 2020**. 
 
 * [Subgroup data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13). Presented on **May 14th, 2020**. 
 
