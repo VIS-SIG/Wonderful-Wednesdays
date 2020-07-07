@@ -20,7 +20,7 @@ Table of contents for the 2020 webinar series data sets.
     Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10).
     Presented on **June 10th, 2020**.
 
-  - [COPD](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv).
+  - [COPD](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-07-08).
     Presented on **July 8th, 2020**
 
 **NOTE** to download a single data set as a csv file, click on the raw

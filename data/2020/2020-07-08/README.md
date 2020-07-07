@@ -27,9 +27,9 @@ RISE compares a LABA versus a LABA/ICS combination. RISE used two types of visua
 
 Of interest is producing data visualisations that also incorporate information on the number of exacerbations observed.
 
-## Overview of the [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv)
+## Overview of the dataset
 
-The simulated [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) includes one observation per subject.
+The simulated [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-07-08) includes one observation per subject.
 
 Variables:
 
@@ -49,5 +49,9 @@ Variables:
 * Study_daysC: Days on Treatment - Character
 * subjid - Unique Subject ID - Character
 * usubjid - Unique Subject ID - Numeric
+
+## Downloading the data 
+
+To download the raw csv file [click here](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) and press right click. 
 
 **NOTE** to download a single data set as a csv file, click on the raw button and save the file. The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
