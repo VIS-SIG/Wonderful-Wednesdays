@@ -5,7 +5,7 @@ Data is based on the RISE study for patients with [moderate COPD](https://www.re
 
 ## Primary endpoint 
 
-The primary endpoint is the number of exacerbations during a six month treatment period. Event data ? but patients can (and do) have multiple exacerbations. Statistical analysis used a Negative Binomial model.
+The primary endpoint is the number of exacerbations during a six month treatment period. Event data - but patients can (and do) have multiple exacerbations. Statistical analysis used a Negative Binomial model.
 
 ## COPD treatment 
 
@@ -27,9 +27,9 @@ RISE compares a LABA versus a LABA/ICS combination. RISE used two types of visua
 
 Of interest is producing data visualisations that also incorporate information on the number of exacerbations observed.
 
-## Overview of the dataset
+## Overview of the [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv)
 
-The simulated dataset includes one observation per subject.
+The simulated [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) includes one observation per subject.
 
 Variables:
 
@@ -49,3 +49,5 @@ Variables:
 * Study_daysC: Days on Treatment - Character
 * subjid - Unique Subject ID - Character
 * usubjid - Unique Subject ID - Numeric
+
+**NOTE** to download a single data set as a csv file, click on the raw button and save the file. The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).

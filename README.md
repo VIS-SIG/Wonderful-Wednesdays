@@ -18,14 +18,15 @@ We will make the submissions available to the community together with highlights
 
 ## Current data set
 
-Presented on **June 10th, 2020**, the dataset is based on a case study on [Haemoglobin in Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). The **dataset can be accessed** [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10)
+* Presented on **July 8th, 2020**. The current [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) presents a challenge on how to display data from such a trial. Typical studies use two types of visualisation: Time to first exacerbation (ignoring any subsequent exacerbations) and forest plots of subgroups (no information on number of exacerbations). Chronic Obstructive Pulmonary Disease (COPD) is a respiratory disease characterised by difficulty breathing and has increased mortality. An exacerbation can be life-threatening if not treated promptly.Data is based on the RISE study for patients with [moderate COPD](https://www.resmedjournal.com/article/S0954-6111(17)30314-1/fulltext). 
+
+Are there ways to present [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) in a more informative and effective way? 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**July 8th, 2020**. 
-
+**August 5th, 2020**. 
 
 ## Previous data sets 
 
@@ -34,6 +35,8 @@ Presented on **June 10th, 2020**, the dataset is based on a case study on [Haemo
 * [Survival / time to event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08). Presented on **April 7th, 2020**. 
 
 * [Subgroup data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13). Presented on **May 14th, 2020**. 
+
+* [Haemoglobin in Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). Presented on **June 10th, 2020**. 
 
 
 ## Downloading single files
