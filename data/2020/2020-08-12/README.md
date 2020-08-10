@@ -1,6 +1,6 @@
 # Adverse event example data set
 
-Example dataset is based on a clinical trial of an active treatment for eczema compared to placebo in adolescents that are unresponsive to standard care.
+The [adverse example dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-08-12/2020-08-12_ae_example_dataset.csv) is based on a clinical trial of an active treatment for eczema compared to placebo in adolescents that are unresponsive to standard care.
 
 The primary outcome was a continuous outcome that measured the extent and severity of eczema at 6 months.
 
@@ -16,9 +16,9 @@ Objective: to describe and compare the Adverse Event profiles between treatment 
 
 Participants were randomised between November 2016 – June 2017
 
-Placebo n =29, Intervention n=32
+Placebo n=29, Intervention n=32
 
-The dataset contains multiple observations per subject
+The [dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-08-12/2020-08-12_ae_example_dataset.csv) contains multiple observations per subject
 
 The following variables are measured at randomisation:
 
@@ -43,6 +43,6 @@ Additional variables measured throughout study (including treatment and follow-u
 
 # Downloading the data 
 
-To download the raw csv file [click here](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) and press right click. 
+To download the raw csv file [click here](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-08-12/2020-08-12_ae_example_dataset.csv) and press right click. 
 
 **NOTE** to download a single data set as a csv file, click on the raw button and save the file. The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).

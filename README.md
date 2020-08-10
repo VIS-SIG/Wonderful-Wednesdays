@@ -18,9 +18,9 @@ We will make the submissions available to the community together with highlights
 
 ## Current data set
 
-* Presented on **August 12th, 2020**. The current example data set focuses on [Adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12). The example dataset is based on a clinical trial of an active treatment for eczema compared to placebo in adolescents that are unresponsive to standard care. The primary outcome was a continuous outcome that measured the extent and severity of eczema at 6 months. Participants were treated with either active treatment or placebo for 6 months and then followed-up for a further 6 months. AEs were monitored and collected for the entire 12 month study period.
+* Presented on **August 12th, 2020**. The current example data set focuses on [adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12). The example dataset is based on a clinical trial of an active treatment for eczema compared to placebo in adolescents that are unresponsive to standard care. The primary outcome was a continuous outcome that measured the extent and severity of eczema at 6 months. Participants were treated with either active treatment or placebo for 6 months and then followed-up for a further 6 months. AEs were monitored and collected for the entire 12 month study period.
 
-Typically adverse events are presented in tables or patient listing. Are there ways to present [Adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12) in a more informative and effective way? 
+Typically adverse events are presented in tables or patient listing. Are there ways to present [adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-08-12/2020-08-12_ae_example_dataset.csv) in a more informative and effective way? 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
