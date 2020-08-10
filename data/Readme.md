@@ -9,8 +9,7 @@ Table of contents for the 2020 webinar series data sets.
 
   - [Survival / time to
     event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08).
-    Presented on **April 7th, 2020**. The dataset can be accessed
-    \[here\]
+    Presented on **April 7th, 2020**. 
 
   - [Subgroup
     data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13).
