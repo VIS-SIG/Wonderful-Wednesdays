@@ -1,0 +1,371 @@
+usubjid,arm,armn,rando_date,repeatnum,aept,aebodsys,aesev,aeser,aesevn,aesern,aestdat,dur,aeeddat
+2001,Intervention,1,20161130,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170211,7,20170218
+2001,Intervention,1,20161130,2,Proteinuria,Renal and urinary,Mild,No,1,0,20170213,11,20170224
+2001,Intervention,1,20161130,3,Nausea,Gastrointestinal,Mild,No,1,0,20170318,7,20170325
+2001,Intervention,1,20161130,4,Anxiety,Psychiatric,Mild,No,1,0,20170320,5,20170325
+2001,Intervention,1,20161130,5,Cold,Respiratory,Mild,No,1,0,20170327,9,20170405
+2001,Intervention,1,20161130,6,Anemia,Blood and lymphatic,Mild,No,1,0,20170406,7,20170413
+2001,Intervention,1,20161130,7,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170406,6,20170412
+2001,Intervention,1,20161130,8,Vomiting,Gastrointestinal,Mild,No,1,0,20170409,8,20170417
+2001,Intervention,1,20161130,9,Leukocytosis,Blood and lymphatic,Moderate,Yes,2,1,20170415,12,20170427
+2001,Intervention,1,20161130,10,Cold,Respiratory,Mild,No,1,0,20170417,8,20170425
+2001,Intervention,1,20161130,11,Nausea,Gastrointestinal,Mild,No,1,0,20170418,12,20170430
+2002,Placebo,0,20170220,1,Accident,Other,Severe,Yes,3,1,20170507,9,20170516
+2002,Placebo,0,20170220,2,Other,Blood and lymphatic,Mild,No,1,0,20170819,2,20170821
+2002,Placebo,0,20170220,3,Toothache,Other,Mild,No,1,0,20171107,3,20171110
+2004,Intervention,1,20170124,1,Cystitis,Renal and urinary,Mild,No,1,0,20170414,11,20170425
+2004,Intervention,1,20170124,2,Vomiting,Gastrointestinal,Mild,No,1,0,20170419,6,20170425
+2004,Intervention,1,20170124,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170509,6,20170515
+2004,Intervention,1,20170124,4,Acid reflux,Gastrointestinal,Mild,No,1,0,20170511,10,20170521
+2004,Intervention,1,20170124,5,Vomiting,Gastrointestinal,Mild,No,1,0,20170513,9,20170522
+2004,Intervention,1,20170124,6,Photosensitivity,Dermatological,Mild,No,1,0,20170515,13,20170528
+2004,Intervention,1,20170124,7,Vomiting,Gastrointestinal,Mild,No,1,0,20170516,8,20170524
+2004,Intervention,1,20170124,8,Vomiting,Gastrointestinal,Moderate,No,2,0,20170527,9,20170605
+2004,Intervention,1,20170124,9,Dry skin,Dermatological,Mild,No,1,0,20170606,6,20170612
+2005,Intervention,1,20170219,1,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170505,4,20170509
+2005,Intervention,1,20170219,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170507,9,20170516
+2005,Intervention,1,20170219,3,Anemia,Blood and lymphatic,Mild,No,1,0,20170511,16,20170527
+2007,Intervention,1,20170506,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170718,2,20170720
+2007,Intervention,1,20170506,2,Headache,Neurological,Mild,No,1,0,20170730,13,20170812
+2007,Intervention,1,20170506,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170803,6,20170809
+2007,Intervention,1,20170506,4,Headache,Neurological,Mild,No,1,0,20170804,8,20170812
+2007,Intervention,1,20170506,5,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170805,6,20170811
+2007,Intervention,1,20170506,6,Anxiety,Psychiatric,Mild,No,1,0,20170807,11,20170818
+2007,Intervention,1,20170506,7,Anxiety,Psychiatric,Mild,No,1,0,20170816,7,20170823
+2007,Intervention,1,20170506,8,Abdominal pain,Gastrointestinal,Mild,No,1,0,20170817,3,20170820
+2007,Intervention,1,20170506,9,Bloating,Gastrointestinal,Mild,No,1,0,20170818,9,20170827
+2007,Intervention,1,20170506,10,Sinus pain,Neurological,Mild,No,1,0,20170916,5,20170921
+2007,Intervention,1,20170506,11,Pruritus,Dermatological,Mild,No,1,0,20170919,10,20170929
+2007,Intervention,1,20170506,12,Anemia,Blood and lymphatic,Mild,No,1,0,20170926,12,20171008
+2008,Placebo,0,20170317,1,Other,Blood and lymphatic,Mild,No,1,0,20170317,7,20170324
+2008,Placebo,0,20170317,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170325,8,20170402
+2008,Placebo,0,20170317,3,Colitis,Gastrointestinal,Mild,No,1,0,20170525,7,20170601
+2008,Placebo,0,20170317,4,Anemia,Blood and lymphatic,Severe,No,3,0,20170815,11,20170826
+2008,Placebo,0,20170317,5,Anemia,Blood and lymphatic,Mild,No,1,0,20171003,6,20171009
+2008,Placebo,0,20170317,6,Colitis,Gastrointestinal,Mild,No,1,0,20180308,5,20180313
+2009,Placebo,0,20170326,1,Anxiety,Psychiatric,Moderate,No,2,0,20170531,7,20170607
+2010,Placebo,0,20170422,1,Anemia,Blood and lymphatic,Severe,No,3,0,20170918,10,20170928
+2010,Placebo,0,20170422,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20171005,5,20171010
+2011,Intervention,1,20161221,1,Nausea,Gastrointestinal,Mild,No,1,0,20170412,4,20170416
+2011,Placebo,0,20161221,2,Nausea,Gastrointestinal,Mild,No,1,0,20170421,6,20170427
+2013,Placebo,0,20170509,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20171007,10,20171017
+2013,Placebo,0,20170509,2,Anemia,Blood and lymphatic,Severe,No,3,0,20171015,5,20171020
+2013,Placebo,0,20170509,3,Anemia,Blood and lymphatic,Mild,No,1,0,20180219,3,20180222
+2014,Intervention,1,20170510,1,Headache,Neurological,Moderate,No,2,0,20170805,5,20170810
+2014,Intervention,1,20170510,2,Headache,Neurological,Mild,No,1,0,20170810,2,20170812
+2014,Intervention,1,20170510,3,Ear pain,"Eyes, ear, nose, throat",Mild,No,1,0,20170815,5,20170820
+2014,Intervention,1,20170510,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170825,6,20170831
+2014,Intervention,1,20170510,5,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170831,7,20170907
+2014,Intervention,1,20170510,6,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170903,10,20170913
+2014,Intervention,1,20170510,7,Other,Blood and lymphatic,Severe,No,3,0,20170903,3,20170906
+2014,Intervention,1,20170510,8,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170907,6,20170913
+2014,Intervention,1,20170510,9,Headache,Neurological,Moderate,No,2,0,20170914,9,20170923
+2015,Placebo,0,20170417,1,Ear pain,"Eyes, ear, nose, throat",Mild,No,1,0,20171231,4,20180104
+2016,Placebo,0,20170103,1,Nausea,Gastrointestinal,Moderate,No,2,0,20170428,7,20170505
+2018,Intervention,1,20170118,1,Dry mouth,Gastrointestinal,Mild,No,1,0,20170411,9,20170420
+2018,Intervention,1,20170118,2,Anemia,Blood and lymphatic,Severe,No,3,0,20170411,8,20170419
+2018,Intervention,1,20170118,3,Headache,Neurological,Severe,No,3,0,20170425,10,20170505
+2018,Intervention,1,20170118,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170506,12,20170518
+2018,Intervention,1,20170118,5,Dry mouth,Gastrointestinal,Moderate,No,2,0,20170528,6,20170603
+2019,Intervention,1,20170120,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170423,7,20170430
+2019,Intervention,1,20170120,2,Cold,Respiratory,Moderate,No,2,0,20170427,9,20170506
+2019,Intervention,1,20170120,3,Anemia,Blood and lymphatic,Mild,No,1,0,20170510,6,20170516
+2019,Intervention,1,20170120,4,Colitis,Gastrointestinal,Mild,No,1,0,20170516,7,20170523
+2019,Intervention,1,20170120,5,Sore hands,Other,Moderate,No,2,0,20170519,3,20170522
+2019,Intervention,1,20170120,6,Secondary suture of wound,Other,Mild,No,1,0,20170524,11,20170604
+2019,Intervention,1,20170120,7,Dyspepsia,Gastrointestinal,Moderate,No,2,0,20170605,7,20170612
+2019,Intervention,1,20170120,8,Anemia,Blood and lymphatic,Moderate,No,2,0,20170609,8,20170617
+2022,Placebo,0,20170417,1,Car accident,Other,Moderate,Yes,2,1,20170512,5,20170517
+2022,Placebo,0,20170417,2,Anemia,Blood and lymphatic,Mild,No,1,0,20171106,12,20171118
+2022,Placebo,0,20170417,3,Anemia,Blood and lymphatic,Mild,No,1,0,20171207,8,20171215
+2022,Placebo,0,20170417,4,Colitis,Gastrointestinal,Mild,No,1,0,20180103,3,20180106
+2022,Placebo,0,20170417,5,Anemia,Blood and lymphatic,Mild,No,1,0,20180125,9,20180203
+2023,Placebo,0,20170409,1,Nausea,Gastrointestinal,Mild,No,1,0,20170414,11,20170425
+2023,Placebo,0,20170409,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170721,4,20170725
+2023,Placebo,0,20170409,3,Night sweats,Other,Moderate,No,2,0,20170828,3,20170831
+2023,Placebo,0,20170409,4,Nausea,Gastrointestinal,Mild,No,1,0,20170830,5,20170904
+2023,Placebo,0,20170409,5,Anemia,Blood and lymphatic,Mild,No,1,0,20171116,9,20171125
+2028,Intervention,1,20170403,1,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170716,7,20170723
+2028,Intervention,1,20170403,2,Anemia,Blood and lymphatic,Mild,No,1,0,20170810,14,20170824
+2028,Intervention,1,20170403,3,Nausea,Gastrointestinal,Moderate,No,2,0,20170811,10,20170821
+2028,Intervention,1,20170403,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170817,8,20170825
+2028,Intervention,1,20170403,5,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170819,16,20170904
+2029,Intervention,1,20170208,1,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170423,15,20170508
+2029,Intervention,1,20170208,2,Other,Blood and lymphatic,Mild,No,1,0,20170427,8,20170505
+2029,Intervention,1,20170208,3,Nausea,Gastrointestinal,Severe,No,3,0,20170504,6,20170510
+2029,Intervention,1,20170208,4,Dry mouth,Gastrointestinal,Mild,No,1,0,20170507,8,20170515
+2029,Intervention,1,20170208,5,Nausea,Gastrointestinal,Moderate,No,2,0,20170508,9,20170517
+2029,Intervention,1,20170208,6,Anemia,Blood and lymphatic,Mild,No,1,0,20170512,10,20170522
+2029,Intervention,1,20170208,7,Anemia,Blood and lymphatic,Moderate,No,2,0,20170516,11,20170527
+2029,Intervention,1,20170208,8,Night sweats,Other,Mild,No,1,0,20170518,3,20170521
+2029,Intervention,1,20170208,9,Bloating,Gastrointestinal,Moderate,No,2,0,20170521,10,20170531
+2029,Intervention,1,20170208,10,Bloating,Gastrointestinal,Moderate,No,2,0,20170524,8,20170601
+2029,Intervention,1,20170208,11,Cold,Respiratory,Mild,No,1,0,20170530,4,20170603
+2029,Intervention,1,20170208,12,Anemia,Blood and lymphatic,Mild,No,1,0,20170612,7,20170619
+2029,Intervention,1,20170208,13,Bloating,Gastrointestinal,Moderate,No,2,0,20170621,8,20170629
+2031,Intervention,1,20170522,1,Other,Blood and lymphatic,Mild,No,1,0,20170902,8,20170910
+2031,Intervention,1,20170522,2,Other,Blood and lymphatic,Mild,No,1,0,20170923,9,20171002
+2031,Intervention,1,20170522,3,Anemia,Blood and lymphatic,Mild,No,1,0,20171002,6,20171008
+2033,Placebo,0,20170411,1,Other,Blood and lymphatic,Moderate,No,2,0,20170513,4,20170517
+2033,Placebo,0,20170411,2,Anemia,Blood and lymphatic,Severe,No,3,0,20170519,7,20170526
+2033,Placebo,0,20170411,3,Headache,Neurological,Mild,No,1,0,20170525,8,20170602
+2033,Placebo,0,20170411,4,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170605,9,20170614
+2033,Placebo,0,20170411,5,Anemia,Blood and lymphatic,Moderate,No,2,0,20170614,3,20170617
+2033,Placebo,0,20170411,6,Nausea,Gastrointestinal,Mild,No,1,0,20170718,8,20170726
+2033,Placebo,0,20170411,7,Headache,Neurological,Mild,No,1,0,20170804,6,20170810
+2033,Placebo,0,20170411,8,Diarrhea,Gastrointestinal,Mild,No,1,0,20170927,7,20171004
+2033,Placebo,0,20170411,9,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170928,4,20171002
+2033,Placebo,0,20170411,10,Diarrhea,Gastrointestinal,Moderate,No,2,0,20171223,2,20171225
+2033,Placebo,0,20170411,11,Abdominal pain,Gastrointestinal,Moderate,No,2,0,20180221,6,20180227
+2035,Intervention,1,20170103,1,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170505,6,20170511
+2035,Intervention,1,20170103,2,Anemia,Blood and lymphatic,Mild,No,1,0,20170512,9,20170521
+2035,Intervention,1,20170103,3,Pruritus,Dermatological,Mild,No,1,0,20170525,8,20170602
+2038,Intervention,1,20170220,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170519,8,20170527
+2040,Placebo,0,20170204,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170426,6,20170502
+2040,Placebo,0,20170204,2,Anxiety,Psychiatric,Severe,No,3,0,20170525,6,20170531
+2040,Placebo,0,20170204,3,Headache,Neurological,Moderate,No,2,0,20170622,2,20170624
+2040,Placebo,0,20170204,4,Anxiety,Psychiatric,Moderate,No,2,0,20170708,8,20170716
+2040,Placebo,0,20170204,5,Abdominal distension,Gastrointestinal,Mild,No,1,0,20170804,4,20170808
+2040,Placebo,0,20170204,6,Other,Blood and lymphatic,Mild,No,1,0,20171008,3,20171011
+2040,Placebo,0,20170204,7,Other,Blood and lymphatic,Mild,No,1,0,20171028,5,20171102
+2041,Intervention,1,20170208,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170509,6,20170515
+2041,Intervention,1,20170208,2,Anxiety,Psychiatric,Severe,Yes,3,1,20170606,6,20170612
+2041,Intervention,1,20170208,3,Diarrhea,Gastrointestinal,Severe,No,3,0,20170619,8,20170627
+2041,Intervention,1,20170208,4,Nausea,Gastrointestinal,Moderate,No,2,0,20170630,8,20170708
+2049,Placebo,0,20161130,1,Pruritus,Dermatological,Moderate,No,2,0,20170209,10,20170219
+2049,Placebo,0,20161130,2,Pruritus,Dermatological,Mild,No,1,0,20170517,6,20170523
+2049,Placebo,0,20161130,3,Car accident,Other,Moderate,Yes,2,1,20170623,11,20170704
+2051,Placebo,0,20170515,1,Nightmares,Other,Moderate,No,2,0,20170624,11,20170705
+2051,Placebo,0,20170515,2,Vomiting,Gastrointestinal,Moderate,No,2,0,20180201,4,20180205
+2051,Placebo,0,20170515,3,Acid reflux,Gastrointestinal,Mild,No,1,0,20180203,1,20180204
+2051,Placebo,0,20170515,4,Nausea,Gastrointestinal,Moderate,No,2,0,20180501,2,20180503
+2053,Intervention,1,20170107,1,Other,Blood and lymphatic,Mild,No,1,0,20170330,9,20170408
+2053,Intervention,1,20170107,2,Somnolence,Neurological,Moderate,No,2,0,20170407,10,20170417
+2053,Intervention,1,20170107,3,Ear pain,"Eyes, ear, nose, throat",Mild,No,1,0,20170409,6,20170415
+2053,Intervention,1,20170107,4,Pruritus,Renal and urinary,Moderate,No,2,0,20170416,3,20170419
+2053,Intervention,1,20170107,5,Hospitalisation for existing condition,Other,Moderate,Yes,2,1,20170428,8,20170506
+2053,Intervention,1,20170107,6,Pruritus,Renal and urinary,Mild,No,1,0,20170503,9,20170512
+2053,Intervention,1,20170107,7,Urinary incontinence,Renal and urinary,Moderate,No,2,0,20170511,10,20170521
+2053,Intervention,1,20170107,8,Acid reflux,Gastrointestinal,Mild,No,1,0,20170517,12,20170529
+2053,Intervention,1,20170107,9,Nightmares,Other,Mild,No,1,0,20170523,4,20170527
+2053,Intervention,1,20170107,10,Abdominal pain,Gastrointestinal,Mild,No,1,0,20170601,4,20170605
+2054,Placebo,0,20161231,1,Seizure,Neurological,Severe,Yes,3,1,20170121,4,20170125
+2054,Placebo,0,20161231,2,Headache,Neurological,Moderate,No,2,0,20170209,5,20170214
+2054,Placebo,0,20161231,3,Dry skin,Dermatological,Moderate,No,2,0,20170406,10,20170416
+2054,Placebo,0,20161231,4,Other,Blood and lymphatic,Mild,No,1,0,20170430,6,20170506
+2054,Placebo,0,20161231,5,Accident,Other,Moderate,Yes,2,1,20170706,8,20170714
+2054,Placebo,0,20161231,6,Anemia,Blood and lymphatic,Moderate,No,2,0,20170722,6,20170728
+2054,Placebo,0,20161231,7,Anemia,Blood and lymphatic,Mild,No,1,0,20171107,9,20171116
+2055,Placebo,0,20161202,1,Dry skin,Dermatological,Moderate,No,2,0,20161226,9,20170104
+2055,Placebo,0,20161202,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170203,10,20170213
+2055,Placebo,0,20161202,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170520,2,20170522
+2055,Placebo,0,20161202,4,Dry skin,Dermatological,Severe,No,3,0,20170713,0,20170713
+2055,Placebo,0,20161202,5,Dry skin,Dermatological,Moderate,No,2,0,20170827,10,20170906
+2055,Placebo,0,20161202,6,Dry skin,Dermatological,Mild,No,1,0,20170917,6,20170923
+2055,Placebo,0,20161202,7,Dry skin,Dermatological,Severe,No,3,0,20171103,4,20171107
+2055,Placebo,0,20161202,8,Anemia,Blood and lymphatic,Moderate,No,2,0,20171111,9,20171120
+2056,Placebo,0,20170224,1,Nightmares,Other,Severe,No,3,0,20170429,7,20170506
+2058,Intervention,1,20170405,1,Colitis,Gastrointestinal,Mild,No,1,0,20170618,4,20170622
+2058,Intervention,1,20170405,2,Nausea,Gastrointestinal,Moderate,No,2,0,20170621,12,20170703
+2058,Intervention,1,20170405,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170704,7,20170711
+2058,Intervention,1,20170405,4,Abdominal pain,Gastrointestinal,Moderate,No,2,0,20170710,7,20170717
+2058,Intervention,1,20170405,5,Hospitalisation for existing condition,Other,Moderate,Yes,2,1,20170716,7,20170723
+2058,Intervention,1,20170405,6,Colitis,Gastrointestinal,Moderate,No,2,0,20170729,5,20170803
+2058,Intervention,1,20170405,7,Cold,Respiratory,Mild,No,1,0,20170815,10,20170825
+2058,Intervention,1,20170405,8,Anemia,Blood and lymphatic,Mild,No,1,0,20170827,14,20170910
+2060,Intervention,1,20170313,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170608,10,20170618
+2060,Intervention,1,20170313,2,Colitis,Gastrointestinal,Moderate,No,2,0,20170610,9,20170619
+2060,Intervention,1,20170313,3,Acid reflux,Gastrointestinal,Mild,No,1,0,20170611,10,20170621
+2060,Intervention,1,20170313,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170612,5,20170617
+2060,Intervention,1,20170313,5,Anemia,Blood and lymphatic,Moderate,No,2,0,20170709,9,20170718
+2060,Intervention,1,20170313,6,Anemia,Blood and lymphatic,Severe,No,3,0,20170720,13,20170802
+2060,Intervention,1,20170313,7,Acid reflux,Gastrointestinal,Mild,No,1,0,20170804,11,20170815
+2061,Intervention,1,20170213,1,Diarrhea,Gastrointestinal,Severe,No,3,0,20170512,9,20170521
+2061,Intervention,1,20170213,2,Gum infection,Other,Mild,No,1,0,20170525,5,20170530
+2061,Intervention,1,20170213,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170604,7,20170611
+2062,Placebo,0,20170510,1,Diarrhea,Gastrointestinal,Severe,No,3,0,20170520,9,20170529
+2062,Placebo,0,20170510,2,Anemia,Blood and lymphatic,Mild,No,1,0,20170808,4,20170812
+2062,Placebo,0,20170510,3,Toenail infection,Infection,Mild,No,1,0,20171125,3,20171128
+2062,Placebo,0,20170510,4,Anemia,Blood and lymphatic,Moderate,No,2,0,20171129,8,20171207
+2068,Intervention,1,20161129,1,Abdominal pain,Gastrointestinal,Moderate,No,2,0,20170310,9,20170319
+2068,Intervention,1,20161129,2,Other,Blood and lymphatic,Mild,No,1,0,20170317,9,20170326
+2068,Intervention,1,20161129,3,Other,Blood and lymphatic,Mild,No,1,0,20170321,12,20170402
+2069,Placebo,0,20170510,1,Diarrhea,Gastrointestinal,Mild,No,1,0,20170603,2,20170605
+2069,Placebo,0,20170510,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170606,4,20170610
+2069,Placebo,0,20170510,3,Viral infection,Other,Mild,No,1,0,20170607,14,20170621
+2069,Placebo,0,20170510,4,Nail infection,Infection,Mild,No,1,0,20170715,5,20170720
+2069,Placebo,0,20170510,5,Anemia,Blood and lymphatic,Moderate,No,2,0,20171022,6,20171028
+2069,Placebo,0,20170510,6,Dry eye,"Eyes, ear, nose, throat",Mild,No,1,0,20171113,5,20171118
+2069,Placebo,0,20170510,7,Anemia,Blood and lymphatic,Severe,Yes,3,1,20171115,7,20171122
+2069,Placebo,0,20170510,8,Acid reflux,Gastrointestinal,Moderate,No,2,0,20171124,3,20171127
+2069,Placebo,0,20170510,9,Anemia,Blood and lymphatic,Moderate,No,2,0,20180205,7,20180212
+2071,Intervention,1,20161224,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170313,7,20170320
+2071,Intervention,1,20161224,2,Anemia,Blood and lymphatic,Severe,No,3,0,20170326,10,20170405
+2071,Intervention,1,20161224,3,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170331,8,20170408
+2071,Intervention,1,20161224,4,Anemia,Blood and lymphatic,Moderate,No,2,0,20170407,9,20170416
+2071,Intervention,1,20161224,5,Acid reflux,Gastrointestinal,Mild,No,1,0,20170411,4,20170415
+2071,Intervention,1,20161224,6,Anemia,Blood and lymphatic,Moderate,No,2,0,20170412,13,20170425
+2071,Intervention,1,20161224,7,Acid reflux,Gastrointestinal,Severe,No,3,0,20170417,4,20170421
+2071,Intervention,1,20161224,8,Acid reflux,Gastrointestinal,Moderate,No,2,0,20170418,11,20170429
+2071,Intervention,1,20161224,9,Anemia,Blood and lymphatic,Moderate,No,2,0,20170507,8,20170515
+2071,Intervention,1,20161224,10,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170509,9,20170518
+2075,Placebo,0,20170520,1,Anemia,Blood and lymphatic,Severe,No,3,0,20170630,1,20170701
+2075,Placebo,0,20170520,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20171007,6,20171013
+2075,Placebo,0,20170520,3,Headache,Neurological,Moderate,No,2,0,20171103,6,20171109
+2075,Placebo,0,20170520,4,Toenail infection,Infection,Mild,No,1,0,20180209,4,20180213
+2077,Intervention,1,20170131,1,Leukocytosis,Blood and lymphatic,Mild,No,1,0,20170418,14,20170502
+2077,Intervention,1,20170131,2,Leukocytosis,Blood and lymphatic,Mild,No,1,0,20170419,9,20170428
+2077,Intervention,1,20170131,3,Leukocytosis,Blood and lymphatic,Mild,No,1,0,20170501,3,20170504
+2077,Intervention,1,20170131,4,Diarrhea,Gastrointestinal,Moderate,No,2,0,20170502,8,20170510
+2077,Intervention,1,20170131,5,Leukocytosis,Blood and lymphatic,Moderate,No,2,0,20170613,11,20170624
+2077,Intervention,1,20170131,6,Nausea,Gastrointestinal,Moderate,No,2,0,20170614,4,20170618
+2077,Intervention,1,20170131,7,Leukocytosis,Blood and lymphatic,Mild,No,1,0,20170622,12,20170704
+2078,Placebo,0,20161123,1,Viral infection,Infection,Severe,Yes,3,1,20170212,5,20170217
+2078,Placebo,0,20161123,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170326,10,20170405
+2078,Placebo,0,20161123,3,Viral infection,Infection,Severe,Yes,3,1,20170419,7,20170426
+2078,Placebo,0,20161123,4,Other,Blood and lymphatic,Mild,No,1,0,20170901,7,20170908
+2078,Placebo,0,20161123,5,Viral infection,Infection,Mild,No,1,0,20171020,5,20171025
+2081,Intervention,1,20161224,1,Headache,Neurological,Mild,No,1,0,20170308,11,20170319
+2081,Intervention,1,20161224,2,Headache,Neurological,Mild,No,1,0,20170313,9,20170322
+2081,Intervention,1,20161224,3,Headache,Neurological,Severe,No,3,0,20170325,9,20170403
+2081,Intervention,1,20161224,4,Nausea,Gastrointestinal,Moderate,No,2,0,20170327,6,20170402
+2081,Intervention,1,20161224,5,Anemia,Blood and lymphatic,Mild,No,1,0,20170329,12,20170410
+2081,Intervention,1,20161224,6,Headache,Neurological,Mild,No,1,0,20170402,8,20170410
+2081,Intervention,1,20161224,7,Viral infection,Infection,Moderate,No,2,0,20170410,9,20170419
+2081,Intervention,1,20161224,8,Sinus pain,Neurological,Moderate,No,2,0,20170411,13,20170424
+2081,Intervention,1,20161224,9,Anemia,Blood and lymphatic,Mild,No,1,0,20170418,8,20170426
+2081,Intervention,1,20161224,10,Headache,Neurological,Mild,No,1,0,20170421,11,20170502
+2081,Intervention,1,20161224,11,Anemia,Blood and lymphatic,Moderate,No,2,0,20170505,11,20170516
+2081,Intervention,1,20161224,12,Anemia,Blood and lymphatic,Mild,No,1,0,20170507,7,20170514
+2083,Intervention,1,20170303,1,Abdominal pain,Gastrointestinal,Moderate,No,2,0,20170515,4,20170519
+2083,Intervention,1,20170303,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170521,10,20170531
+2083,Intervention,1,20170303,3,Anemia,Blood and lymphatic,Mild,No,1,0,20170610,3,20170613
+2083,Intervention,1,20170303,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170613,12,20170625
+2083,Intervention,1,20170303,5,Anemia,Blood and lymphatic,Mild,No,1,0,20170626,13,20170709
+2083,Intervention,1,20170303,6,Anemia,Blood and lymphatic,Mild,No,1,0,20170701,10,20170711
+2083,Intervention,1,20170303,7,Anemia,Blood and lymphatic,Mild,No,1,0,20170704,9,20170713
+2083,Intervention,1,20170303,8,Anemia,Blood and lymphatic,Moderate,No,2,0,20170705,4,20170709
+2083,Intervention,1,20170303,9,Feeling unwell,Other,Mild,No,1,0,20170708,10,20170718
+2083,Intervention,1,20170303,10,Anemia,Blood and lymphatic,Moderate,No,2,0,20170712,12,20170724
+2083,Intervention,1,20170303,11,Hematuria,Renal and urinary,Severe,No,3,0,20170715,8,20170723
+2083,Intervention,1,20170303,12,Thirsty,Other,Mild,No,1,0,20170715,12,20170727
+2084,Placebo,0,20170306,1,Hospitalisation for existing condition,Other,Severe,Yes,3,1,20170504,5,20170509
+2084,Placebo,0,20170306,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170702,4,20170706
+2084,Placebo,0,20170306,3,Other,Blood and lymphatic,Mild,No,1,0,20170809,1,20170810
+2086,Placebo,0,20170411,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170530,6,20170605
+2086,Placebo,0,20170411,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170611,2,20170613
+2086,Placebo,0,20170411,3,Anemia,Blood and lymphatic,Mild,No,1,0,20170712,10,20170722
+2086,Placebo,0,20170411,4,Nausea,Gastrointestinal,Mild,No,1,0,20170906,6,20170912
+2086,Placebo,0,20170411,5,Anemia,Blood and lymphatic,Mild,No,1,0,20170909,7,20170916
+2086,Placebo,0,20170411,6,Nausea,Gastrointestinal,Mild,No,1,0,20171201,12,20171213
+2086,Placebo,0,20170411,7,Nausea,Gastrointestinal,Moderate,No,2,0,20180217,5,20180222
+2086,Placebo,0,20170411,8,Anemia,Blood and lymphatic,Mild,No,1,0,20180225,4,20180301
+2086,Placebo,0,20170411,9,Anemia,Blood and lymphatic,Mild,No,1,0,20180328,6,20180403
+2088,Intervention,1,20170404,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170621,10,20170701
+2088,Intervention,1,20170404,2,Anemia,Blood and lymphatic,Severe,No,3,0,20170701,15,20170716
+2088,Intervention,1,20170404,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170719,7,20170726
+2088,Intervention,1,20170404,4,Abdominal pain,Gastrointestinal,Severe,No,3,0,20170722,12,20170803
+2088,Intervention,1,20170404,5,Vitamin D deficiency,Dermatological,Mild,No,1,0,20170803,7,20170810
+2088,Intervention,1,20170404,6,Acid reflux,Gastrointestinal,Mild,No,1,0,20170809,10,20170819
+2088,Intervention,1,20170404,7,Acid reflux,Gastrointestinal,Moderate,No,2,0,20170810,6,20170816
+2088,Intervention,1,20170404,8,Anemia,Blood and lymphatic,Moderate,No,2,0,20170821,3,20170824
+2088,Intervention,1,20170404,9,Anemia,Blood and lymphatic,Moderate,No,2,0,20170822,7,20170829
+2088,Intervention,1,20170404,10,Eye pain,"Eyes, ear, nose, throat",Mild,No,1,0,20170827,15,20170911
+2089,Placebo,0,20170522,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170525,6,20170531
+2089,Placebo,0,20170522,2,Somnolence,Neurological,Moderate,No,2,0,20170614,3,20170617
+2089,Placebo,0,20170522,3,Headache,Neurological,Moderate,No,2,0,20170625,8,20170703
+2089,Placebo,0,20170522,4,Colitis,Gastrointestinal,Moderate,No,2,0,20170627,12,20170709
+2089,Placebo,0,20170522,5,Anemia,Blood and lymphatic,Mild,No,1,0,20170711,8,20170719
+2089,Placebo,0,20170522,6,Somnolence,Neurological,Moderate,No,2,0,20170718,8,20170726
+2089,Placebo,0,20170522,7,Headache,Neurological,Mild,No,1,0,20170725,7,20170801
+2089,Placebo,0,20170522,8,Headache,Neurological,Mild,No,1,0,20171125,8,20171203
+2089,Placebo,0,20170522,9,Anemia,Blood and lymphatic,Severe,Yes,3,1,20171218,3,20171221
+2089,Placebo,0,20170522,10,Somnolence,Neurological,Mild,No,1,0,20180126,9,20180204
+2089,Placebo,0,20170522,11,Viral infection,Infection,Mild,No,1,0,20180210,7,20180217
+2089,Placebo,0,20170522,12,Night sweats,Other,Moderate,No,2,0,20180306,7,20180313
+2090,Placebo,0,20170412,1,Anemia,Blood and lymphatic,Severe,No,3,0,20170502,9,20170511
+2090,Placebo,0,20170412,2,Anemia,Blood and lymphatic,Mild,No,1,0,20170621,6,20170627
+2090,Placebo,0,20170412,3,Pruritus,Dermatological,Moderate,No,2,0,20170625,2,20170627
+2090,Placebo,0,20170412,4,Pruritus,Dermatological,Moderate,No,2,0,20170708,4,20170712
+2090,Placebo,0,20170412,5,Anemia,Blood and lymphatic,Moderate,No,2,0,20170715,8,20170723
+2091,Intervention,1,20161228,1,Vomiting,Gastrointestinal,Moderate,No,2,0,20170319,10,20170329
+2091,Intervention,1,20161228,2,Acid reflux,Gastrointestinal,Mild,No,1,0,20170321,8,20170329
+2091,Intervention,1,20161228,3,Vomiting,Gastrointestinal,Mild,No,1,0,20170322,12,20170403
+2091,Intervention,1,20161228,4,Anemia,Blood and lymphatic,Moderate,No,2,0,20170326,8,20170403
+2091,Intervention,1,20161228,5,Other,Blood and lymphatic,Mild,No,1,0,20170515,11,20170526
+2092,Intervention,1,20161220,1,Anemia,Blood and lymphatic,Severe,No,3,0,20170309,5,20170314
+2092,Intervention,1,20161220,2,Bloating,Gastrointestinal,Moderate,No,2,0,20170420,3,20170423
+2092,Intervention,1,20161220,3,Photosensitivity,Dermatological,Mild,No,1,0,20170426,10,20170506
+2094,Placebo,0,20170110,1,Anemia,Blood and lymphatic,Moderate,No,2,0,20170228,7,20170307
+2094,Placebo,0,20170110,2,Anemia,Blood and lymphatic,Mild,No,1,0,20170616,3,20170619
+2094,Placebo,0,20170110,3,Nausea,Gastrointestinal,Moderate,No,2,0,20170726,6,20170801
+2094,Placebo,0,20170110,4,Anxiety,Psychiatric,Moderate,No,2,0,20171004,4,20171008
+2094,Placebo,0,20170110,5,Photosensitivity,Dermatological,Moderate,No,2,0,20171101,5,20171106
+2095,Intervention,1,20170227,1,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170519,7,20170526
+2095,Intervention,1,20170227,2,Anemia,Blood and lymphatic,Moderate,No,2,0,20170522,9,20170531
+2095,Intervention,1,20170227,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170608,5,20170613
+2095,Intervention,1,20170227,4,Anemia,Blood and lymphatic,Severe,No,3,0,20170619,3,20170622
+2095,Intervention,1,20170227,5,Anemia,Blood and lymphatic,Moderate,No,2,0,20170710,3,20170713
+2098,Intervention,1,20170515,1,Alopecia,Dermatological,Severe,No,3,0,20170811,6,20170817
+2098,Intervention,1,20170515,2,Acid reflux,Gastrointestinal,Mild,No,1,0,20170815,6,20170821
+2098,Intervention,1,20170515,3,Acid reflux,Gastrointestinal,Moderate,No,2,0,20170817,9,20170826
+2098,Intervention,1,20170515,4,Acid reflux,Gastrointestinal,Mild,No,1,0,20170819,3,20170822
+2098,Intervention,1,20170515,5,Abdominal pain,Gastrointestinal,Moderate,No,2,0,20170828,9,20170906
+2098,Intervention,1,20170515,6,Vomiting,Gastrointestinal,Moderate,No,2,0,20170831,8,20170908
+2098,Intervention,1,20170515,7,Anemia,Blood and lymphatic,Moderate,No,2,0,20170915,7,20170922
+2098,Intervention,1,20170515,8,Vomiting,Gastrointestinal,Mild,No,1,0,20171007,8,20171015
+2100,Intervention,1,20170421,1,Other,Blood and lymphatic,Mild,No,1,0,20170720,12,20170801
+2101,Placebo,0,20170417,1,Acid reflux,Gastrointestinal,Mild,No,1,0,20170721,8,20170729
+2101,Placebo,0,20170417,2,Anemia,Blood and lymphatic,Severe,Yes,3,1,20170813,6,20170819
+2101,Placebo,0,20170417,3,Headache,Neurological,Moderate,No,2,0,20171029,4,20171102
+2101,Placebo,0,20170417,4,Anemia,Blood and lymphatic,Mild,No,1,0,20171204,7,20171211
+2101,Placebo,0,20170417,5,Anemia,Blood and lymphatic,Mild,No,1,0,20171211,4,20171215
+2101,Placebo,0,20170417,6,Acid reflux,Gastrointestinal,Mild,No,1,0,20180203,9,20180212
+2102,Intervention,1,20170104,1,Nausea,Gastrointestinal,Moderate,No,2,0,20170325,6,20170331
+2102,Intervention,1,20170104,2,Photosensitivity,Dermatological,Moderate,No,2,0,20170401,4,20170405
+2102,Intervention,1,20170104,3,Anemia,Blood and lymphatic,Moderate,No,2,0,20170409,3,20170412
+2102,Intervention,1,20170104,4,Anemia,Blood and lymphatic,Moderate,No,2,0,20170502,7,20170509
+2102,Intervention,1,20170104,5,Headache,Neurological,Moderate,No,2,0,20170502,6,20170508
+2102,Intervention,1,20170104,6,Anemia,Blood and lymphatic,Mild,No,1,0,20170515,8,20170523
+2102,Intervention,1,20170104,7,Anemia,Blood and lymphatic,Moderate,No,2,0,20170524,14,20170607
+2103,Placebo,0,20170304,1,Vertigo,Other,Moderate,No,2,0,20170305,6,20170311
+2103,Placebo,0,20170304,2,Anemia,Blood and lymphatic,Severe,No,3,0,20170929,6,20171005
+2103,Placebo,0,20170304,3,Anemia,Blood and lymphatic,Severe,Yes,3,1,20171210,7,20171217
+2104,Intervention,1,20170606,1,Anemia,Blood and lymphatic,Mild,No,1,0,20170925,7,20171002
+2104,Intervention,1,20170606,2,Dizzy,Other,Moderate,No,2,0,20170930,5,20171005
+2104,Intervention,1,20170606,3,Other,Blood and lymphatic,Severe,No,3,0,20171011,10,20171021
+2104,Intervention,1,20170606,4,Photosensitivity,Dermatological,Moderate,No,2,0,20171012,6,20171018
+2104,Intervention,1,20170606,5,Anemia,Blood and lymphatic,Severe,Yes,3,1,20171017,8,20171025
+2104,Intervention,1,20170606,6,Nausea,Gastrointestinal,Mild,No,1,0,20171023,10,20171102
+2104,Intervention,1,20170606,7,Anemia,Blood and lymphatic,Moderate,No,2,0,20171026,9,20171104
+2104,Intervention,1,20170606,8,Anemia,Blood and lymphatic,Moderate,No,2,0,20171029,10,20171108
+2104,Intervention,1,20170606,9,Acid reflux,Gastrointestinal,Mild,No,1,0,20171030,6,20171105
+2105,Intervention,1,20170606,1,Anemia,Blood and lymphatic,Mild,No,1,0,20171011,11,20171022
+2107,Placebo,0,20170602,1,Anxiety,Psychiatric,Moderate,No,2,0,20170713,7,20170720
+2107,Placebo,0,20170602,2,Cystitis,Renal and urinary,Mild,No,1,0,20170810,4,20170814
+2107,Placebo,0,20170602,3,Acid reflux,Gastrointestinal,Mild,No,1,0,20170812,8,20170820
+2107,Placebo,0,20170602,4,Cystitis,Renal and urinary,Mild,No,1,0,20170821,6,20170827
+2107,Placebo,0,20170602,5,Other,Blood and lymphatic,Mild,No,1,0,20171001,5,20171006
+2107,Placebo,0,20170602,6,Anxiety,Psychiatric,Moderate,No,2,0,20171013,5,20171018
+2107,Placebo,0,20170602,7,Other,Blood and lymphatic,Mild,No,1,0,20171030,7,20171106
+2107,Placebo,0,20170602,8,Vomiting,Gastrointestinal,Moderate,No,2,0,20171125,7,20171202
+2107,Placebo,0,20170602,9,Pruritus,Dermatological,Mild,No,1,0,20171211,3,20171214
+2107,Placebo,0,20170602,10,Pruritus,Dermatological,Moderate,No,2,0,20171212,5,20171217
+2107,Placebo,0,20170602,11,Depression,Psychiatric,Moderate,Yes,2,1,20180115,5,20180120
+2107,Placebo,0,20170602,12,Depression,Psychiatric,Mild,No,1,0,20180202,7,20180209
+2107,Placebo,0,20170602,13,Delusions,Psychiatric,Severe,Yes,3,1,20180206,4,20180210
+2107,Placebo,0,20170602,14,Cystitis,Renal and urinary,Mild,No,1,0,20180222,3,20180225
+2107,Placebo,0,20170602,15,Cold,Respiratory,Moderate,No,2,0,20180316,4,20180320
+2107,Placebo,0,20170602,16,Acid reflux,Gastrointestinal,Mild,No,1,0,20180326,2,20180328
+2107,Placebo,0,20170602,17,Vertigo,Other,Moderate,No,2,0,20180331,9,20180409
+2107,Placebo,0,20170602,18,Anemia,Blood and lymphatic,Moderate,No,2,0,20180429,11,20180510
+2107,Placebo,0,20170602,19,Depression,Psychiatric,Moderate,No,2,0,20180510,5,20180515
+2107,Placebo,0,20170602,20,Other,Blood and lymphatic,Mild,No,1,0,20180510,5,20180515
+2108,Placebo,0,20161213,1,Acid reflux,Gastrointestinal,Mild,No,1,0,20170212,3,20170215
+2108,Placebo,0,20161213,2,Vitamin D deficiency,Dermatological,Mild,No,1,0,20170224,5,20170301
+2108,Placebo,0,20161213,3,Anemia,Blood and lymphatic,Mild,No,1,0,20170303,10,20170313
+2108,Placebo,0,20161213,4,Anemia,Blood and lymphatic,Mild,No,1,0,20170307,9,20170316
+2108,Placebo,0,20161213,5,Headache,Neurological,Mild,No,1,0,20170816,6,20170822
+2108,Placebo,0,20161213,6,Anemia,Blood and lymphatic,Mild,No,1,0,20170818,9,20170827
+2108,Placebo,0,20161213,7,Anemia,Blood and lymphatic,Moderate,No,2,0,20171002,4,20171006
+2108,Placebo,0,20161213,8,Ear pain,"Eyes, ear, nose, throat",Mild,No,1,0,20171115,10,20171125

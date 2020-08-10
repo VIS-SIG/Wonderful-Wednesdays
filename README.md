@@ -18,15 +18,15 @@ We will make the submissions available to the community together with highlights
 
 ## Current data set
 
-* Presented on **July 8th, 2020**. The current [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-07-08) presents a challenge on how to display data from such a trial. Typical studies use two types of visualisation: Time to first exacerbation (ignoring any subsequent exacerbations) and forest plots of subgroups (no information on number of exacerbations). Chronic Obstructive Pulmonary Disease (COPD) is a respiratory disease characterised by difficulty breathing and has increased mortality. An exacerbation can be life-threatening if not treated promptly.Data is based on the RISE study for patients with [moderate COPD](https://www.resmedjournal.com/article/S0954-6111(17)30314-1/fulltext). 
+* Presented on **August 12th, 2020**. The current example data set focuses on [Adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12). The example dataset is based on a clinical trial of an active treatment for eczema compared to placebo in adolescents that are unresponsive to standard care. The primary outcome was a continuous outcome that measured the extent and severity of eczema at 6 months. Participants were treated with either active treatment or placebo for 6 months and then followed-up for a further 6 months. AEs were monitored and collected for the entire 12 month study period.
 
-Are there ways to present [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-07-08/2020-07-08-COPD-PSI-data.csv) in a more informative and effective way? 
+Typically adverse events are presented in tables or patient listing. Are there ways to present [Adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12) in a more informative and effective way? 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**August 5th, 2020**. 
+**August 12th, 2020**. 
 
 ## Previous data sets 
 
@@ -37,6 +37,8 @@ Are there ways to present [COPD dataset](https://github.com/VIS-SIG/Wonderful-We
 * [Subgroup data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-05-13). Presented on **May 14th, 2020**. 
 
 * [Haemoglobin in Anaemia](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-06-10). Presented on **June 10th, 2020**. 
+
+* [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-07-08). Presented on **July 8th, 2020**.  
 
 
 ## Downloading single files
