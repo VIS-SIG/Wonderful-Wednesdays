@@ -1,6 +1,8 @@
 # Wonderful Wednesdays
 
-https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
+**August 12th, 2020**. The current example data set focuses on [adverse events set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12).
+
+For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
 ## Learn and Apply Key Principles of Data Visualisations
 The data visualization special interest group (VIS SIG) was recently founded under the umbrella of EFSPI and PSI. Learn more about the VIS SIG.
