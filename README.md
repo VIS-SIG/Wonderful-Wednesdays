@@ -32,7 +32,7 @@ Typically adverse events are presented in tables or patient listing. Are there w
 
 ## Previous data sets 
 
-* [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Present on **March 11th, 2020**. 
+* [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Presented on **March 11th, 2020**. 
 
 * [Survival / time to event](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-04-08). Presented on **April 7th, 2020**. 
 
