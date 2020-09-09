@@ -28,7 +28,7 @@ Are there ways to present [adverse events set](https://raw.githubusercontent.com
 
 ## Next Webinar
 
-**August 12th, 2020**. 
+**October 14th, 2020**. 
 
 ## Previous data sets 
 
