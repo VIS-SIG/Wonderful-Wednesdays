@@ -26,6 +26,10 @@ Table of contents for the 2020 webinar series data sets.
     events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12).
     Presented on **August 12th, 2020**
 
+  - [Adverse
+    events II](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09).
+    Presented on **September 9th, 2020**
+
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
 further
