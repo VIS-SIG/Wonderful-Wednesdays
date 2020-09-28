@@ -28,4 +28,4 @@ AEs were monitored and collected for the entire course of the study.
 
 # Downloading CSV file
 
-*NOTE* to download a single data set as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv), click on the raw button and save the file. The following link describes the process in further detail.
+*NOTE* to download a single data set as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv), click on the raw button and save the file. The following [link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
