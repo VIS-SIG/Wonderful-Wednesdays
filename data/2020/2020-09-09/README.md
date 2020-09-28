@@ -26,4 +26,6 @@ AEs were monitored and collected for the entire course of the study.
 * Severity:  severity of adverse event
 
 
+# Downloading CSV file
 
+*NOTE* to download a single data set as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv), click on the raw button and save the file. The following link describes the process in further detail.
