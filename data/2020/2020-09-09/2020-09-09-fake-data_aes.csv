@@ -1,394 +1,394 @@
-"Subject";"Start";"End";"Adverse Event";"Treatment";"System";"Severity";"Sex"
-"FAKE-DATA-10118";"182";"186";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10118";"182";"186";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10118";"69";"70";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10118";"69";"70";"Injection site haematoma";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10033";"86";"89";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10033";"86";"89";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10033";"31";"41";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10033";"31";"41";"Eye irritation";"Treatment A";"Eye disorders";"SEVERE";"M"
-"FAKE-DATA-10006";"184";"185";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10006";"184";"185";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10006";"86";"87";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10006";"86";"87";"Deafness neurosensory";"Treatment A";"Ear and labyrinth disorders";"MILD";"M"
-"FAKE-DATA-10168";"326";"329";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10168";"326";"329";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10168";"284";"288";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10168";"284";"288";"Pharyngitis";"Treatment A";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10124";"6";"13";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10124";"6";"13";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10124";"207";"228";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10124";"207";"228";"Sensation of foreign body";"Treatment A";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10082";"322";"323";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10082";"322";"323";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10082";"223";"224";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10082";"223";"224";"Inflammatory pain";"Treatment A";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10199";"293";"296";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10199";"293";"296";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10199";"147";"148";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10199";"147";"148";"Vitreous floaters";"Treatment A";"Eye disorders";"SEVERE";"F"
-"FAKE-DATA-10182";"52";"70";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10182";"52";"70";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10182";"24";"38";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10182";"24";"38";"Food poisoning";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10095";"222";"223";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10095";"222";"223";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10095";"344";"346";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10095";"344";"346";"Atrial tachycardia";"Treatment A";"Cardiac disorders";"MILD";"F"
-"FAKE-DATA-10021";"98";"104";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10021";"98";"104";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10021";"142";"155";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10021";"142";"155";"Iron deficiency anaemia";"Treatment A";"Blood and lymphatic system disorders";"NA";"M"
-"FAKE-DATA-10133";"327";"330";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10133";"327";"330";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10133";"7";"13";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10133";"7";"13";"Diverticulitis";"Treatment A";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10112";"120";"128";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10112";"120";"128";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10112";"121";"122";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10112";"121";"122";"Otitis externa";"Treatment A";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10014";"203";"204";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10014";"203";"204";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10014";"306";"308";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10014";"306";"308";"Injection site erythema";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10023";"66";"69";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10023";"66";"69";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10023";"336";"340";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10023";"336";"340";"Pneumonia";"Treatment A";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10031";"255";"256";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10031";"255";"256";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10031";"174";"178";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10031";"174";"178";"Pain";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10131";"131";"144";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10131";"131";"144";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10131";"137";"146";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10131";"137";"146";"Oral candidiasis";"Treatment A";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10162";"123";"124";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10162";"123";"124";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10162";"249";"253";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10162";"249";"253";"Folliculitis";"Treatment A";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10097";"220";"226";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10097";"220";"226";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10097";"34";"36";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10097";"34";"36";"Hypoaesthesia oral";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10037";"196";"198";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10037";"196";"198";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10037";"43";"52";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10037";"43";"52";"Keratitis";"Treatment A";"Eye disorders";"NA";"M"
-"FAKE-DATA-10124";"115";"116";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10124";"115";"116";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10124";"254";"258";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10124";"254";"258";"Chronic tonsillitis";"Treatment A";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10085";"19";"20";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10085";"19";"20";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10085";"319";"321";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10085";"319";"321";"Respiratory tract infection";"Treatment A";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10150";"286";"297";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10150";"286";"297";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10150";"95";"96";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10150";"95";"96";"Injection site nodule";"Treatment A";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10052";"68";"69";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10052";"68";"69";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10052";"300";"308";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10052";"300";"308";"Injection site pain";"Treatment A";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10070";"231";"232";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10070";"231";"232";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10070";"290";"291";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10070";"290";"291";"Iritis";"Treatment A";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10000";"199";"202";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10000";"199";"202";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10000";"220";"224";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10000";"220";"224";"Hordeolum";"Treatment A";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10084";"125";"126";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10084";"125";"126";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10084";"21";"23";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10084";"21";"23";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10087";"239";"242";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10087";"239";"242";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10087";"266";"267";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10087";"266";"267";"Chronic sinusitis";"Treatment A";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10039";"228";"230";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10039";"228";"230";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10039";"9";"10";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10039";"9";"10";"Injection site hypersensitivity";"Treatment A";"General disorders and administration site conditions";"NA";"M"
-"FAKE-DATA-10045";"190";"194";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10045";"190";"194";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10045";"303";"304";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10045";"303";"304";"Injection site mass";"Treatment A";"General disorders and administration site conditions";"MODERATE";"F"
-"FAKE-DATA-10124";"65";"66";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10124";"65";"66";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10124";"268";"283";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10124";"268";"283";"Hypoaesthesia oral";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10091";"31";"41";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10091";"31";"41";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10091";"85";"87";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10091";"85";"87";"Oral candidiasis";"Treatment A";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10144";"244";"251";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10144";"244";"251";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10144";"243";"250";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10144";"243";"250";"Vitreous floaters";"Treatment A";"Eye disorders";"MILD";"F"
-"FAKE-DATA-10156";"310";"311";"Nausea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10156";"310";"311";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10156";"111";"117";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10156";"111";"117";"Food poisoning";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10051";"1";"19";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10051";"1";"19";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10051";"339";"340";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10051";"339";"340";"Ear infection fungal";"Treatment A";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10055";"214";"221";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10055";"214";"221";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10055";"339";"341";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10055";"339";"341";"Folliculitis";"Treatment A";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10040";"22";"37";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10040";"22";"37";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10040";"127";"128";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10040";"127";"128";"Injection site erythema";"Treatment A";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10070";"240";"241";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10070";"240";"241";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10070";"34";"36";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10070";"34";"36";"Chronic tonsillitis";"Treatment A";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10020";"64";"71";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10020";"64";"71";"Vomiting";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10020";"237";"245";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10020";"237";"245";"Cystitis";"Treatment A";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10099";"237";"238";"Nausea";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10099";"237";"238";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10099";"30";"32";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10099";"30";"32";"Autoimmune thyroiditis";"Treatment A";"Endocrine disorders";"SEVERE";"F"
-"FAKE-DATA-10084";"203";"209";"Nausea";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10084";"203";"209";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10084";"229";"232";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10084";"229";"232";"Proctitis ulcerative";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10105";"220";"221";"Nausea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10105";"220";"221";"Vomiting";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10105";"230";"231";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10105";"230";"231";"Asthenopia";"Treatment A";"Eye disorders";"SEVERE";"M"
-"FAKE-DATA-10027";"135";"142";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10009";"114";"131";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10038";"99";"101";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10051";"95";"96";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10122";"339";"340";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10183";"321";"331";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10142";"220";"221";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10016";"317";"318";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10163";"328";"334";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10014";"182";"183";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10192";"354";"359";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10156";"255";"256";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10012";"334";"339";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10161";"208";"221";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10149";"313";"314";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10029";"359";"363";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10045";"204";"212";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10087";"152";"154";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10047";"9";"13";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10142";"17";"18";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10115";"159";"161";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10187";"213";"230";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10090";"22";"23";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10029";"49";"62";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10140";"160";"182";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10137";"173";"182";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10076";"205";"217";"Naseopharyngitis";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10058";"222";"223";"Oral pain";"Treatment A";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10188";"62";"63";"Localised infection";"Treatment A";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10197";"122";"123";"Ear pruritus";"Treatment A";"Ear and labyrinth disorders";"SEVERE";"F"
-"FAKE-DATA-10137";"125";"126";"Crohn's disease";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10161";"32";"33";"Injection site dermatitis";"Treatment A";"General disorders and administration site conditions";"NA";"M"
-"FAKE-DATA-10191";"190";"194";"Fatigue";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10026";"27";"42";"Injection site paraesthesia";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10049";"259";"260";"Peripheral swelling";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10025";"278";"279";"Injection site pruritus";"Treatment A";"General disorders and administration site conditions";"NA";"M"
-"FAKE-DATA-10122";"258";"259";"Influenza like illness";"Treatment A";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10022";"138";"145";"Inflammatory pain";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10108";"217";"218";"Rhinitis";"Treatment A";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10157";"292";"293";"Injection site reaction";"Treatment A";"General disorders and administration site conditions";"MODERATE";"M"
-"FAKE-DATA-10034";"202";"203";"Constipation";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10100";"64";"66";"Leukopenia";"Treatment A";"Blood and lymphatic system disorders";"MILD";"F"
-"FAKE-DATA-10185";"344";"347";"Diarrhea";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10114";"42";"49";"External ear inflammation";"Treatment A";"Ear and labyrinth disorders";"MODERATE";"F"
-"FAKE-DATA-10179";"85";"97";"Pneumonia";"Treatment A";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10145";"339";"344";"Fungal skin infection";"Treatment A";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10129";"205";"206";"Hernia";"Treatment A";"General disorders and administration site conditions";"NA";"M"
-"FAKE-DATA-10189";"272";"273";"Injection site haematoma";"Treatment A";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10060";"37";"46";"Abdominal tenderness";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10109";"106";"109";"Iridocyclitis";"Treatment A";"Eye disorders";"SEVERE";"F"
-"FAKE-DATA-10169";"191";"197";"Injection site haematoma";"Treatment A";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10062";"188";"189";"Herpes zoster";"Treatment A";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10143";"279";"282";"Chronic sinusitis";"Treatment A";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10067";"124";"125";"Respiratory tract infection";"Treatment A";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10035";"165";"167";"Injection site pruritus";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10076";"289";"293";"Oral pain";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10121";"68";"69";"Intra-abdominal haematoma";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10090";"214";"215";"Vertigo";"Treatment A";"Ear and labyrinth disorders";"MILD";"F"
-"FAKE-DATA-10007";"179";"183";"Anal incontinence";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10037";"97";"100";"Injection site pruritus";"Treatment A";"General disorders and administration site conditions";"MODERATE";"M"
-"FAKE-DATA-10179";"186";"189";"Injection site nodule";"Treatment A";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10082";"110";"113";"Conjunctivitis allergic";"Treatment A";"Eye disorders";"MILD";"F"
-"FAKE-DATA-10137";"118";"122";"Vomiting";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10075";"173";"181";"Gallbladder cholesterolosis";"Treatment A";"Hepatobiliary disorders";"MILD";"M"
-"FAKE-DATA-10189";"320";"321";"Meibomianitis";"Treatment A";"Eye disorders";"MODERATE";"F"
-"FAKE-DATA-10177";"213";"215";"Injection site urticaria";"Treatment A";"General disorders and administration site conditions";"MODERATE";"F"
-"FAKE-DATA-10147";"194";"199";"Subileus";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10036";"153";"155";"Constipation";"Treatment A";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10133";"7";"16";"Peritonsillar abscess";"Treatment A";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10061";"199";"200";"Tinnitus";"Treatment A";"Ear and labyrinth disorders";"NA";"M"
-"FAKE-DATA-10026";"222";"223";"Conjunctivitis";"Treatment A";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10126";"107";"108";"Gastritis";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10151";"135";"137";"Injection site mass";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10185";"235";"255";"Sinusitis";"Treatment A";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10186";"96";"98";"Flatulence";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10134";"177";"184";"Asthenopia";"Treatment A";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10084";"128";"129";"Duodenitis";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10076";"242";"244";"Asthenopia";"Treatment A";"Eye disorders";"NA";"F"
-"FAKE-DATA-10190";"328";"330";"Injection site rash";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10096";"254";"261";"Acute sinusitis";"Treatment A";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10001";"271";"273";"Ear infection fungal";"Treatment A";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10196";"81";"87";"Angina unstable";"Treatment A";"Cardiac disorders";"MODERATE";"M"
-"FAKE-DATA-10044";"167";"170";"Folliculitis";"Treatment A";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10107";"65";"76";"Gastrooesophageal reflux disease";"Treatment A";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10169";"72";"75";"Diverticulitis";"Treatment A";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10106";"111";"114";"Astigmatism";"Treatment A";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10135";"24";"25";"Injection site dermatitis";"Treatment A";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10097";"149";"156";"Fatigue";"Treatment A";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10083";"149";"150";"Flatulence";"Treatment A";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10055";"163";"167";"Injection site nodule";"Treatment A";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10063";"273";"277";"Abdominal tenderness";"Treatment A";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10061";"90";"98";"Proctalgia";"Treatment A";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10199";"12";"15";"Peritonitis";"Treatment A";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10069";"203";"204";"Glossodynia";"Treatment A";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10152";"98";"106";"Food poisoning";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10054";"350";"351";"Episcleritis";"Treatment B";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10185";"59";"62";"Paronychia";"Treatment B";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10033";"281";"290";"Localised infection";"Treatment B";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10049";"90";"108";"Inflammatory bowel disease";"Treatment B";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10033";"184";"186";"Nausea";"Treatment B";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10143";"9";"14";"Furuncle";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10097";"359";"360";"Paronychia";"Treatment B";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10179";"339";"342";"Inflammatory bowel disease";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10173";"217";"218";"Atrial fibrillation";"Treatment B";"Cardiac disorders";"MODERATE";"F"
-"FAKE-DATA-10012";"121";"134";"Herpes zoster";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10098";"7";"10";"Sensation of foreign body";"Treatment B";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10000";"124";"125";"Gallbladder cholesterolosis";"Treatment B";"Hepatobiliary disorders";"SEVERE";"M"
-"FAKE-DATA-10086";"42";"50";"Hordeolum";"Treatment B";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10043";"151";"152";"Cystitis";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10128";"32";"35";"Leukopenia";"Treatment B";"Blood and lymphatic system disorders";"MILD";"M"
-"FAKE-DATA-10170";"308";"313";"Paronychia";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10087";"211";"218";"Aphthous ulcer";"Treatment B";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10115";"170";"173";"Meibomianitis";"Treatment B";"Eye disorders";"MILD";"M"
-"FAKE-DATA-10133";"49";"52";"Respiratory tract infection";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10057";"140";"141";"Folliculitis";"Treatment B";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10043";"328";"333";"Conjunctival haemorrhage";"Treatment B";"Eye disorders";"MILD";"M"
-"FAKE-DATA-10164";"24";"26";"Gallbladder cholesterolosis";"Treatment B";"Hepatobiliary disorders";"SEVERE";"M"
-"FAKE-DATA-10086";"157";"158";"Splenomegaly";"Treatment B";"Blood and lymphatic system disorders";"MODERATE";"M"
-"FAKE-DATA-10136";"153";"157";"Malaise";"Treatment B";"General disorders and administration site conditions";"MODERATE";"M"
-"FAKE-DATA-10115";"205";"206";"Blepharitis";"Treatment B";"Eye disorders";"NA";"M"
-"FAKE-DATA-10061";"310";"311";"Gingival pain";"Treatment B";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10181";"7";"10";"Keratitis";"Treatment B";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10121";"83";"98";"Diarrhoea infectious";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10016";"189";"197";"Proctalgia";"Treatment B";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10137";"319";"336";"Ear pain";"Treatment B";"Ear and labyrinth disorders";"MODERATE";"F"
-"FAKE-DATA-10193";"56";"57";"Autoimmune thyroiditis";"Treatment B";"Endocrine disorders";"MODERATE";"M"
-"FAKE-DATA-10084";"283";"306";"Deafness neurosensory";"Treatment B";"Ear and labyrinth disorders";"MILD";"F"
-"FAKE-DATA-10026";"333";"345";"Subileus";"Treatment B";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10101";"22";"23";"Ear infection fungal";"Treatment B";"Infections and infestations";"MODERATE";"M"
-"FAKE-DATA-10136";"265";"266";"Peripheral swelling";"Treatment B";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10182";"294";"297";"Hypothyroidism";"Treatment B";"Endocrine disorders";"MODERATE";"M"
-"FAKE-DATA-10140";"183";"187";"Bronchitis";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10023";"166";"172";"Peritonitis";"Treatment B";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10196";"43";"44";"Feeling cold";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10151";"14";"15";"Otitis externa";"Treatment B";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10040";"270";"271";"Sinusitis";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10161";"58";"59";"Ear pruritus";"Treatment B";"Ear and labyrinth disorders";"MILD";"M"
-"FAKE-DATA-10120";"286";"288";"Otitis media";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10115";"131";"143";"Tinnitus";"Treatment B";"Ear and labyrinth disorders";"SEVERE";"M"
-"FAKE-DATA-10190";"235";"236";"Gastroenteritis";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10081";"303";"313";"Malaise";"Treatment B";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10136";"343";"347";"Blepharitis";"Treatment B";"Eye disorders";"MILD";"M"
-"FAKE-DATA-10174";"75";"81";"Haematochezia";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10112";"130";"131";"Localised infection";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10108";"152";"162";"Iridocyclitis";"Treatment B";"Eye disorders";"MODERATE";"M"
-"FAKE-DATA-10064";"84";"87";"Iridocyclitis";"Treatment B";"Eye disorders";"MILD";"M"
-"FAKE-DATA-10072";"212";"221";"Food poisoning";"Treatment B";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10063";"203";"204";"Sinus bradycardia";"Treatment B";"Cardiac disorders";"MILD";"M"
-"FAKE-DATA-10056";"83";"84";"Dental caries";"Treatment B";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10086";"200";"208";"Corneal disorder";"Treatment B";"Eye disorders";"NA";"M"
-"FAKE-DATA-10047";"322";"325";"Bullous impetigo";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10073";"338";"346";"Meibomianitis";"Treatment B";"Eye disorders";"NA";"M"
-"FAKE-DATA-10088";"175";"178";"Pertussis";"Treatment B";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10152";"151";"171";"Sinus bradycardia";"Treatment B";"Cardiac disorders";"SEVERE";"F"
-"FAKE-DATA-10118";"40";"42";"Colitis";"Treatment B";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10099";"290";"296";"Injection site hypersensitivity";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10178";"103";"108";"Toothache";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10183";"126";"130";"Flatulence";"Treatment B";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10122";"6";"7";"Palpitations";"Treatment B";"Cardiac disorders";"NA";"M"
-"FAKE-DATA-10096";"324";"332";"Gastroenteritis bacterial";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10101";"295";"296";"Glossodynia";"Treatment B";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10002";"16";"23";"Injection site mass";"Treatment B";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10059";"348";"349";"Injection site mass";"Treatment B";"General disorders and administration site conditions";"SEVERE";"F"
-"FAKE-DATA-10138";"69";"78";"Injection site reaction";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10127";"45";"46";"Anaemia";"Treatment B";"Blood and lymphatic system disorders";"SEVERE";"M"
-"FAKE-DATA-10142";"214";"224";"Peritonitis";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10045";"50";"51";"Abdominal pain";"Treatment B";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10166";"223";"231";"Face oedema";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10038";"177";"178";"Feeling cold";"Treatment B";"General disorders and administration site conditions";"MODERATE";"M"
-"FAKE-DATA-10074";"41";"42";"Cystitis";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10000";"263";"266";"Inflammatory pain";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10157";"82";"86";"Pain";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10105";"341";"357";"Angina pectoris";"Treatment B";"Cardiac disorders";"SEVERE";"M"
-"FAKE-DATA-10162";"109";"110";"Genital candidiasis";"Treatment B";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10076";"33";"40";"Eye irritation";"Treatment B";"Eye disorders";"MODERATE";"F"
-"FAKE-DATA-10107";"118";"120";"Injection site pain";"Treatment B";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10165";"223";"230";"Folliculitis";"Treatment B";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10059";"201";"202";"Eye irritation";"Treatment B";"Eye disorders";"MODERATE";"F"
-"FAKE-DATA-10156";"316";"317";"Eye pruritus";"Treatment B";"Eye disorders";"MODERATE";"F"
-"FAKE-DATA-10197";"208";"210";"Injection site pruritus";"Treatment B";"General disorders and administration site conditions";"NA";"F"
-"FAKE-DATA-10054";"198";"199";"Injection site mass";"Treatment B";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10059";"46";"48";"Pneumonia";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10095";"66";"68";"Pyelonephritis";"Treatment B";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10130";"125";"128";"Non-cardiac chest pain";"Treatment B";"General disorders and administration site conditions";"SEVERE";"M"
-"FAKE-DATA-10049";"325";"327";"Dental caries";"Treatment B";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10121";"85";"89";"Abdominal tenderness";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10007";"93";"95";"Asthenia";"Treatment B";"General disorders and administration site conditions";"NA";"M"
-"FAKE-DATA-10185";"85";"89";"Cystitis";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10006";"338";"345";"Injection site urticaria";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10007";"16";"25";"Gastroenteritis viral";"Treatment B";"Infections and infestations";"SEVERE";"M"
-"FAKE-DATA-10014";"353";"354";"Palpitations";"Treatment B";"Cardiac disorders";"MODERATE";"M"
-"FAKE-DATA-10034";"176";"177";"Abdominal tenderness";"Treatment B";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10007";"216";"219";"Deafness neurosensory";"Treatment B";"Ear and labyrinth disorders";"NA";"M"
-"FAKE-DATA-10054";"71";"87";"Eye inflammation";"Treatment B";"Eye disorders";"NA";"M"
-"FAKE-DATA-10095";"27";"28";"Keratopathy";"Treatment B";"Eye disorders";"NA";"F"
-"FAKE-DATA-10003";"205";"209";"Chest discomfort";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10019";"277";"278";"Diarrhoea infectious";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10152";"136";"138";"Flatulence";"Treatment B";"Gastrointestinal disorders";"MILD";"F"
-"FAKE-DATA-10144";"210";"213";"Paronychia";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10137";"96";"97";"Injection site mass";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10004";"292";"295";"Proctitis ulcerative";"Treatment B";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10168";"5";"12";"Iritis";"Treatment B";"Eye disorders";"NA";"F"
-"FAKE-DATA-10162";"42";"43";"Otitis media";"Treatment B";"Infections and infestations";"MODERATE";"F"
-"FAKE-DATA-10053";"283";"285";"Irritable bowel syndrome";"Treatment B";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10101";"277";"281";"Mouth ulceration";"Treatment B";"Gastrointestinal disorders";"NA";"M"
-"FAKE-DATA-10143";"94";"100";"Hordeolum";"Treatment B";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10077";"296";"297";"Chronic sinusitis";"Treatment B";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10147";"136";"138";"Conjunctivitis";"Treatment B";"Infections and infestations";"MILD";"M"
-"FAKE-DATA-10102";"27";"32";"Intra-abdominal haematoma";"Treatment B";"Gastrointestinal disorders";"SEVERE";"M"
-"FAKE-DATA-10030";"77";"89";"Injection site hypersensitivity";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10096";"126";"137";"Gastritis";"Treatment B";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10015";"271";"285";"Bronchitis";"Treatment B";"Infections and infestations";"SEVERE";"F"
-"FAKE-DATA-10189";"220";"231";"Corneal disorder";"Treatment B";"Eye disorders";"NA";"F"
-"FAKE-DATA-10094";"77";"84";"Injection site haematoma";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10186";"236";"244";"Meibomianitis";"Treatment B";"Eye disorders";"MILD";"M"
-"FAKE-DATA-10096";"15";"16";"Otitis media";"Treatment B";"Infections and infestations";"NA";"F"
-"FAKE-DATA-10186";"26";"33";"Toothache";"Treatment B";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10080";"324";"325";"Injection site pain";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10047";"201";"204";"Fatigue";"Treatment B";"General disorders and administration site conditions";"MILD";"F"
-"FAKE-DATA-10027";"257";"268";"Subileus";"Treatment B";"Gastrointestinal disorders";"MODERATE";"F"
-"FAKE-DATA-10111";"232";"234";"Sinusitis";"Treatment B";"Infections and infestations";"NA";"M"
-"FAKE-DATA-10154";"199";"200";"Herpes zoster";"Treatment B";"Infections and infestations";"MILD";"F"
-"FAKE-DATA-10180";"246";"249";"Injection site pain";"Treatment B";"General disorders and administration site conditions";"MILD";"M"
-"FAKE-DATA-10179";"69";"70";"Abdominal tenderness";"Treatment B";"Gastrointestinal disorders";"NA";"F"
-"FAKE-DATA-10170";"357";"363";"Inguinal hernia";"Treatment B";"Gastrointestinal disorders";"MILD";"M"
-"FAKE-DATA-10057";"41";"45";"Toothache";"Treatment B";"Gastrointestinal disorders";"MODERATE";"M"
-"FAKE-DATA-10026";"167";"181";"Colitis ulcerative";"Treatment B";"Gastrointestinal disorders";"SEVERE";"F"
-"FAKE-DATA-10109";"75";"79";"Meibomianitis";"Treatment B";"Eye disorders";"MODERATE";"F"
-"FAKE-DATA-10124";"329";"330";"Atrial fibrillation";"Treatment B";"Cardiac disorders";"MODERATE";"F"
+Subject,Start,End,Adverse Event,Treatment,System,Severity,Sex
+FAKE-DATA-10118,182,186,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10118,182,186,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10118,69,70,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10118,69,70,Injection site haematoma,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10033,86,89,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10033,86,89,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10033,31,41,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10033,31,41,Eye irritation,Treatment A,Eye disorders,SEVERE,M
+FAKE-DATA-10006,184,185,Nausea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10006,184,185,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10006,86,87,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10006,86,87,Deafness neurosensory,Treatment A,Ear and labyrinth disorders,MILD,M
+FAKE-DATA-10168,326,329,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10168,326,329,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10168,284,288,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10168,284,288,Pharyngitis,Treatment A,Infections and infestations,SEVERE,F
+FAKE-DATA-10124,6,13,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10124,6,13,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10124,207,228,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10124,207,228,Sensation of foreign body,Treatment A,General disorders and administration site conditions,NA,F
+FAKE-DATA-10082,322,323,Nausea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10082,322,323,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10082,223,224,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10082,223,224,Inflammatory pain,Treatment A,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10199,293,296,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10199,293,296,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10199,147,148,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10199,147,148,Vitreous floaters,Treatment A,Eye disorders,SEVERE,F
+FAKE-DATA-10182,52,70,Nausea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10182,52,70,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10182,24,38,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10182,24,38,Food poisoning,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10095,222,223,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10095,222,223,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10095,344,346,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10095,344,346,Atrial tachycardia,Treatment A,Cardiac disorders,MILD,F
+FAKE-DATA-10021,98,104,Nausea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10021,98,104,Vomiting,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10021,142,155,Diarrhea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10021,142,155,Iron deficiency anaemia,Treatment A,Blood and lymphatic system disorders,NA,M
+FAKE-DATA-10133,327,330,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10133,327,330,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10133,7,13,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10133,7,13,Diverticulitis,Treatment A,Infections and infestations,NA,F
+FAKE-DATA-10112,120,128,Nausea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10112,120,128,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10112,121,122,Diarrhea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10112,121,122,Otitis externa,Treatment A,Infections and infestations,NA,M
+FAKE-DATA-10014,203,204,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10014,203,204,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10014,306,308,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10014,306,308,Injection site erythema,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10023,66,69,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10023,66,69,Vomiting,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10023,336,340,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10023,336,340,Pneumonia,Treatment A,Infections and infestations,SEVERE,F
+FAKE-DATA-10031,255,256,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10031,255,256,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10031,174,178,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10031,174,178,Pain,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10131,131,144,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10131,131,144,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10131,137,146,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10131,137,146,Oral candidiasis,Treatment A,Infections and infestations,MILD,M
+FAKE-DATA-10162,123,124,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10162,123,124,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10162,249,253,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10162,249,253,Folliculitis,Treatment A,Infections and infestations,NA,F
+FAKE-DATA-10097,220,226,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10097,220,226,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10097,34,36,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10097,34,36,Hypoaesthesia oral,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10037,196,198,Nausea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10037,196,198,Vomiting,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10037,43,52,Diarrhea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10037,43,52,Keratitis,Treatment A,Eye disorders,NA,M
+FAKE-DATA-10124,115,116,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10124,115,116,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10124,254,258,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10124,254,258,Chronic tonsillitis,Treatment A,Infections and infestations,MILD,F
+FAKE-DATA-10085,19,20,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10085,19,20,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10085,319,321,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10085,319,321,Respiratory tract infection,Treatment A,Infections and infestations,SEVERE,F
+FAKE-DATA-10150,286,297,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10150,286,297,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10150,95,96,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10150,95,96,Injection site nodule,Treatment A,General disorders and administration site conditions,NA,F
+FAKE-DATA-10052,68,69,Nausea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10052,68,69,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10052,300,308,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10052,300,308,Injection site pain,Treatment A,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10070,231,232,Nausea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10070,231,232,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10070,290,291,Diarrhea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10070,290,291,Iritis,Treatment A,Eye disorders,MODERATE,M
+FAKE-DATA-10000,199,202,Nausea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10000,199,202,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10000,220,224,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10000,220,224,Hordeolum,Treatment A,Infections and infestations,MILD,M
+FAKE-DATA-10084,125,126,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10084,125,126,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10084,21,23,Diarrhea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10084,21,23,Diarrhea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10087,239,242,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10087,239,242,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10087,266,267,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10087,266,267,Chronic sinusitis,Treatment A,Infections and infestations,SEVERE,M
+FAKE-DATA-10039,228,230,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10039,228,230,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10039,9,10,Diarrhea,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10039,9,10,Injection site hypersensitivity,Treatment A,General disorders and administration site conditions,NA,M
+FAKE-DATA-10045,190,194,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10045,190,194,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10045,303,304,Diarrhea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10045,303,304,Injection site mass,Treatment A,General disorders and administration site conditions,MODERATE,F
+FAKE-DATA-10124,65,66,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10124,65,66,Vomiting,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10124,268,283,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10124,268,283,Hypoaesthesia oral,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10091,31,41,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10091,31,41,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10091,85,87,Diarrhea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10091,85,87,Oral candidiasis,Treatment A,Infections and infestations,MODERATE,M
+FAKE-DATA-10144,244,251,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10144,244,251,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10144,243,250,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10144,243,250,Vitreous floaters,Treatment A,Eye disorders,MILD,F
+FAKE-DATA-10156,310,311,Nausea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10156,310,311,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10156,111,117,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10156,111,117,Food poisoning,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10051,1,19,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10051,1,19,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10051,339,340,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10051,339,340,Ear infection fungal,Treatment A,Infections and infestations,SEVERE,M
+FAKE-DATA-10055,214,221,Nausea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10055,214,221,Vomiting,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10055,339,341,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10055,339,341,Folliculitis,Treatment A,Infections and infestations,SEVERE,M
+FAKE-DATA-10040,22,37,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10040,22,37,Vomiting,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10040,127,128,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10040,127,128,Injection site erythema,Treatment A,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10070,240,241,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10070,240,241,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10070,34,36,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10070,34,36,Chronic tonsillitis,Treatment A,Infections and infestations,MILD,M
+FAKE-DATA-10020,64,71,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10020,64,71,Vomiting,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10020,237,245,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10020,237,245,Cystitis,Treatment A,Infections and infestations,SEVERE,M
+FAKE-DATA-10099,237,238,Nausea,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10099,237,238,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10099,30,32,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10099,30,32,Autoimmune thyroiditis,Treatment A,Endocrine disorders,SEVERE,F
+FAKE-DATA-10084,203,209,Nausea,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10084,203,209,Vomiting,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10084,229,232,Diarrhea,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10084,229,232,Proctitis ulcerative,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10105,220,221,Nausea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10105,220,221,Vomiting,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10105,230,231,Diarrhea,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10105,230,231,Asthenopia,Treatment A,Eye disorders,SEVERE,M
+FAKE-DATA-10027,135,142,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10009,114,131,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10038,99,101,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10051,95,96,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10122,339,340,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10183,321,331,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10142,220,221,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10016,317,318,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10163,328,334,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10014,182,183,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10192,354,359,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10156,255,256,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10012,334,339,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10161,208,221,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10149,313,314,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10029,359,363,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10045,204,212,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10087,152,154,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10047,9,13,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10142,17,18,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10115,159,161,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10187,213,230,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10090,22,23,Naseopharyngitis,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10029,49,62,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,M
+FAKE-DATA-10140,160,182,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10137,173,182,Naseopharyngitis,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10076,205,217,Naseopharyngitis,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10058,222,223,Oral pain,Treatment A,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10188,62,63,Localised infection,Treatment A,Infections and infestations,MODERATE,M
+FAKE-DATA-10197,122,123,Ear pruritus,Treatment A,Ear and labyrinth disorders,SEVERE,F
+FAKE-DATA-10137,125,126,Crohn's disease,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10161,32,33,Injection site dermatitis,Treatment A,General disorders and administration site conditions,NA,M
+FAKE-DATA-10191,190,194,Fatigue,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10026,27,42,Injection site paraesthesia,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10049,259,260,Peripheral swelling,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10025,278,279,Injection site pruritus,Treatment A,General disorders and administration site conditions,NA,M
+FAKE-DATA-10122,258,259,Influenza like illness,Treatment A,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10022,138,145,Inflammatory pain,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10108,217,218,Rhinitis,Treatment A,Infections and infestations,MILD,M
+FAKE-DATA-10157,292,293,Injection site reaction,Treatment A,General disorders and administration site conditions,MODERATE,M
+FAKE-DATA-10034,202,203,Constipation,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10100,64,66,Leukopenia,Treatment A,Blood and lymphatic system disorders,MILD,F
+FAKE-DATA-10185,344,347,Diarrhea,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10114,42,49,External ear inflammation,Treatment A,Ear and labyrinth disorders,MODERATE,F
+FAKE-DATA-10179,85,97,Pneumonia,Treatment A,Infections and infestations,MILD,F
+FAKE-DATA-10145,339,344,Fungal skin infection,Treatment A,Infections and infestations,MODERATE,M
+FAKE-DATA-10129,205,206,Hernia,Treatment A,General disorders and administration site conditions,NA,M
+FAKE-DATA-10189,272,273,Injection site haematoma,Treatment A,General disorders and administration site conditions,NA,F
+FAKE-DATA-10060,37,46,Abdominal tenderness,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10109,106,109,Iridocyclitis,Treatment A,Eye disorders,SEVERE,F
+FAKE-DATA-10169,191,197,Injection site haematoma,Treatment A,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10062,188,189,Herpes zoster,Treatment A,Infections and infestations,SEVERE,M
+FAKE-DATA-10143,279,282,Chronic sinusitis,Treatment A,Infections and infestations,MODERATE,F
+FAKE-DATA-10067,124,125,Respiratory tract infection,Treatment A,Infections and infestations,MILD,M
+FAKE-DATA-10035,165,167,Injection site pruritus,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10076,289,293,Oral pain,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10121,68,69,Intra-abdominal haematoma,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10090,214,215,Vertigo,Treatment A,Ear and labyrinth disorders,MILD,F
+FAKE-DATA-10007,179,183,Anal incontinence,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10037,97,100,Injection site pruritus,Treatment A,General disorders and administration site conditions,MODERATE,M
+FAKE-DATA-10179,186,189,Injection site nodule,Treatment A,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10082,110,113,Conjunctivitis allergic,Treatment A,Eye disorders,MILD,F
+FAKE-DATA-10137,118,122,Vomiting,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10075,173,181,Gallbladder cholesterolosis,Treatment A,Hepatobiliary disorders,MILD,M
+FAKE-DATA-10189,320,321,Meibomianitis,Treatment A,Eye disorders,MODERATE,F
+FAKE-DATA-10177,213,215,Injection site urticaria,Treatment A,General disorders and administration site conditions,MODERATE,F
+FAKE-DATA-10147,194,199,Subileus,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10036,153,155,Constipation,Treatment A,Gastrointestinal disorders,NA,F
+FAKE-DATA-10133,7,16,Peritonsillar abscess,Treatment A,Infections and infestations,MODERATE,F
+FAKE-DATA-10061,199,200,Tinnitus,Treatment A,Ear and labyrinth disorders,NA,M
+FAKE-DATA-10026,222,223,Conjunctivitis,Treatment A,Infections and infestations,MODERATE,F
+FAKE-DATA-10126,107,108,Gastritis,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10151,135,137,Injection site mass,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10185,235,255,Sinusitis,Treatment A,Infections and infestations,NA,M
+FAKE-DATA-10186,96,98,Flatulence,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10134,177,184,Asthenopia,Treatment A,Eye disorders,MODERATE,M
+FAKE-DATA-10084,128,129,Duodenitis,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10076,242,244,Asthenopia,Treatment A,Eye disorders,NA,F
+FAKE-DATA-10190,328,330,Injection site rash,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10096,254,261,Acute sinusitis,Treatment A,Infections and infestations,MILD,F
+FAKE-DATA-10001,271,273,Ear infection fungal,Treatment A,Infections and infestations,NA,F
+FAKE-DATA-10196,81,87,Angina unstable,Treatment A,Cardiac disorders,MODERATE,M
+FAKE-DATA-10044,167,170,Folliculitis,Treatment A,Infections and infestations,NA,M
+FAKE-DATA-10107,65,76,Gastrooesophageal reflux disease,Treatment A,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10169,72,75,Diverticulitis,Treatment A,Infections and infestations,NA,F
+FAKE-DATA-10106,111,114,Astigmatism,Treatment A,Eye disorders,MODERATE,M
+FAKE-DATA-10135,24,25,Injection site dermatitis,Treatment A,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10097,149,156,Fatigue,Treatment A,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10083,149,150,Flatulence,Treatment A,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10055,163,167,Injection site nodule,Treatment A,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10063,273,277,Abdominal tenderness,Treatment A,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10061,90,98,Proctalgia,Treatment A,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10199,12,15,Peritonitis,Treatment A,Infections and infestations,MILD,F
+FAKE-DATA-10069,203,204,Glossodynia,Treatment A,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10152,98,106,Food poisoning,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10054,350,351,Episcleritis,Treatment B,Eye disorders,MODERATE,M
+FAKE-DATA-10185,59,62,Paronychia,Treatment B,Infections and infestations,MODERATE,M
+FAKE-DATA-10033,281,290,Localised infection,Treatment B,Infections and infestations,SEVERE,M
+FAKE-DATA-10049,90,108,Inflammatory bowel disease,Treatment B,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10033,184,186,Nausea,Treatment B,Gastrointestinal disorders,NA,M
+FAKE-DATA-10143,9,14,Furuncle,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10097,359,360,Paronychia,Treatment B,Infections and infestations,MODERATE,M
+FAKE-DATA-10179,339,342,Inflammatory bowel disease,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10173,217,218,Atrial fibrillation,Treatment B,Cardiac disorders,MODERATE,F
+FAKE-DATA-10012,121,134,Herpes zoster,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10098,7,10,Sensation of foreign body,Treatment B,General disorders and administration site conditions,NA,F
+FAKE-DATA-10000,124,125,Gallbladder cholesterolosis,Treatment B,Hepatobiliary disorders,SEVERE,M
+FAKE-DATA-10086,42,50,Hordeolum,Treatment B,Infections and infestations,MILD,M
+FAKE-DATA-10043,151,152,Cystitis,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10128,32,35,Leukopenia,Treatment B,Blood and lymphatic system disorders,MILD,M
+FAKE-DATA-10170,308,313,Paronychia,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10087,211,218,Aphthous ulcer,Treatment B,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10115,170,173,Meibomianitis,Treatment B,Eye disorders,MILD,M
+FAKE-DATA-10133,49,52,Respiratory tract infection,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10057,140,141,Folliculitis,Treatment B,Infections and infestations,MILD,M
+FAKE-DATA-10043,328,333,Conjunctival haemorrhage,Treatment B,Eye disorders,MILD,M
+FAKE-DATA-10164,24,26,Gallbladder cholesterolosis,Treatment B,Hepatobiliary disorders,SEVERE,M
+FAKE-DATA-10086,157,158,Splenomegaly,Treatment B,Blood and lymphatic system disorders,MODERATE,M
+FAKE-DATA-10136,153,157,Malaise,Treatment B,General disorders and administration site conditions,MODERATE,M
+FAKE-DATA-10115,205,206,Blepharitis,Treatment B,Eye disorders,NA,M
+FAKE-DATA-10061,310,311,Gingival pain,Treatment B,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10181,7,10,Keratitis,Treatment B,Eye disorders,MODERATE,M
+FAKE-DATA-10121,83,98,Diarrhoea infectious,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10016,189,197,Proctalgia,Treatment B,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10137,319,336,Ear pain,Treatment B,Ear and labyrinth disorders,MODERATE,F
+FAKE-DATA-10193,56,57,Autoimmune thyroiditis,Treatment B,Endocrine disorders,MODERATE,M
+FAKE-DATA-10084,283,306,Deafness neurosensory,Treatment B,Ear and labyrinth disorders,MILD,F
+FAKE-DATA-10026,333,345,Subileus,Treatment B,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10101,22,23,Ear infection fungal,Treatment B,Infections and infestations,MODERATE,M
+FAKE-DATA-10136,265,266,Peripheral swelling,Treatment B,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10182,294,297,Hypothyroidism,Treatment B,Endocrine disorders,MODERATE,M
+FAKE-DATA-10140,183,187,Bronchitis,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10023,166,172,Peritonitis,Treatment B,Infections and infestations,MODERATE,F
+FAKE-DATA-10196,43,44,Feeling cold,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10151,14,15,Otitis externa,Treatment B,Infections and infestations,MODERATE,F
+FAKE-DATA-10040,270,271,Sinusitis,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10161,58,59,Ear pruritus,Treatment B,Ear and labyrinth disorders,MILD,M
+FAKE-DATA-10120,286,288,Otitis media,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10115,131,143,Tinnitus,Treatment B,Ear and labyrinth disorders,SEVERE,M
+FAKE-DATA-10190,235,236,Gastroenteritis,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10081,303,313,Malaise,Treatment B,General disorders and administration site conditions,NA,F
+FAKE-DATA-10136,343,347,Blepharitis,Treatment B,Eye disorders,MILD,M
+FAKE-DATA-10174,75,81,Haematochezia,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10112,130,131,Localised infection,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10108,152,162,Iridocyclitis,Treatment B,Eye disorders,MODERATE,M
+FAKE-DATA-10064,84,87,Iridocyclitis,Treatment B,Eye disorders,MILD,M
+FAKE-DATA-10072,212,221,Food poisoning,Treatment B,Gastrointestinal disorders,NA,M
+FAKE-DATA-10063,203,204,Sinus bradycardia,Treatment B,Cardiac disorders,MILD,M
+FAKE-DATA-10056,83,84,Dental caries,Treatment B,Gastrointestinal disorders,NA,F
+FAKE-DATA-10086,200,208,Corneal disorder,Treatment B,Eye disorders,NA,M
+FAKE-DATA-10047,322,325,Bullous impetigo,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10073,338,346,Meibomianitis,Treatment B,Eye disorders,NA,M
+FAKE-DATA-10088,175,178,Pertussis,Treatment B,Infections and infestations,MILD,F
+FAKE-DATA-10152,151,171,Sinus bradycardia,Treatment B,Cardiac disorders,SEVERE,F
+FAKE-DATA-10118,40,42,Colitis,Treatment B,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10099,290,296,Injection site hypersensitivity,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10178,103,108,Toothache,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10183,126,130,Flatulence,Treatment B,Gastrointestinal disorders,NA,M
+FAKE-DATA-10122,6,7,Palpitations,Treatment B,Cardiac disorders,NA,M
+FAKE-DATA-10096,324,332,Gastroenteritis bacterial,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10101,295,296,Glossodynia,Treatment B,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10002,16,23,Injection site mass,Treatment B,General disorders and administration site conditions,NA,F
+FAKE-DATA-10059,348,349,Injection site mass,Treatment B,General disorders and administration site conditions,SEVERE,F
+FAKE-DATA-10138,69,78,Injection site reaction,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10127,45,46,Anaemia,Treatment B,Blood and lymphatic system disorders,SEVERE,M
+FAKE-DATA-10142,214,224,Peritonitis,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10045,50,51,Abdominal pain,Treatment B,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10166,223,231,Face oedema,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10038,177,178,Feeling cold,Treatment B,General disorders and administration site conditions,MODERATE,M
+FAKE-DATA-10074,41,42,Cystitis,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10000,263,266,Inflammatory pain,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10157,82,86,Pain,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10105,341,357,Angina pectoris,Treatment B,Cardiac disorders,SEVERE,M
+FAKE-DATA-10162,109,110,Genital candidiasis,Treatment B,Infections and infestations,MILD,F
+FAKE-DATA-10076,33,40,Eye irritation,Treatment B,Eye disorders,MODERATE,F
+FAKE-DATA-10107,118,120,Injection site pain,Treatment B,General disorders and administration site conditions,NA,F
+FAKE-DATA-10165,223,230,Folliculitis,Treatment B,Infections and infestations,MILD,M
+FAKE-DATA-10059,201,202,Eye irritation,Treatment B,Eye disorders,MODERATE,F
+FAKE-DATA-10156,316,317,Eye pruritus,Treatment B,Eye disorders,MODERATE,F
+FAKE-DATA-10197,208,210,Injection site pruritus,Treatment B,General disorders and administration site conditions,NA,F
+FAKE-DATA-10054,198,199,Injection site mass,Treatment B,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10059,46,48,Pneumonia,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10095,66,68,Pyelonephritis,Treatment B,Infections and infestations,MODERATE,F
+FAKE-DATA-10130,125,128,Non-cardiac chest pain,Treatment B,General disorders and administration site conditions,SEVERE,M
+FAKE-DATA-10049,325,327,Dental caries,Treatment B,Gastrointestinal disorders,NA,M
+FAKE-DATA-10121,85,89,Abdominal tenderness,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10007,93,95,Asthenia,Treatment B,General disorders and administration site conditions,NA,M
+FAKE-DATA-10185,85,89,Cystitis,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10006,338,345,Injection site urticaria,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10007,16,25,Gastroenteritis viral,Treatment B,Infections and infestations,SEVERE,M
+FAKE-DATA-10014,353,354,Palpitations,Treatment B,Cardiac disorders,MODERATE,M
+FAKE-DATA-10034,176,177,Abdominal tenderness,Treatment B,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10007,216,219,Deafness neurosensory,Treatment B,Ear and labyrinth disorders,NA,M
+FAKE-DATA-10054,71,87,Eye inflammation,Treatment B,Eye disorders,NA,M
+FAKE-DATA-10095,27,28,Keratopathy,Treatment B,Eye disorders,NA,F
+FAKE-DATA-10003,205,209,Chest discomfort,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10019,277,278,Diarrhoea infectious,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10152,136,138,Flatulence,Treatment B,Gastrointestinal disorders,MILD,F
+FAKE-DATA-10144,210,213,Paronychia,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10137,96,97,Injection site mass,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10004,292,295,Proctitis ulcerative,Treatment B,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10168,5,12,Iritis,Treatment B,Eye disorders,NA,F
+FAKE-DATA-10162,42,43,Otitis media,Treatment B,Infections and infestations,MODERATE,F
+FAKE-DATA-10053,283,285,Irritable bowel syndrome,Treatment B,Gastrointestinal disorders,NA,F
+FAKE-DATA-10101,277,281,Mouth ulceration,Treatment B,Gastrointestinal disorders,NA,M
+FAKE-DATA-10143,94,100,Hordeolum,Treatment B,Infections and infestations,MILD,F
+FAKE-DATA-10077,296,297,Chronic sinusitis,Treatment B,Infections and infestations,MILD,M
+FAKE-DATA-10147,136,138,Conjunctivitis,Treatment B,Infections and infestations,MILD,M
+FAKE-DATA-10102,27,32,Intra-abdominal haematoma,Treatment B,Gastrointestinal disorders,SEVERE,M
+FAKE-DATA-10030,77,89,Injection site hypersensitivity,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10096,126,137,Gastritis,Treatment B,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10015,271,285,Bronchitis,Treatment B,Infections and infestations,SEVERE,F
+FAKE-DATA-10189,220,231,Corneal disorder,Treatment B,Eye disorders,NA,F
+FAKE-DATA-10094,77,84,Injection site haematoma,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10186,236,244,Meibomianitis,Treatment B,Eye disorders,MILD,M
+FAKE-DATA-10096,15,16,Otitis media,Treatment B,Infections and infestations,NA,F
+FAKE-DATA-10186,26,33,Toothache,Treatment B,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10080,324,325,Injection site pain,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10047,201,204,Fatigue,Treatment B,General disorders and administration site conditions,MILD,F
+FAKE-DATA-10027,257,268,Subileus,Treatment B,Gastrointestinal disorders,MODERATE,F
+FAKE-DATA-10111,232,234,Sinusitis,Treatment B,Infections and infestations,NA,M
+FAKE-DATA-10154,199,200,Herpes zoster,Treatment B,Infections and infestations,MILD,F
+FAKE-DATA-10180,246,249,Injection site pain,Treatment B,General disorders and administration site conditions,MILD,M
+FAKE-DATA-10179,69,70,Abdominal tenderness,Treatment B,Gastrointestinal disorders,NA,F
+FAKE-DATA-10170,357,363,Inguinal hernia,Treatment B,Gastrointestinal disorders,MILD,M
+FAKE-DATA-10057,41,45,Toothache,Treatment B,Gastrointestinal disorders,MODERATE,M
+FAKE-DATA-10026,167,181,Colitis ulcerative,Treatment B,Gastrointestinal disorders,SEVERE,F
+FAKE-DATA-10109,75,79,Meibomianitis,Treatment B,Eye disorders,MODERATE,F
+FAKE-DATA-10124,329,330,Atrial fibrillation,Treatment B,Cardiac disorders,MODERATE,F

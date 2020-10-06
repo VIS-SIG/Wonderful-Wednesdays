@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09).
+**September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09). The adverse events example data set is based on a clinical trial for treatment of Type II diabetes in adults that cannot manage their blood glucose control with a single oral therapy.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,7 +20,7 @@ We will make the submissions available to the community together with highlights
 
 ## Current data set
 
-* Presented on **September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09). 
+* Presented on **September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09). The adverse events example data set is based on a clinical trial for treatment of Type II diabetes in adults that cannot manage their blood glucose control with a single oral therapy. The primary outcome was mean HbA1c at 6 months. AEs were monitored and collected for the entire course of the study.
 
 Are there ways to present [adverse events set](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv) in a more informative and effective way? 
 
