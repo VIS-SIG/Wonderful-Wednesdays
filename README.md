@@ -18,11 +18,11 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations. Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## Current data set
+## Next (October) data set
 
-* Presented on **September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09). The adverse events example data set is based on a clinical trial for treatment of Type II diabetes in adults that cannot manage their blood glucose control with a single oral therapy. The primary outcome was mean HbA1c at 6 months. AEs were monitored and collected for the entire course of the study.
+* Presented on **October 14th, 2020**. The October challenge focuses on [mediation analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-10-14). The example data set is based on a clinical trial for treatment of a dermatological disease. The measure of interest is DLQI (patient reported outcome) at 16 weeks. Three explanatory variables are considered:  itch, body surface area (BSA) and redness of the skin.
 
-Are there ways to present [adverse events set](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv) in a more informative and effective way? 
+Are there ways to present [mediation data](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-10-14/mediation_data.csv) in an informative and effective way? 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -43,6 +43,10 @@ Are there ways to present [adverse events set](https://raw.githubusercontent.com
 * [COPD dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-07-08). Presented on **July 8th, 2020**.  
 
 * [Adverse events dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-08-12). Presented on **August 12th, 2020**.
+
+* [Adverse events dataset II](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09).  Presented on **September 9th, 2020**.
+
+* [Mediation analysis dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-10-14).  Presented on **October 14th, 2020**.
 
 ## Downloading single files
 
