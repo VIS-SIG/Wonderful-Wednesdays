@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**September 9th, 2020**. The current example data set focuses on [adverse events](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-09-09). The adverse events example data set is based on a clinical trial for treatment of Type II diabetes in adults that cannot manage their blood glucose control with a single oral therapy.
+**October 14th, 2020**. The current example data set on [mediation analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-10-14). The example data set is based on a clinical trial for treatment of a dermatological disease. 
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,7 +18,7 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations. Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## Next (October) data set
+## October data set
 
 * Presented on **October 14th, 2020**. The October challenge focuses on [mediation analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-10-14). The example data set is based on a clinical trial for treatment of a dermatological disease. The measure of interest is DLQI (patient reported outcome) at 16 weeks. Three explanatory variables are considered:  itch, body surface area (BSA) and redness of the skin.
 
