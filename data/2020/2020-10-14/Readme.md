@@ -4,6 +4,8 @@ The purpose of this exercise is to develop data visualization techniques to illu
 
 Please see attached [pdf](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/document.pdf) for a description of the data viz challenge for October 14, 2020.
 
+The [data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv) can be viewed [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv)
+
 # Goals of the data viz
 
 The target audience for this data viz are prescribing physicians and thought leaders in dermatology. The data viz is for ‘explanatory’ purposes (not ‘exploratory’). The story is that treatment is superior to placebo in terms of patient reported outcomes, DLQI. The treatment effect is mediated by it’s effect on itch. (The reason why treatment improved DLQI so much is due to it’s improvement on itch which directly improves DLQI.) And, moreover, the other variables considered, redness and BSA, do not mediate the treatment
