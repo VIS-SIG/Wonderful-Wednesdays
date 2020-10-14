@@ -4,7 +4,7 @@ The purpose of this exercise is to develop data visualization techniques to illu
 
 Please see attached [pdf](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/document.pdf) for a description of the data viz challenge for October 14, 2020.
 
-The [data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv) can be viewed [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv)
+The [data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv) can be viewed [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-10-14/mediation_data.csv) or downloaded as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-10-14/mediation_data.csv).
 
 # Goals of the data viz
 
@@ -17,4 +17,4 @@ Take into account the missing data in your data viz. Let readers understand the 
 
 # Downloading CSV file
 
-*NOTE* to download a single data set as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-09-09/2020-09-09-fake-data_aes.csv), click on the raw button and save the file. The following [link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
+*NOTE* to download a single data set as a [csv file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/master/data/2020/2020-10-14/mediation_data.csv), click on the raw button and save the file. The following [link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
