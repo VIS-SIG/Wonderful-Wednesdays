@@ -1,0 +1,76 @@
+---
+title: "Example meta-analysis dataset"
+output: github_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Background
+
+The example simulated data set is based on 
+
+## The data set and variable definitions
+
+The data set is an abridged version of the [CDISC ADaM](https://www.cdisc.org/standards/foundational/adam) [ADTTE](https://www.cdisc.org/system/files/all/standard_category/application/pdf/adam_tte_final_v1.pdf) time to event data set. 
+
+The data set contains the following variables: 
+
+* STUDYID	- the study identifier
+* SUBJID	- subject identifier
+* USUBJID - unique subject iddentifier
+* AGE	- age at randomisation (years)
+* STR01	- Hormone receptor status at randomisation
+* STR01N - Hormone receptor positive (Numeric)
+* STR01L - Hormone receptor positive (Long format)
+* STR02 - Prior Radiotherapy at randomisation
+* STR02N - Prior Radiotherapy at randomisation (Numeric)
+* STR02L - Prior Radiotherapy at randomisation (Long format)
+* TRT01P - Planned treatment assigned at randomisation
+* TRT01PN - Planned treatment assigned at randomisation (Numeric)
+* PARAM - Analysis parameter - Progression free survival
+* PARAMCD	- Analysis parameter code
+* AVAL - Analysis value (time to event [days])
+* CNSR - Censoring (0 = Event, 1 = censored)
+* EVNTDESC - Event description 
+* CNSDTDSC - Censoring description
+* DCTREAS - Discontinuation from study reason
+
+A number of baseline measurements are also included such as age, hormone receptor status and prior radiotherapy treatment. Additional details on reasons for study discontinuation and censoring event description are also included. 
+
+## Example analysis
+
+
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)    
+library(broom)
+
+## load data
+data <- read_csv("BIG_DATA_PSI_WW_DEC2020.csv")
+data %>% glimpse()
+```
+
+## Plot pooled data
+```{r, warning=FALSE, message=FALSE}
+data %>% ggplot(aes(x = BASE, y = AVAL)) +
+  geom_point()
+```
+
+## Analysis by study
+
+```{r, warning=FALSE, message=FALSE}
+results <- 
+  data %>% 
+  group_by(STUDYID) %>%
+  do(fitHour = tidy(lm(AVAL ~ BASE + TRT01PN, data = .))) %>% 
+  unnest(fitHour) %>%
+  filter(term == "TRT01PN")
+
+results
+
+```
+
