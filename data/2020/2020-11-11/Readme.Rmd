@@ -11,47 +11,34 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Background
 
-The example simulated data set is based on 
+The example simulated data set is based on seven phase III studies in Hypertension. The objective of the studies were to compare the use of intensive hypertensive medicences compared to standard of care to control blood pressure. The studies are inspired by the large blood pressure intervention studies such as [SPRINT](https://biolincc.nhlbi.nih.gov/studies/sprint/). In this case, instead of a large single trial, we are faced with an integreted set of seven seperate trials.  
 
 ## The data set and variable definitions
 
-The data set is an abridged version of the [CDISC ADaM](https://www.cdisc.org/standards/foundational/adam) [ADTTE](https://www.cdisc.org/system/files/all/standard_category/application/pdf/adam_tte_final_v1.pdf) time to event data set. 
+The data set is an abridged version of [CDISC ADaM](https://www.cdisc.org/standards/foundational/adam). 
 
 The data set contains the following variables: 
 
-* STUDYID	- the study identifier
-* SUBJID	- subject identifier
-* USUBJID - unique subject iddentifier
-* AGE	- age at randomisation (years)
-* STR01	- Hormone receptor status at randomisation
-* STR01N - Hormone receptor positive (Numeric)
-* STR01L - Hormone receptor positive (Long format)
-* STR02 - Prior Radiotherapy at randomisation
-* STR02N - Prior Radiotherapy at randomisation (Numeric)
-* STR02L - Prior Radiotherapy at randomisation (Long format)
-* TRT01P - Planned treatment assigned at randomisation
-* TRT01PN - Planned treatment assigned at randomisation (Numeric)
-* PARAM - Analysis parameter - Progression free survival
-* PARAMCD	- Analysis parameter code
-* AVAL - Analysis value (time to event [days])
-* CNSR - Censoring (0 = Event, 1 = censored)
-* EVNTDESC - Event description 
-* CNSDTDSC - Censoring description
-* DCTREAS - Discontinuation from study reason
+* **STUDYID**	Masked study identifer	
+* **USUBJD**	Masked subject identifier	Identifer
+* **TRT01P**	Randomised treatment
+* **AVAL**	Mean systolic blood pressure (mm Hg) measured at 1-Year	
+* **CHG**	 Change from baseline mean systolic blood pressure (SBP) [mm Hg] at 1-Year	
+* **PCHG**	Percentage change from baseline mean systolic blood pressure (%change) at 1-year
+* **AVALCAT1**	Responder analysis - patients with controlled SBP at 1-Year (<=120 mmHg) 1 = Yes, 0 = No	1-Year
 
-A number of baseline measurements are also included such as age, hormone receptor status and prior radiotherapy treatment. Additional details on reasons for study discontinuation and censoring event description are also included. 
+A wide collection of baseline measurements are also included which can be explored to for subgroups or differential treatment effects. For a detailed overview of the data set, please refer to the [data dictionary here](DataDictionaryDec2020.xlsx)
 
 ## Example analysis
 
 
 
+## Load data
+
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)    
 library(broom)
-
-## load data
 data <- read_csv("BIG_DATA_PSI_WW_DEC2020.csv")
-data %>% glimpse()
 ```
 
 ## Plot pooled data
@@ -60,17 +47,13 @@ data %>% ggplot(aes(x = BASE, y = AVAL)) +
   geom_point()
 ```
 
-## Analysis by study
+## Simple analysis by study
 
 ```{r, warning=FALSE, message=FALSE}
-results <- 
-  data %>% 
+data %>% 
   group_by(STUDYID) %>%
-  do(fitHour = tidy(lm(AVAL ~ BASE + TRT01PN, data = .))) %>% 
-  unnest(fitHour) %>%
+  do(fit = tidy(lm(AVAL ~ BASE + TRT01PN, data = .))) %>% 
+  unnest(fit) %>%
   filter(term == "TRT01PN")
-
-results
-
 ```
 
