@@ -7,7 +7,7 @@ The purpose of this webinar is to explore how data visualisation can be
 deployed to find
 [*insights*](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578)
 when faced with [*big
-data*](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/dec/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv).
+data*](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv).
 
 For this webinar, we introduce the challenge of working with pooled or
 integrated clinical trial data. This is often referred to as
