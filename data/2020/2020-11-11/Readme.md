@@ -149,11 +149,8 @@ In this section is a description of all variables.
 
 ### Downloading data
 
-**NOTE** to download a single data set as a csv file, click on the raw
-button and save the
-[file](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/dec/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv).
-The [following link describes the process in further
-detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
+**NOTE** to download a single data set as a [csv file](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv), click on the raw button and save the [file](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv).
+The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
 
 # Example analysis
 
