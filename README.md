@@ -24,7 +24,7 @@ We will make the submissions available to the community together with highlights
 
 The November challenge focuses on [meta-analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-11-11). The example data set is based on seven integrated clinical trials for treatment of hypertension. The measure of interest is systolic blood pressure measured at 1-year. 
 
-The purpose of this challenge is to explore how data visualisation can be deployed to find [*insights*](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578) when faced with [*big data*](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/dec/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv). 
+The purpose of this challenge is to explore how data visualisation can be deployed to find [*insights*](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578) when faced with [*big data*](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv). 
 
 Are there ways to present [integrated data](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/dec/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv) in an [informative and effective](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w) way? 
 
