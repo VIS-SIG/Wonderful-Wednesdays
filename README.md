@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**December 09th, 2020**. The current example data set is on [prediction models](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy".
+**December 09th, 2020**. The current example data set is focusing on [prediction models](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy".
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
