@@ -9,14 +9,22 @@ The idea of this webinar is to find ways to visualize a prediction model. In a f
 The data set is about a retrospecitve study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy". An article documenting the original research can be found [here](https://pubmed.ncbi.nlm.nih.gov/26224405/). We use a simulated data set which is very similar to the original one. The data is saved as a [csv file](Reexcision.csv). There are 500 subjects included. The outcome variable is reexcision and it is called "RE" in the data set (categories: yes/no; coded as 1/0). It describes, if there has been a reexcision necessary after the (initial) surgery.
 
 The following predictors are being included in the data set:  
-		* **age**  
-		* **tumorsize**  
-		* **histology** (hist; 0: others, 1: Invasive-duct./ductal-lob.)  
-		* **Multifocality** (mult.foc; 0: no, 1: yes)  
-		* **Accomp. in situ** (acc.in.situ; 0: others, 1: DCIS and LCIS)  
-		* **Lymphovascular** invasion (lymph.inv; 0: no, 1: yes)  
-		* **Estrogen-receptor** (estr.rec; 0: no, 1: yes)  
-		* **Progesterone-receptor** (prog.rec; 0: no, 1: yes)  
+
+* **age**  
+
+* **tumorsize**  
+
+* **histology** (hist; 0: others, 1: Invasive-duct./ductal-lob.)  
+
+* **Multifocality** (mult.foc; 0: no, 1: yes)  
+
+* **Accomp. in situ** (acc.in.situ; 0: others, 1: DCIS and LCIS)  
+
+* **Lymphovascular** invasion (lymph.inv; 0: no, 1: yes)  
+
+* **Estrogen-receptor** (estr.rec; 0: no, 1: yes)  
+
+* **Progesterone-receptor** (prog.rec; 0: no, 1: yes)
 
 # Aim of the visualization
 

@@ -20,7 +20,7 @@ We will make the submissions available to the community together with highlights
 
 ## December data set
 
-* Presented on **December 09th, 2020**. For this webinar, we introduce the challenge of visualizing a [prediction model](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy". 
+Presented on **December 09th, 2020**. For this webinar, we introduce the challenge of visualizing a [prediction model](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy". 
 
 The purpose of this challenge is to visualize the results of your prediction model. How can you show which predictors are the "most important" ones and how can the effect of these predictors be presented?
 
