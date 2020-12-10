@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**November 11th, 2020**. The current example data set on [meta-analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-11-11). The example data set is based on seven integrated clinical trials for treatment of hypertension. 
+**December 09th, 2020**. The current example data set is focusing on [prediction models](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy".
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,21 +18,17 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## November data set
+## December data set
 
-* Presented on **November 11th, 2020**. For this webinar, we introduce the challenge of working with pooled clinical trial data.
+Presented on **December 09th, 2020**. For this webinar, we introduce the challenge of visualizing a [prediction model](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy". 
 
-The November challenge focuses on [meta-analysis](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-11-11). The example data set is based on seven integrated clinical trials for treatment of hypertension. The measure of interest is systolic blood pressure measured at 1-year. 
-
-The purpose of this challenge is to explore how data visualisation can be deployed to find [*insights*](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578) when faced with [*big data*](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv). 
-
-Are there ways to present [integrated data](https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/dec/data/2020/2020-11-11/BIG_DATA_PSI_WW_DEC2020.csv) in an [informative and effective](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w) way? 
+The purpose of this challenge is to visualize the results of your prediction model. How can you show which predictors are the "most important" ones and how can the effect of these predictors be presented?
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**December 9th, 2020**. 
+**January 13th, 2021**.
 
 ## Previous data sets 
 
@@ -53,6 +49,8 @@ Are there ways to present [integrated data](https://raw.githubusercontent.com/VI
 * [Mediation analysis dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-10-14).  Presented on **October 14th, 2020**.
 
 * [Meta-analysis data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-11-11). Presented on **November 11th, 2020**
+
+* [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). Presented on **December 09th, 2020**
 
 
 
