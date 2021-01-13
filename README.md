@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**December 09th, 2020**. The current example data set is focusing on [prediction models](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy".
+**January 13th, 2021**. The current example data set is focusing on a [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,11 +18,14 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## December data set
+## January data set
 
-Presented on **December 09th, 2020**. For this webinar, we introduce the challenge of visualizing a [prediction model](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). The example data set is based on a retrospective study on finding "Predictors of Residual Tumor in Breast-Conserving Therapy". 
+Presented on **January 13th, 2021**. For this webinar, we introduce the challenge of visualizing a treatment effect on [DLQI](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
 
-The purpose of this challenge is to visualize the results of your prediction model. How can you show which predictors are the "most important" ones and how can the effect of these predictors be presented?
+The purpose of this challenge is as follows:
+
+* Show the multidimensional nature of DLQI with any analytical tool and translate the results in an effective visualization.
+* Show the effect of the treatment, possibly reflecting the multidimensional nature of DLQI.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
