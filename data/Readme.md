@@ -36,7 +36,7 @@ Table of contents for the 2020 webinar series data sets.
 
   - [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). Presented on **December 9th, 2020**
 
-  - [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2021-01-13). Presented on **January 13th, 2021**
+  - [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). Presented on **January 13th, 2021**
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

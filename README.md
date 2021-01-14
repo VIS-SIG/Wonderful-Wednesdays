@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**January 13th, 2021**. The current example data set is focusing on a [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
+**January 13th, 2021**. The current example data set is focusing on a [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,7 +20,7 @@ We will make the submissions available to the community together with highlights
 
 ## January data set
 
-Presented on **January 13th, 2021**. For this webinar, we introduce the challenge of visualizing a treatment effect on [DLQI](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
+Presented on **January 13th, 2021**. For this webinar, we introduce the challenge of visualizing a treatment effect on [DLQI](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
 
 The purpose of this challenge is as follows:
 
