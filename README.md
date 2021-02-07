@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**January 13th, 2021**. The current example data set is focusing on a [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
+**February 10th, 2021**. The current example data set is focusing on a [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Missing data are present in almost any (clinical) data set. Ways to visualize different patterns of missing values will be the topic of this webinar.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,18 +20,18 @@ We will make the submissions available to the community together with highlights
 
 ## January data set
 
-Presented on **January 13th, 2021**. For this webinar, we introduce the challenge of visualizing a treatment effect on [DLQI](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). The DLQI is the most frequently used method for evaluating quality of life for patients with different skin conditions.
+Presented on **February 10th, 2021**. For this webinar, we introduce the challenge of visualizing [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Missing data are almost unavoidable and present in almost any (clinical) data set.
 
 The purpose of this challenge is as follows:
 
-* Show the multidimensional nature of DLQI with any analytical tool and translate the results in an effective visualization.
-* Show the effect of the treatment, possibly reflecting the multidimensional nature of DLQI.
+* Show the different patterns of missing values.
+* Visualize the potential impact of missing values.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**January 13th, 2021**.
+**March 10th, 2021**.
 
 ## Previous data sets 
 
@@ -54,6 +54,8 @@ The purpose of this challenge is as follows:
 * [Meta-analysis data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-11-11). Presented on **November 11th, 2020**
 
 * [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). Presented on **December 09th, 2020**
+
+* [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). Presented on **January 13th, 2021**
 
 
 
