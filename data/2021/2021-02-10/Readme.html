@@ -419,7 +419,7 @@ summary {
 <div id="background" class="section level1">
 <h1>Background</h1>
 <p>Missing data are present in almost any (clinical) data set. For this simulated data set, we assume a clinical phase III trial on Psoriasis. An active treatment arm is compared to a placebo arm. The main interest lies in the comparison of these two arms. The comparison is adjusted for age, gender, and BMI. The outcome variable is Pain which was collected on a visual analogue scale (range: 0-100). The higher the value the higher the pain. Data were collected at baseline plus ten follow-up time points.</p>
-<p>The data set can be found <a href="./%3Cfilename%3E">here</a>.</p>
+<p>The data set can be found <a href="./missing_data.csv">here</a>.</p>
 </div>
 <div id="challenge" class="section level1">
 <h1>Challenge</h1>
@@ -440,14 +440,14 @@ summary {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Pain0</td>
+<td>pain.0</td>
 <td>Pain at baseline</td>
-<td>0-10</td>
+<td>0-100</td>
 </tr>
 <tr class="even">
-<td>Pain1</td>
+<td>pain.1</td>
 <td>Pain at follow-up visit 1</td>
-<td>0-10</td>
+<td>0-100</td>
 </tr>
 <tr class="odd">
 <td>…</td>
@@ -455,29 +455,44 @@ summary {
 <td>…</td>
 </tr>
 <tr class="even">
-<td>Pain10</td>
+<td>pain.10</td>
 <td>Pain at follow-up visit 10</td>
-<td>0-10</td>
+<td>0-100</td>
 </tr>
 <tr class="odd">
-<td>TRT</td>
-<td>Treatment</td>
-<td>Active; Placebo</td>
+<td>pain.bin.1</td>
+<td>Pain reduction &gt;= 30 at visit 1</td>
+<td>0-100</td>
 </tr>
 <tr class="even">
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr class="odd">
+<td>pain.bin.10</td>
+<td>Pain reduction &gt;= 30 at visit 10</td>
+<td>0-100</td>
+</tr>
+<tr class="even">
+<td>trt</td>
+<td>Treatment arm</td>
+<td>act (active); pbo (placebo)</td>
+</tr>
+<tr class="odd">
 <td>age</td>
 <td>Age</td>
 <td>18-100</td>
 </tr>
+<tr class="even">
+<td>bmi</td>
+<td>BMI</td>
+<td>18-40</td>
+</tr>
 <tr class="odd">
 <td>gender</td>
 <td>Gender</td>
-<td>F (female); M (male)</td>
-</tr>
-<tr class="even">
-<td>BMI</td>
-<td>BMI</td>
-<td>20-50</td>
+<td>f (female); m (male)</td>
 </tr>
 </tbody>
 </table>
