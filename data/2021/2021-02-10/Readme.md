@@ -1,16 +1,16 @@
 # Missing data
 
-# Background
+## Background
 Missing data are present in almost any (clinical) data set. For this simulated data set, we assume a clinical phase III trial on Psoriasis. An active treatment arm is compared to a placebo arm. The main interest lies in the comparison of these two arms. The comparison is adjusted for age, gender, and BMI. The outcome variable is Pain which was collected on a visual analogue scale (range: 0-100). The higher the value the higher the pain. Data were collected at baseline plus ten follow-up time points.
 
 
 The data set can be found [here](./missing_data.csv).
 
-# Challenge
+## Challenge
 * Show the different patterns of missing values.
 * Visualize the potential impact of missing values.
 
-# Codebook
+## Codebook
 | Variable | Description | Values |
 | --- | --- | --- |
 | pain.0 | Pain at baseline | 0-100 |
