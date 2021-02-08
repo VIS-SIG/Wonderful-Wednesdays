@@ -417,15 +417,26 @@ summary {
 <h1>Missing data</h1>
 <div id="background" class="section level2">
 <h2>Background</h2>
-<p>Missing data are present in almost any (clinical) data set. For this simulated data set, we assume a clinical phase III trial on Psoriasis. An active treatment arm is compared to a placebo arm. The main interest lies in the comparison of these two arms. The comparison is adjusted for age, gender, and BMI. The outcome variable is Pain which was collected on a visual analogue scale (range: 0-100). The higher the value the higher the pain. Data were collected at baseline plus ten follow-up time points.</p>
+<p>Missing data are present in almost any (clinical) data set. For this simulated data set, we assume a clinical phase III trial on Psoriasis. An active treatment arm is compared to a placebo arm. The main interest lies in the comparison of these two arms. (The comparison may be adjusted for age, gender, and BMI). The outcome variable is Pain which was collected on a visual analogue scale (range: 0-100). Greater values mean worse pain. Next to the original values, a dichotomized version of pain is calculated and included in the data set: Pain reduction from baseline of at least 30. Data were collected at baseline and at ten follow-up time points.</p>
 <p>The data set can be found <a href="./missing_data.csv">here</a>.</p>
 </div>
 <div id="challenge" class="section level2">
 <h2>Challenge</h2>
 <ul>
 <li>Show the different patterns of missing values.</li>
-<li>Visualize the potential impact of missing values.</li>
+<li>Visualize the potential impact of missing values on the comparison of the two treatment arms.</li>
 </ul>
+</div>
+<div id="notes" class="section level2">
+<h2>Notes</h2>
+<p>The idea is to check for different missing data patterns:</p>
+<ul>
+<li>Monotone vs. non-montone (Monotone means that once there is a missing value for a specific patient, all follow-up values are also missing).</li>
+<li>Missing completely at random (MCAR).</li>
+<li>Missing at random (MAR); missingness depends on covariates.</li>
+<li>Combinations of the above, etc.</li>
+</ul>
+<p>Visualize these patterns and their (potential) impact on the results. Feel free to do some imputation. It might be interesting to look at the impact of the selected imputation strategy on the results.</p>
 </div>
 <div id="codebook" class="section level2">
 <h2>Codebook</h2>
