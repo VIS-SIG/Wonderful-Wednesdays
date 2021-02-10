@@ -27,10 +27,10 @@ Visualize these patterns and their (potential) impact on the results. Feel free 
 | pain.1 | Pain at follow-up visit 1 | 0-100 |
 | ... | ... | ... |
 | pain.10 | Pain at follow-up visit 10 | 0-100 |
-| pain.bin.1 | Pain reduction >= 30 at visit 1 | 0-100 |
+| pain.bin.1 | Pain reduction >= 30 at visit 1 | yes / no |
 | ... | ... | ... |
-| pain.bin.10 | Pain reduction >= 30 at visit 10 | 0-100 |
-| trt | Treatment arm | act (active); pbo (placebo) |
+| pain.bin.10 | Pain reduction >= 30 at visit 10 | yes / no |
+| trt | Treatment arm | act (active) / pbo (placebo) |
 | age | Age | 18-100 |
 | bmi | BMI | 18-40 |
-| gender | Gender | f (female); m (male) |
+| gender | Gender | f (female) / m (male) |
