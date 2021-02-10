@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**February 10th, 2021**. The current example data set is focusing on [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/febentry/data/2021/2021-02-10). Missing data are present in almost any (clinical) data set. Ways to visualize different patterns of missing values is the topic of this webinar.
+**February 10th, 2021**. The current example data set is focusing on [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Missing data are present in almost any (clinical) data set. Ways to visualize different patterns of missing values is the topic of this webinar.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
