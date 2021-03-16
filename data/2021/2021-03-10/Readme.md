@@ -24,4 +24,4 @@ Explore these patterns/relationships visually.
 
 ## Codebook
 
-The codebook can be found [here](./Codebook.pdf)
+The codebook can be found [here](./Codebook.pdf).
