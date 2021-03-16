@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**February 10th, 2021**. The current example data set is focusing on [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Missing data are present in almost any (clinical) data set. Ways to visualize different patterns of missing values is the topic of this webinar.
+**March 10th, 2021**. The current example data set is focusing on [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). The challenge is to find ways to visualise the impact of mobile app usage on the actual outcome.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,20 +18,20 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## January data set
+## March data set
 
-Presented on **February 10th, 2021**. For this webinar, we introduce the challenge of visualizing [missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Missing data are almost unavoidable and present in almost any (clinical) data set.
+Presented on **March 10th, 2021**. The current example data set is focusing on [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). The challenge is to find ways to visualise the impact of mobile app usage on the actual outcome.
 
 The purpose of this challenge is as follows:
 
-* Show the different patterns of missing values.
-* Visualize the potential impact of missing values.
+* How does individual app usage change over time?
+* How does app usage impact individual symptom and CAT scores?
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**March 10th, 2021**.
+**April 14th, 2021**.
 
 ## Previous data sets 
 
@@ -56,6 +56,8 @@ The purpose of this challenge is as follows:
 * [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). Presented on **December 09th, 2020**
 
 * [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). Presented on **January 13th, 2021**
+
+* [Missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Presented on **February 10th, 2021**
 
 
 
