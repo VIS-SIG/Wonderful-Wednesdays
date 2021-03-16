@@ -1,4 +1,4 @@
-# Missing data
+# Mobile app data
 
 ## Background
 COPD is a disease that effects adults typically aged 40 years or older. It is a chronic condition that effects the lungs of a patient. COPD causes patients to have trouble breathing and can have a major impact on all aspects of their life. Patients who suffer from COPD cannot recover from it as usually it causes scarring in the lung tissue, therefore self-management is an approach will encourages patients to take the necessary steps to limit or reduce the impact COPD has. Interventions for self-management in COPD aim to improve patients' knowledge, skills and confidence to make correct decisions, thus improving health status and outcomes.
