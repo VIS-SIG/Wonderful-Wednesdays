@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**March 10th, 2021**. The current example data set is focusing on [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). The challenge is to find ways to visualise the impact of mobile app usage on the actual outcome.
+**April 14th, 2021**. The current example data set is focusing on [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). The challenge is to find ways to produce a visualization to compare treatments with regards to patients sustaining a response.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,20 +18,21 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## March data set
+## April data set
 
-Presented on **March 10th, 2021**. The current example data set is focusing on [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). The challenge is to find ways to visualise the impact of mobile app usage on the actual outcome.
+Presented on **April 14th, 2021**. The current example data set is focusing on [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). The challenge is to find ways to produce a visualization to compare treatments with regards to patients sustaining a response.
 
 The purpose of this challenge is as follows:
 
-* How does individual app usage change over time?
-* How does app usage impact individual symptom and CAT scores?
+Different approaches could be considered to define a patient as having sustained their response. A simple definition of sustained response could be that having achieved a response at a given visit, a patient then has that response at all subsequent visits. More complex approaches may explore different methods for interpolating between visits.
+
+The dataset also contains a small amount of missing data. It may be of interest to explore how the approach used to handle this missing data influences the interpretation of sustained response.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**April 14th, 2021**.
+**May 12th, 2021**.
 
 ## Previous data sets 
 
@@ -58,6 +59,8 @@ The purpose of this challenge is as follows:
 * [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). Presented on **January 13th, 2021**
 
 * [Missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Presented on **February 10th, 2021**
+
+* [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). Presented on **March 10th, 2021**
 
 
 
