@@ -167,100 +167,79 @@ pre code {
 </div>
 
 
-<div id="missing-data" class="section level1">
-<h1>Missing data</h1>
-<div id="background" class="section level2">
-<h2>Background</h2>
-<p>Missing data are present in almost any (clinical) data set. For this simulated data set, we assume a clinical phase III trial on Psoriasis. An active treatment arm is compared to a placebo arm. The main interest lies in the comparison of these two arms. (The comparison may be adjusted for age, gender, and BMI). The outcome variable is Pain which was collected on a visual analogue scale (range: 0-100). Greater values mean worse pain. Next to the original values, a dichotomized version of pain is calculated and included in the data set: Pain reduction from baseline of at least 30. Data were collected at baseline and at ten follow-up time points.</p>
-<p>The data set can be found <a href="./missing_data.csv">here</a>.</p>
-</div>
-<div id="challenge" class="section level2">
-<h2>Challenge</h2>
+<div id="vasculitis-data" class="section level1">
+<h1>Vasculitis Data</h1>
+<p>Vasculitis is an inflammation of the blood vessels, in many cases caused by the body’s immune system attacking healthy blood vessels, causing them to become swollen and narrow. The symptoms associated with vasculitis are varied, and include asthma, allergic rhinitis (cold-like symptoms), fever, joint pain, tiredness, loss of appetite and weight loss. In serious cases, if left untreated, severe vasculitis can lead to organ failure and death. Vasculitis is treated primarily with oral corticosteroid (OCS) treatment. However long-term usage of OCS therapy at high doses is associated with a number of side-effects which worsen over time, and steroid-dependency is often a concern, so steroid doses need to be reduced if possible. However, some patients have a propensity to relapse, in which the patient experiences an acute flare-up of symptoms, usually requiring immediate treatment with high dose OCS treatment. Patients are considered to be in remission if the symptom score is zero concurrently with the OCS dose being ≤ 7.5 mg/day. This is a study of a new investigational medicine for the treatment of a rare type of vasculitis, with patients randomised to active treatment or placebo, with an on-treatment period of 52 weeks and a subsequent off-treatment follow-up period of up for 8 weeks. An ideal medicine would reduce vasculitis symptoms and/or enable a reduction in OCS dose and/or reduce the risk of relapse. Additional endpoints are defined for total number of days the patient was in remission during the on-treatment period, and a binary endpoint for whether a patients achieved remission within the first 24 weeks and maintained in remission until the end of the on-treatment period. Being a rare disease, there is no established consensus on a single endpoint for demonstrating efficacy. The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes. Clinical questions of interest include:</p>
 <ul>
-<li>Show the different patterns of missing values.</li>
-<li>Visualize the potential impact of missing values on the comparison of the two treatment arms.</li>
+<li>Is it possible to visualise the effectiveness of the medicine, simultaneously considering multiple endpoints?</li>
+<li>Is there a relationship between relapse events and OCS dose?</li>
+<li>How can we visualise changes in OCS dose states?<br />
+</li>
+<li>Are there patterns in terms of duration of remission, and how does this relates to other endpoints?</li>
 </ul>
-</div>
-<div id="notes" class="section level2">
-<h2>Notes</h2>
-<p>The idea is to check for different missing data patterns:</p>
-<ul>
-<li>Monotone vs. non-montone (Monotone means that once there is a missing value for a specific patient, all follow-up values are also missing).</li>
-<li>Missing completely at random (MCAR).</li>
-<li>Missing at random (MAR); missingness depends on covariates.</li>
-<li>Combinations of the above, etc.</li>
-</ul>
-<p>Visualize these patterns and their (potential) impact on the results. Feel free to do some imputation. It might be interesting to look at the impact of the selected imputation strategy on the results.</p>
-</div>
-<div id="codebook" class="section level2">
-<h2>Codebook</h2>
+<p>The table below summarises the variables in the dataset. For each subject, the data includes a single record for each day post-randomisation, up to a maximum of 60 weeks. N.B. Variables acc_rem and sus_rem are defined at the patient level, i.e. values are replicated across all records for a subject.</p>
 <table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Variable</th>
-<th align="left">Description</th>
-<th align="left">Values</th>
+<th align="left">Type</th>
+<th align="left">Label</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">pain.0</td>
-<td align="left">Pain at baseline</td>
-<td align="left">0-100</td>
+<td align="left">subject</td>
+<td align="left">Num</td>
+<td align="left">Subject ID</td>
 </tr>
 <tr class="even">
-<td align="left">pain.1</td>
-<td align="left">Pain at follow-up visit 1</td>
-<td align="left">0-100</td>
+<td align="left">trt01pn</td>
+<td align="left">Num</td>
+<td align="left">Randomised treatment (0 = Placebo; 1 = Treatment)</td>
 </tr>
 <tr class="odd">
-<td align="left">…</td>
-<td align="left">…</td>
-<td align="left">…</td>
+<td align="left">ady</td>
+<td align="left">Num</td>
+<td align="left">Study Day</td>
 </tr>
 <tr class="even">
-<td align="left">pain.10</td>
-<td align="left">Pain at follow-up visit 10</td>
-<td align="left">0-100</td>
+<td align="left">sym</td>
+<td align="left">Num</td>
+<td align="left">Vasculitis symptom score</td>
 </tr>
 <tr class="odd">
-<td align="left">pain.bin.1</td>
-<td align="left">Pain reduction &gt;= 30 at visit 1</td>
-<td align="left">yes / no</td>
+<td align="left">dose</td>
+<td align="left">Num</td>
+<td align="left">Oral Corticosteroid (OCS) dose</td>
 </tr>
 <tr class="even">
-<td align="left">…</td>
-<td align="left">…</td>
-<td align="left">…</td>
+<td align="left">rem</td>
+<td align="left">Char</td>
+<td align="left">Subject in Remission, i.e. Vasculitis Symptom Score = 0 and OCS Dose ≤ 7.5 mg/day (Y/N)</td>
 </tr>
 <tr class="odd">
-<td align="left">pain.bin.10</td>
-<td align="left">Pain reduction &gt;= 30 at visit 10</td>
-<td align="left">yes / no</td>
+<td align="left">rel</td>
+<td align="left">Char</td>
+<td align="left">Relapse Event (Y)</td>
 </tr>
 <tr class="even">
-<td align="left">trt</td>
-<td align="left">Treatment arm</td>
-<td align="left">act (active) / pbo (placebo)</td>
+<td align="left">acc_rem</td>
+<td align="left">Num</td>
+<td align="left">Accrued Duration of Remission (Days)</td>
 </tr>
 <tr class="odd">
-<td align="left">age</td>
-<td align="left">Age</td>
-<td align="left">18-100</td>
-</tr>
-<tr class="even">
-<td align="left">bmi</td>
-<td align="left">BMI</td>
-<td align="left">18-40</td>
-</tr>
-<tr class="odd">
-<td align="left">gender</td>
-<td align="left">Gender</td>
-<td align="left">f (female) / m (male)</td>
+<td align="left">sus_rem</td>
+<td align="left">Char</td>
+<td align="left">Subject Achieved Remission Within First 24 Weeks and Remained in Remission Until EOS? (Y/N)</td>
 </tr>
 </tbody>
 </table>
-</div>
+<p>The data can be found <a href="./vas_data.csv">here</a>.</p>
 </div>
 
 

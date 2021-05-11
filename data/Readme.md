@@ -1,7 +1,7 @@
 2020 data set overview
 ================
 
-Table of contents for the 2020 webinar series data sets.
+Table of contents for the 2020 webinar series data sets:
 
   - [PASI over
     time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11).
@@ -36,11 +36,17 @@ Table of contents for the 2020 webinar series data sets.
 
   - [Prediction data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-12-09). Presented on **December 9th, 2020**
 
+Table of contents for the 2021 webinar series data sets:
+
   - [DLQI data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-01-13). Presented on **January 13th, 2021**
   
   - [Missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Presented on **February 10th, 2021**
 
   - [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). Presented on **March 10th, 2021**
+
+  - [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
+
+  - [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

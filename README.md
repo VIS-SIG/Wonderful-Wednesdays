@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**April 14th, 2021**. The current example data set is focusing on [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). The challenge is to find ways to produce a visualization to compare treatments with regards to patients sustaining a response.
+**April 14th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,15 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## April data set
+## May data set
 
-Presented on **April 14th, 2021**. The current example data set is focusing on [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). The challenge is to find ways to produce a visualization to compare treatments with regards to patients sustaining a response.
-
-The purpose of this challenge is as follows:
-
-Different approaches could be considered to define a patient as having sustained their response. A simple definition of sustained response could be that having achieved a response at a given visit, a patient then has that response at all subsequent visits. More complex approaches may explore different methods for interpolating between visits.
-
-The dataset also contains a small amount of missing data. It may be of interest to explore how the approach used to handle this missing data influences the interpretation of sustained response.
+Presented on **May 12th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Vasculitis is an inflammation of the blood vessels, in many cases caused by the body’s immune system attacking healthy blood vessels, causing them to become swollen and narrow. The symptoms associated with vasculitis are varied, and include asthma, allergic rhinitis (cold-like symptoms), fever, joint pain, tiredness, loss of appetite and weight loss. In serious cases, if left untreated, severe vasculitis can lead to organ failure and death. This is a study of a new investigational medicine for the treatment of a rare type of vasculitis, with patients randomised to active treatment or placebo, with an on-treatment period of 52 weeks and a subsequent off-treatment follow-up period of up for 8 weeks. The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -61,6 +55,8 @@ The dataset also contains a small amount of missing data. It may be of interest 
 * [Missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-02-10). Presented on **February 10th, 2021**
 
 * [mobile app data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-03-10). Presented on **March 10th, 2021**
+
+* [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
 
 
 
