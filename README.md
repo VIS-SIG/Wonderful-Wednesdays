@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**April 14th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
+**May 12th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
