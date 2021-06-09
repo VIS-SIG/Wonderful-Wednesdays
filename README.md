@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**May 12th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
+**June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,17 +18,29 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## May data set
+## June data set
 
-Presented on **May 12th, 2021**. The current example data set is focusing on [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Vasculitis is an inflammation of the blood vessels, in many cases caused by the body’s immune system attacking healthy blood vessels, causing them to become swollen and narrow. The symptoms associated with vasculitis are varied, and include asthma, allergic rhinitis (cold-like symptoms), fever, joint pain, tiredness, loss of appetite and weight loss. In serious cases, if left untreated, severe vasculitis can lead to organ failure and death. This is a study of a new investigational medicine for the treatment of a rare type of vasculitis, with patients randomised to active treatment or placebo, with an on-treatment period of 52 weeks and a subsequent off-treatment follow-up period of up for 8 weeks. The challenge is to use data visualisation to explore the effectiveness of the treatment across a range of different clinical outcomes.
+Presented on **June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing):
+
+*	Assessed by exploring the relationship between the SDQ-12 and the anchors. 
+*	Is there a high correlation between the anchors and the SDQ-12 at each timepoint? 
+*	If the patients are split into severity groupings based on the anchor measures, how do the scores on the SDQ-12 differ between these groups?
+*	If patients have experienced change based on the anchor measures (i.e. grouping patients as worsened, stable and improved based on each anchor), how much change has been observed on the SDQ-12 in each of these groups?
+Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the SDQ-12 measure consistently):
+*	Test-retest reliability can be assessed by looking at the degree of change in SDQ-12 between two timepoints in a subset of stable patients (as defined by anchor measures). 
+•	If the SDQ-12 has good test-retest reliability, would expect the scores to remain stable between the two timepoints
+
+
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**May 12th, 2021**.
+**July 14th, 2021**.
 
 ## Previous data sets 
+
+* [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**.
 
 * [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Presented on **March 11th, 2020**. 
 
