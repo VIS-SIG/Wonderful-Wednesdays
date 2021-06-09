@@ -2,20 +2,34 @@
 
 ## Psychometric Overview
 
-Patient Reported Outcomes (PROs) are often used within clinical trials. Prior to use as an endpoint, it is important to establish measurement properties of the instrument in the population of interest.
+[Patient Reported Outcomes (PROs)](./PSI_WW_psychometric.csv) are often used within clinical trials. Prior to use as an endpoint, it is important to establish measurement properties of the instrument in the population of interest.
+
 This is conducted on blinded data, with no knowledge of the treatment allocation of each patient. Instead, anchor measures are used and compared to the score that is being evaluated. These anchor measures are usually simple questions that are designed to link conceptually to the overall target of evaluation or can be previously validated measures that assess similar concepts.
 
 ## Simulated Disease Questionnaire
-The dataset includes item level data for a 12 item (question) Simulated Disease Questionnaire (SDQ-12) at four different timepoints and for 2000 patients. Each item is scored on a 0-3 scale (0 representing worst possible health state/most severe symptoms, 3 representing best possible health state and no symptoms), and a sum score is also calculated by adding all item responses.
+
+[The dataset](./PSI_WW_psychometric.csv) includes item level data for a 12 item (question) Simulated Disease Questionnaire (SDQ-12) at four different timepoints and for 2000 patients. Each item is scored on a 0-3 scale (0 representing worst possible health state/most severe symptoms, 3 representing best possible health state and no symptoms), and a sum score is also calculated by adding all item responses.
 Each of the 12 items has been simulated to represent a distinct symptom:
-'Item 01 Dry Cough', 'Item 02 Loss of Smell', 'Item 03 Skin Rash', 'Item 04 Fever', 'Item 05 Headache', 'Item 06 Short of Breath', 'Item 07 Diarrhoea', 'Item 08 Sore Throat', 'Item 09 Fatigue', 'Item 10 Runny Nose', 'Item 11 Ocular Issues' and 'Item 12 Loss of Taste'.
+
+* 'Item 01 Dry Cough', 
+* 'Item 02 Loss of Smell', 
+* 'Item 03 Skin Rash', 
+* 'Item 04 Fever', 
+* 'Item 05 Headache', 
+* 'Item 06 Short of Breath', 
+* 'Item 07 Diarrhoea', 
+* 'Item 08 Sore Throat', 
+* 'Item 09 Fatigue', 
+* 'Item 10 Runny Nose', 
+* 'Item 11 Ocular Issues', and  
+* 'Item 12 Loss of Taste'.
 Anchor measures
 
 The anchor measures included in the dataset are as follows:
 
-* Patient Global Impression of Change (PGIC)- A single item assessment indicating the level of change from baseline. This is scored from 1 – 7, indicating responses of “Much Improved”, “Moderately Improved”, “Minimally Improved”, “No change”, “Minimally Worsened”, “Moderately Worsened” and “Much Worsened” respectively. The PGIC is assessed at the final three timepoints (and is not assessed at baseline).
-* Fatigue PRO- Measured on a scale of 0-67, with lower scores indicating higher levels of symptoms/worse health.
-* Flu PRO- Measured on a scale of 0-63, with lower scores indicating higher levels of symptoms/worse health
+* **Patient Global Impression of Change (PGIC)** - A single item assessment indicating the level of change from baseline. This is scored from 1 – 7, indicating responses of “Much Improved”, “Moderately Improved”, “Minimally Improved”, “No change”, “Minimally Worsened”, “Moderately Worsened” and “Much Worsened” respectively. The PGIC is assessed at the final three timepoints (and is not assessed at baseline).
+* **Fatigue PRO** - Measured on a scale of 0-67, with lower scores indicating higher levels of symptoms/worse health.
+* **Flu PRO** - Measured on a scale of 0-63, with lower scores indicating higher levels of symptoms/worse health
 Challenge
 
 To produce visualisation to aid in the psychometric evaluation of the SDQ-12 using the provided anchor measures (PGIC, Fatigue PRO, Flu PRO). Some ideas for general analyses are provided below, but submissions could include one of these suggestions, all of these, or explore a different aspect of the SDQ-12 measurement properties completely.
