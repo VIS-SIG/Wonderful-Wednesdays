@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing).
+**July 14th, 2021**. The current example is focusing on [COVID-19](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). This time we ask you to share you favourite COVID-19 visualization. This can be one designed by yourself, or one produced by someone else.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,17 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## June data set
+## July data set
 
-Presented on **June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing):
-
-*	Assessed by exploring the relationship between the SDQ-12 and the anchors. 
-*	Is there a high correlation between the anchors and the SDQ-12 at each timepoint? 
-*	If the patients are split into severity groupings based on the anchor measures, how do the scores on the SDQ-12 differ between these groups?
-*	If patients have experienced change based on the anchor measures (i.e. grouping patients as worsened, stable and improved based on each anchor), how much change has been observed on the SDQ-12 in each of these groups?
-Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the SDQ-12 measure consistently):
-*	Test-retest reliability can be assessed by looking at the degree of change in SDQ-12 between two timepoints in a subset of stable patients (as defined by anchor measures). 
-•	If the SDQ-12 has good test-retest reliability, would expect the scores to remain stable between the two timepoints
+Presented on **July 14th, 2021**. The current example data set is focusing on [COVID-19](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). The challenge is to share your favorite COVID-19 visualition (self-made or found somewhere).
 
 
 
@@ -39,8 +31,6 @@ Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the S
 **July 14th, 2021**.
 
 ## Previous data sets 
-
-* [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**.
 
 * [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Presented on **March 11th, 2020**. 
 
@@ -70,7 +60,11 @@ Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the S
 
 * [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
 
+* [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**.
 
+* [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). Presented on **June 09th, 2021**.
+
+* [COVID-19 Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). Presented on **July 14th, 2021**.
 
 ## Downloading single files
 

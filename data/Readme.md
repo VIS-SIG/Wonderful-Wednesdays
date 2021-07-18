@@ -47,6 +47,10 @@ Table of contents for the 2021 webinar series data sets:
   - [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
 
   - [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**
+  
+  - [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). Presented on **June 09th, 2021**.
+  
+  - [COVID-19 Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). Presented on **July 14th, 2021**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
