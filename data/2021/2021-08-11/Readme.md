@@ -18,7 +18,7 @@ Explanatory - Visually demonstrate that there is a dose response in glycemic con
 
 # Data set
 
-**The data will be available soon - please check back**
+The data can be found [here](./simulated_data.csv).
 
 The data set contains the following variables:
 
