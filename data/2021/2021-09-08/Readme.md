@@ -16,7 +16,7 @@ Find a way to visualize the impact of different risk factors (comorbidities and 
 
 Source paper: [Nijman et al, 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249231)
 
-The data can be found [here](./journal.pone.0249231.s004.csv).
+The data can be found [here](https://doi.org/10.1371/journal.pone.0249231.s004).
 
 The data set contains the following variables:
 
