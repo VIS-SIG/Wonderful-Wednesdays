@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**August 11th, 2021**. The current example is focusing on [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). The goal of the challenge is to produce an explanatory graphics - Visually demonstrate that there is a dose response in glycemic control for Rx (the higher the dose the lower the variability) and that the Rx med and Rx high demonstrate better glycemic control that SOC and these attributes are sustained.
+**August 11th, 2021**. The current example is focusing on [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). The goal of the challenge is to find a way to visualize the impact of different risk factors (comorbidities and symptoms at admission to hospital) on the risk of death considering the competing risk of recovery.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
