@@ -20,7 +20,7 @@ We will make the submissions available to the community together with highlights
 
 ## August data set
 
-Presented on **August 11th, 2021**. The current example data set is focusing on [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). The goal of the challenge is to produce an explanatory graphics - Visually demonstrate that there is a dose response in glycemic control for Rx (the higher the dose the lower the variability) and that the Rx med and Rx high demonstrate better glycemic control that SOC and these attributes are sustained.
+Presented on **September 08th, 2021**. The current example data set is focusing on [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). The goal of the challenge is to produce an explanatory graphics - Visually demonstrate that there is a dose response in glycemic control for Rx (the higher the dose the lower the variability) and that the Rx med and Rx high demonstrate better glycemic control that SOC and these attributes are sustained.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -65,6 +65,8 @@ Presented on **August 11th, 2021**. The current example data set is focusing on 
 * [COVID-19 Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). Presented on **July 14th, 2021**.
 
 * [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **August 11th, 2021**
+
+* [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **September 08th, 2021**.
 
 
 ## Downloading single files
