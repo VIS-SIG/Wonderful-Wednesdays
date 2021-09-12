@@ -66,7 +66,7 @@ Presented on **September 08th, 2021**. The current example data set is focusing 
 
 * [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **August 11th, 2021**
 
-* [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **September 08th, 2021**.
+* [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). Presented on **September 08th, 2021**.
 
 
 ## Downloading single files
