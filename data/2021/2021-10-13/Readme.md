@@ -10,7 +10,7 @@ This data set contains 3 variables. The baseline and follow up assessment of the
 
 Especially relevant are the scores 3 and 5 and changes relating to these will guide the understanding of minimally clinically relevant changes. The changes relating to a CGI-I of 4 serve as references.
 
-The data can be found [here](WWW_example_minimal_clinical improvement.csv).
+The data can be found [here](WWW_example_minimal_clinical_improvement.csv).
 
 ## The challenge
 
