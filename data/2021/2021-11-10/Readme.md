@@ -4,7 +4,7 @@
 
 The data is a ADaM data set following the CDISC standard. We will focus on the ADSL (subject level) data.
 
-Download the data: [csv](adsl.csv)/[xpt](adsl.xpt).
+Download the data: [csv](adsl.csv), [xpt](adsl.xpt).
 
 Source of the data: https://github.com/phuse-org/phuse-scripts/tree/master/data/adam/cdiscpilot01
 
