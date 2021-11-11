@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**October 13th, 2021**. The current example is focusing on a [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
+**November 10th, 2021**. The current example is focusing on a [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,9 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## October data set
+## November data set
 
-Presented on **October 13th, 2021**. The current example is focusing on a [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
+Presented on **November 10th, 2021**. The current example is focusing on a [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -69,6 +69,8 @@ Presented on **October 13th, 2021**. The current example is focusing on a [CGI-I
 * [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). Presented on **September 08th, 2021**.
 
 * [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). Presented on **October 13th, 2021**.
+
+* [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
 
 
 ## Downloading single files
