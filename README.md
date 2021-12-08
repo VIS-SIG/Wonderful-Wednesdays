@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**November 10th, 2021**. The current example is focusing on a [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
+**December 8th, 2021**. The current example is focusing on [effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). In this first Wonderful Wednesday Webinar of 2022, we will review an existing data visualisation and improve it step by step, making use of gestalt principles, pre-attentive attributes and design considerations.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,15 +18,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## November data set
+## December data set
 
-Presented on **November 10th, 2021**. The current example is focusing on a [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). The goal of the challenge is to display the relationship between changes from baseline of the total score and the corresponding CGI-I to guide the understanding of clinically relevant changes and especially assess minimal clinically relevant changes.
+Presented on **December 8th, 2021**. The current example is focusing on [effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). In this first Wonderful Wednesday Webinar of 2022, we will review an existing data visualisation and improve it step by step, making use of gestalt principles, pre-attentive attributes and design considerations.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**September 8th, 2021**.
+**January 12th, 2021**.
 
 ## Previous data sets 
 
@@ -71,6 +71,8 @@ Presented on **November 10th, 2021**. The current example is focusing on a [Alzh
 * [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). Presented on **October 13th, 2021**.
 
 * [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
+
+* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
 
 
 ## Downloading single files
