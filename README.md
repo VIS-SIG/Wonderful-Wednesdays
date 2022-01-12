@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**December 8th, 2021**. The current example is focusing on [effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). In this first Wonderful Wednesday Webinar of 2022, we will review an existing data visualisation and improve it step by step, making use of gestalt principles, pre-attentive attributes and design considerations.
+**January 12th, 2022**. The current example is focusing on [uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). In this Wonderful Wednesday Webinar, we assume that a phase III cardiovascular superiority study is planned and we will discuss how uncertainty can be displayed with regard to total study duration if the assumptions are not exactly met.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,13 +20,13 @@ We will make the submissions available to the community together with highlights
 
 ## December data set
 
-Presented on **December 8th, 2021**. The current example is focusing on [effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). In this first Wonderful Wednesday Webinar of 2022, we will review an existing data visualisation and improve it step by step, making use of gestalt principles, pre-attentive attributes and design considerations.
+**January 12th, 2022**. The current example is focusing on [uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). In this Wonderful Wednesday Webinar, we assume that a phase III cardiovascular superiority study is planned and we will discuss how uncertainty can be displayed with regard to total study duration if the assumptions are not exactly met.
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**January 12th, 2021**.
+**February 9th, 2022**.
 
 ## Previous data sets 
 
@@ -72,7 +72,9 @@ Presented on **December 8th, 2021**. The current example is focusing on [effecti
 
 * [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
 
-* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
+* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 8th, 2021**.
+
+* [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
 
 
 ## Downloading single files
