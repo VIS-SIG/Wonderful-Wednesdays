@@ -1,6 +1,6 @@
 # Uncertainty in study planning
 
-* A phase III cardiovascular superiority study is planned with the following assumptions (simplified, no lost-to-FU, no treatment discontinuation, no non-CV death):
+A phase III cardiovascular superiority study is planned with the following assumptions (simplified, no lost-to-FU, no treatment discontinuation, no non-CV death):
 
 * Hazard rate of active comparator 5% per year
 
