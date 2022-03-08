@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**January 12th, 2022**. The current example is focusing on [uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). In this Wonderful Wednesday Webinar, we assume that a phase III cardiovascular superiority study is planned and we will discuss how uncertainty can be displayed with regard to total study duration if the assumptions are not exactly met.
+**February 9th, 2022**. In this webinar, we focus on your [favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,9 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## December data set
+## February data set
 
-**January 12th, 2022**. The current example is focusing on [uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). In this Wonderful Wednesday Webinar, we assume that a phase III cardiovascular superiority study is planned and we will discuss how uncertainty can be displayed with regard to total study duration if the assumptions are not exactly met.
+**February 9th, 2022**. In this webinar, we focus on your [favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09).
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -72,9 +72,11 @@ We will make the submissions available to the community together with highlights
 
 * [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
 
-* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 8th, 2021**.
+* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
 
 * [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
+
+* [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
 
 
 ## Downloading single files

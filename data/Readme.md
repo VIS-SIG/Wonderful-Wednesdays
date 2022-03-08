@@ -1,5 +1,5 @@
-2020 data set overview
-================
+Data set overview
+=================
 
 Table of contents for the 2020 webinar series data sets:
 
@@ -61,8 +61,12 @@ Table of contents for the 2021 webinar series data sets:
   - [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
   
   - [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
-  
+
+Table of contents for the 2021 webinar series data sets:
+
   - [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
+  
+  - [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
