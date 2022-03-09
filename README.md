@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**February 9th, 2022**. In this webinar, we focus on your [favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09).
+**March 9th, 2022**. The current data example focuses on your [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). The challenge is to describe the treatment effect specifically taking into account the number and timing of patients who died, left the hospital or fully recovered.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,15 +18,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## February data set
+## March data set
 
-**February 9th, 2022**. In this webinar, we focus on your [favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09).
+**March 9th, 2022**. The current data example focuses on your [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09).
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**February 9th, 2022**.
+**April 13th, 2022**.
 
 ## Previous data sets 
 
@@ -77,6 +77,8 @@ We will make the submissions available to the community together with highlights
 * [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
 
 * [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
+
+* [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09)
 
 
 ## Downloading single files
