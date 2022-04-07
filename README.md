@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**March 9th, 2022**. The current data example focuses on your [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). The challenge is to describe the treatment effect specifically taking into account the number and timing of patients who died, left the hospital or fully recovered.
+**April 13th, 2022**. The current data example focuses on the [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). The challenge is to visualize the impact of changing the definition of HiSCR response on the results.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,13 +20,13 @@ We will make the submissions available to the community together with highlights
 
 ## March data set
 
-**March 9th, 2022**. The current data example focuses on your [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09).
+**April 13th, 2022**. The current data example focuses on the [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13).
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**April 13th, 2022**.
+**May 11th, 2022**.
 
 ## Previous data sets 
 
@@ -78,7 +78,9 @@ We will make the submissions available to the community together with highlights
 
 * [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
 
-* [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09)
+* [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). Presented on **March 09th, 2022**.
+
+* [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
 
 
 ## Downloading single files

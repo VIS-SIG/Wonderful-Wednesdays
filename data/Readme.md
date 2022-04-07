@@ -68,7 +68,9 @@ Table of contents for the 2021 webinar series data sets:
   
   - [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
   
-  - [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09)
+  - [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). Presented on **March 09th, 2022**.
+  
+  - [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
