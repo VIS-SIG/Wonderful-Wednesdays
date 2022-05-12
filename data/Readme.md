@@ -71,6 +71,8 @@ Table of contents for the 2021 webinar series data sets:
   - [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). Presented on **March 09th, 2022**.
   
   - [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
+  
+  - [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). Presented on **May 11th, 2022**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
