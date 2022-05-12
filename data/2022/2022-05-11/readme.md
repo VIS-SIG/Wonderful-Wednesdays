@@ -12,4 +12,4 @@ The purpose of this data visualization is to assess if there is an adverse impac
 
 ## Data set
 
-The data set can be found [here](PedsGrowths.csv).
+The data set can be found [here](PedsGrowth.csv).
