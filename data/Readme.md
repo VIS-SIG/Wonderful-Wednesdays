@@ -1,5 +1,5 @@
-2020 data set overview
-================
+Data set overview
+=================
 
 Table of contents for the 2020 webinar series data sets:
 
@@ -47,6 +47,32 @@ Table of contents for the 2021 webinar series data sets:
   - [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
 
   - [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**
+  
+  - [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). Presented on **June 09th, 2021**.
+  
+  - [COVID-19 Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). Presented on **July 14th, 2021**.
+
+  - [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **August 11th, 2021**.
+
+  - [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). Presented on **September 08th, 2021**.
+
+  - [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). Presented on **October 13th, 2021**.
+  
+  - [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
+  
+  - [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
+
+Table of contents for the 2021 webinar series data sets:
+
+  - [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
+  
+  - [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
+  
+  - [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). Presented on **March 09th, 2022**.
+  
+  - [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
+  
+  - [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). Presented on **May 11th, 2022**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

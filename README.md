@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing).
+**May 11th, 2022**. The current data example focuses on the [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). The challenge is to visualize the impact of changing the definition of HiSCR response on the results.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,29 +18,17 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## June data set
+## May data set
 
-Presented on **June 9th, 2021**. The current example data set is focusing on [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). The challenge is to use Visualisations to explore the validity of the SDQ-12 (i.e. Is the SDQ-12 measuring the right thing):
-
-*	Assessed by exploring the relationship between the SDQ-12 and the anchors. 
-*	Is there a high correlation between the anchors and the SDQ-12 at each timepoint? 
-*	If the patients are split into severity groupings based on the anchor measures, how do the scores on the SDQ-12 differ between these groups?
-*	If patients have experienced change based on the anchor measures (i.e. grouping patients as worsened, stable and improved based on each anchor), how much change has been observed on the SDQ-12 in each of these groups?
-Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the SDQ-12 measure consistently):
-*	Test-retest reliability can be assessed by looking at the degree of change in SDQ-12 between two timepoints in a subset of stable patients (as defined by anchor measures). 
-•	If the SDQ-12 has good test-retest reliability, would expect the scores to remain stable between the two timepoints
-
-
+**May 11th, 2022**. The current data example focuses on the [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11).
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**July 14th, 2021**.
+**June 08th, 2022**.
 
 ## Previous data sets 
-
-* [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**.
 
 * [PASI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11). Presented on **March 11th, 2020**. 
 
@@ -70,6 +58,31 @@ Visualisations could also explore the reliability of the SDQ-12 (i.e. Does the S
 
 * [sustained response](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-04-14). Presented on **April 14th, 2021**
 
+* [Vasculitis Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-05-12). Presented on **May 12th, 2021**.
+
+* [Psychometric Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-06-09). Presented on **June 09th, 2021**.
+
+* [COVID-19 Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-07-14). Presented on **July 14th, 2021**.
+
+* [Continuous Glucose Monitoring (CGM) data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-08-11). Presented on **August 11th, 2021**
+
+* [Competing risk example data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-09-08). Presented on **September 08th, 2021**.
+
+* [CGI-I data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-10-13). Presented on **October 13th, 2021**.
+
+* [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). Presented on **November 10th, 2021**.
+
+* [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
+
+* [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
+
+* [Your favorite visualization](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-02-09). Presented on **February 09th, 2022**.
+
+* [COVID OSCI over time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-03-09). Presented on **March 09th, 2022**.
+
+* [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
+
+* [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). Presented on **May 11th, 2022**.
 
 
 ## Downloading single files
