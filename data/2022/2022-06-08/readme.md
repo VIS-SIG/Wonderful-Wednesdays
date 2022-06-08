@@ -4,19 +4,24 @@ Designing visual patient profiles
 # Challenge
 
 The aim of the challenge to to design a visual patient listing or
-patient profile. We are interested in novel ways to present a
-combination of measurements for an individual patient. For example, how
-can we combine information on a patients adverse events, lab
-measurements, medication use, vital signs, etc. We are looking for
-interesting ways to combine different measurements that provide new
-insights and help inform study teams.
+patient profile.
+
+We are interested in novel ways to present a combination of measurements
+for an individual patient. For example, how can we combine information
+on a patients adverse events, lab measurements, medication use, vital
+signs, etc. We are looking for interesting ways to combine different
+measurements that provide new insights and help inform study teams.
+
+The challenge aim is to provide example of how to present individual
+patient information. In other words, how to best design visualizations
+that combine measurements at the patient level in an informative manner.
 
 # Data
 
 We revisit the [Alzheimer
 data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10)
-from a previous challenge. The data is a ADaM data set following the
-CDISC standard.
+from a previous challenge. The data sets are in ADaM format following
+the CDISC standard.
 
 In this challenge we will focus not only on the ADSL (subject level)
 data but also:
@@ -28,15 +33,20 @@ data but also:
 -   adlbh - patient hematology lab measurements
 -   adlbhy - patient lab measurements - Hy rules.
 
-In this challenge we have filtered the data for an invidual patient and
-stored the files as .csv.
+In this challenge we have filtered the data for an individual patient
+and stored the files as `.csv`. We provide example data sets as /csv
+files for a specific patient. For example,
+[adsl-01-701-1146.csv](adsl-01-701-1146.csv) provides the study demog
+data for patient 01-701-1146,
+[adae-01-701-1146.csv](adae-01-701-1146.csv) provides the adverse event
+information for the same patient, and so on.
 
-We also provide the original source data as .xpt in
+We also provide the original source data as `.xpt` in
 [data-raw](data-raw/) folder. If you would prefer to select a different
 patient, there is example code below to illustrate how this can be
 achieved.
 
-Documentation summarising providing an overview over the variables in
+Documentation summarizing providing an overview over the variables in
 the data set and also the clinical study can be found in the
 [data-raw](data-raw/) folder:
 
@@ -49,9 +59,52 @@ Note, PHUSE host the original source of the [CDISC pilot data and
 documents](https://github.com/phuse-org/phuse-scripts/tree/master/data/adam/cdiscpilot01)
 where additional information can be found.
 
-## Example analysis
+## Examples of graphical patient profiles
 
-Below is a crude example of how to work with the patient data.
+Here are a selection of graphical patient profiles:
+
+``` r
+knitr::include_graphics("assets/Tufte.jpg")
+```
+
+<div class="figure">
+
+<img src="assets/Tufte.jpg" alt="Tufte's graphical medical profile. See https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm for more details." width="850" />
+<p class="caption">
+Tufte’s graphical medical profile. See
+<https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm> for
+more details.
+</p>
+
+</div>
+
+``` r
+knitr::include_graphics("assets/SAS.jpg")
+```
+
+<div class="figure">
+
+<img src="assets/SAS.jpg" alt="Developing patient profiles in SAS, see https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/" width="300" />
+<p class="caption">
+Developing patient profiles in SAS, see
+<https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/>
+</p>
+
+</div>
+
+``` r
+knitr::include_graphics("assets/Rpatientprofile.png")
+```
+
+<div class="figure">
+
+<img src="assets/Rpatientprofile.png" alt="Producing patient profiles in R with the patientProfilesVis package, see https://cran.r-project.org/web/packages/patientProfilesVis/" width="2688" />
+<p class="caption">
+Producing patient profiles in R with the patientProfilesVis package, see
+<https://cran.r-project.org/web/packages/patientProfilesVis/>
+</p>
+
+</div>
 
 # Example code to prepare data for a specific patient
 
