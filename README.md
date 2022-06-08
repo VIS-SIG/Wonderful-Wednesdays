@@ -1,6 +1,4 @@
----
-title: "Wonderful Wednesdays"
----
+# Wonderful Wednesdays
 
 **June 8th, 2022**. The current data example focuses on the [designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). The example data set is re-using data from a previous challenge on [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10), but this time focusing on a wider set of measurements. The challenge also focuses on the individual patient and how to best present a combination of data measured at the patient level in an informative manner. 
 
