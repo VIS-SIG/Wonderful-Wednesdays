@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Example code to load, filter and store the patient data for a single patient. Run the code chunk below to save a set of csv files for a specific patient. The unique subject identifier is required. 
 
-```{r}
+```{r prep_data, message=FALSE, warning = FALSE}
 library(tidyverse)
 library(here)
 
