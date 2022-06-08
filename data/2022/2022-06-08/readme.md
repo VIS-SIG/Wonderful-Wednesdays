@@ -3,6 +3,56 @@ Designing visual patient profiles
 
 # Challenge
 
+The aim of the challenge to to design a visual patient listing or
+patient profile. We are interested in novel ways to present a
+combination of measurements for an individual patient. For example, how
+can we combine information on a patients adverse events, lab
+measurements, medication use, vital signs, etc. We are looking for
+interesting ways to combine different measurements that provide new
+insights and help inform study teams.
+
+# Data
+
+We revisit the [Alzheimer
+data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10)
+from a previous challenge. The data is a ADaM data set following the
+CDISC standard.
+
+In this challenge we will focus not only on the ADSL (subject level)
+data but also:
+
+-   ex - patient drug exposure
+-   adcm - patient con medication records
+-   adae - patient adverse event records
+-   adlbc - patient chemistry lab measurements
+-   adlbh - patient hematology lab measurements
+-   adlbhy - patient lab measurements - Hy rules.
+
+In this challenge we have filtered the data for an invidual patient and
+stored the files as .csv.
+
+We also provide the original source data as .xpt in
+[data-raw](data-raw/) folder. If you would prefer to select a different
+patient, there is example code below to illustrate how this can be
+achieved.
+
+Documentation summarising providing an overview over the variables in
+the data set and also the clinical study can be found in the
+[data-raw](data-raw/) folder:
+
+-   define.pdf is the a description file of the data and analysis
+-   dataguide.pdf provides a guide of the data set and specifications of
+    each variable
+-   cdiscpilot01-CSR.pdf is the example clinical study report.
+
+Note, PHUSE host the original source of the [CDISC pilot data and
+documents](https://github.com/phuse-org/phuse-scripts/tree/master/data/adam/cdiscpilot01)
+where additional information can be found.
+
+## Example analysis
+
+Below is a crude example of how to work with the patient data.
+
 # Example code to prepare data for a specific patient
 
 Example code to load, filter and store the patient data for a single
@@ -11,11 +61,6 @@ specific patient. The unique subject identifier is required.
 
 ``` r
 library(tidyverse)
-```
-
-    ## Warning: package 'dplyr' was built under R version 4.1.3
-
-``` r
 library(here)
 
 ## source funtion to load, filter and save. 
