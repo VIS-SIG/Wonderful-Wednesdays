@@ -1,0 +1,27 @@
+---
+title: "Designing visual patient profiles"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Challenge
+
+# Example code to prepare data for a specific patient
+
+Example code to load, filter and store the patient data for a single patient. Run the code chunk below to save a set of csv files for a specific patient. The unique subject identifier is required. 
+
+```{r}
+library(tidyverse)
+library(here)
+
+## source funtion to load, filter and save. 
+source(here::here("data/2022/2022-06-08", "get_patient_data.R"))
+
+## Call function to save data as csv files for patient 01-701-1146
+get_patient_data(id = "01-701-1146")
+```
+
