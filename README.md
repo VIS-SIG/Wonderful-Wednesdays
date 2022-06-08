@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**May 11th, 2022**. The current data example focuses on the [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). The challenge is to visualize the impact of changing the definition of HiSCR response on the results.
+**June 8th, 2022**. The current data example focuses on the [designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). The example data set re-uses data from a previous challenge on [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10). But this instead focusing on a wider set of measurements. The challenge aim is to provide example of how to present individual patient information. In other words, how to best design visualizations that combine measurements at the patient level in an informative manner. See the [designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08) page for more detail and some examples for inspiration.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,15 +18,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## May data set
+## June data set
 
-**May 11th, 2022**. The current data example focuses on the [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11).
+**June 8th, 2022**. The current data example focuses on the [designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). The example data set is re-using data from a previous challenge on [Alzheimer demographic data set](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-11-10), but this time focusing on a wider set of measurements. The challenge also focuses on the individual patient and how to best present a combination of data measured at the patient level in an informative manner.  
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**June 08th, 2022**.
+**July 13th, 2022**.
 
 ## Previous data sets 
 
