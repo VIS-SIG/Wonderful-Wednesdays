@@ -47,21 +47,23 @@ Note, PHUSE host the original source of the [CDISC pilot data and documents](htt
 Here are a selection of graphical patient profiles:
 
 
-```{r tufte, fig.cap = "Tufte's graphical medical profile. See https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm for more details.", message=FALSE, warning=FALSE}
+```{r tufte, fig.cap = "Tufte's graphical medical profile.", message=FALSE, warning=FALSE}
 knitr::include_graphics("assets/Tufte.jpg")
 ```
 
+See https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm for more details.
 
-```{r sas, fig.cap = "Developing patient profiles in SAS, see https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/", label="SAS example", message=FALSE, warning=FALSE}
+```{r sas, fig.cap = "Developing patient profiles in SAS", label="SAS example", message=FALSE, warning=FALSE}
 knitr::include_graphics("assets/SAS.jpg")
 ```
 
+See https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/ for more details. 
 
-```{r rpackage, fig.cap = "Producing patient profiles in R with the patientProfilesVis package, see https://cran.r-project.org/web/packages/patientProfilesVis/", label="R example", message=FALSE, warning=FALSE}
+```{r rpackage, fig.cap = "Producing patient profiles in R with the patientProfilesVis package", label="R example", message=FALSE, warning=FALSE}
 knitr::include_graphics("assets/Rpatientprofile.png")
 ```
 
-
+See https://cran.r-project.org/web/packages/patientProfilesVis/ for more details
 
 # Example code to prepare data for a specific patient
 

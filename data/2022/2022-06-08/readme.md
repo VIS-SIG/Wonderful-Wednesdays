@@ -69,14 +69,15 @@ knitr::include_graphics("assets/Tufte.jpg")
 
 <div class="figure">
 
-<img src="assets/Tufte.jpg" alt="Tufte's graphical medical profile. See https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm for more details." width="850" />
+<img src="assets/Tufte.jpg" alt="Tufte's graphical medical profile." width="850" />
 <p class="caption">
-Tufte’s graphical medical profile. See
-<https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm> for
-more details.
+Tufte’s graphical medical profile.
 </p>
 
 </div>
+
+See <https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mm>
+for more details.
 
 ``` r
 knitr::include_graphics("assets/SAS.jpg")
@@ -84,13 +85,16 @@ knitr::include_graphics("assets/SAS.jpg")
 
 <div class="figure">
 
-<img src="assets/SAS.jpg" alt="Developing patient profiles in SAS, see https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/" width="300" />
+<img src="assets/SAS.jpg" alt="Developing patient profiles in SAS" width="300" />
 <p class="caption">
-Developing patient profiles in SAS, see
-<https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/>
+Developing patient profiles in SAS
 </p>
 
 </div>
+
+See
+<https://blogs.sas.com/content/graphicallyspeaking/tag/patient-profile/>
+for more details.
 
 ``` r
 knitr::include_graphics("assets/Rpatientprofile.png")
@@ -98,13 +102,15 @@ knitr::include_graphics("assets/Rpatientprofile.png")
 
 <div class="figure">
 
-<img src="assets/Rpatientprofile.png" alt="Producing patient profiles in R with the patientProfilesVis package, see https://cran.r-project.org/web/packages/patientProfilesVis/" width="2688" />
+<img src="assets/Rpatientprofile.png" alt="Producing patient profiles in R with the patientProfilesVis package" width="2688" />
 <p class="caption">
-Producing patient profiles in R with the patientProfilesVis package, see
-<https://cran.r-project.org/web/packages/patientProfilesVis/>
+Producing patient profiles in R with the patientProfilesVis package
 </p>
 
 </div>
+
+See <https://cran.r-project.org/web/packages/patientProfilesVis/> for
+more details
 
 # Example code to prepare data for a specific patient
 
