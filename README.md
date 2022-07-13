@@ -28,7 +28,7 @@ We will make the submissions available to the community together with highlights
 
 ## Next Webinar
 
-**July 13th, 2022**.
+**August 10th, 2022**.
 
 ## Previous data sets 
 
