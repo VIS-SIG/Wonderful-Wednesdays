@@ -21,9 +21,9 @@ The challenge is to fit a model to predict the health status (EQ-5D) based on al
 - Predictors:
   - age, gender
   - marital status (mar.status; 0: single, 1: married)
-  - Years of education (0: ≤ 9 years, 1: > 9 years)
+  - Years of education (edu, 0: ≤ 9 years, 1: > 9 years)
   - Number of conditions (n.cond)
-  - Body mass index (0: < 30, 1: ≥ 30)
+  - Body mass index (bmi, 0: < 30, 1: ≥ 30)
 
 The data set can be found [here](EQ5D.csv).
 
