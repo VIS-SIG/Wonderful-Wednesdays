@@ -73,6 +73,10 @@ Table of contents for the 2021 webinar series data sets:
   - [HiSCR data example](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-04-13). Presented on **April 13th, 2022**.
   
   - [Assessing a Drug’s Impact on Pediatric Growth](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-05-11). Presented on **May 11th, 2022**.
+  
+  - [Designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). Presented on **June 8th, 2022**.
+
+  - [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). Presented on **August 10th, 2022**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

@@ -1,7 +1,6 @@
 # Wonderful Wednesdays
 
-**July 8th, 2022**. The current data example focuses on the [Visualising Ranking Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-07-13). Visualise the relative performance of the treatments based on the ranking data
-You may want to consider other metrics which can be derived from the ranking data and used to compare treatments. 
+**August 10th, 2022**. The current data example focuses [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). The challenge is to fit a model to predict the health status (EQ-5D) based on all other available variables and to visualize the results.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -88,6 +87,7 @@ We will make the submissions available to the community together with highlights
 
 * [Designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). Presented on **June 8th, 2022**.  
 
+* [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). Presented on **August 10th, 2022**.
 
 ## Downloading single files
 
