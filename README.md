@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**August 10th, 2022**. The current data example focuses on [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). The challenge is to fit a model to predict the health status (EQ-5D) based on all other available variables and to visualize the results.
+**August 14th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). The challenge is to visualize the treatment benefit, if any, depending on the endpoints.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -88,6 +88,8 @@ We will make the submissions available to the community together with highlights
 * [Designing effect visual patient profiles](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-06-08). Presented on **June 8th, 2022**.  
 
 * [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). Presented on **August 10th, 2022**.
+
+* [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **August 14th, 2022**.
 
 ## Downloading single files
 
