@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**August 14th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). The challenge is to visualize the treatment benefit, if any, depending on the endpoints.
+**September 14th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). The challenge is to visualize the treatment benefit, if any, depending on the endpoints.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 

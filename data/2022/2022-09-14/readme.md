@@ -1,14 +1,6 @@
----
-title: "Quality of life outcomes in a cancer trial"
-bibliography: references.bib
-link-citations: TRUE
-output: html_document
-date: '2022-09-12'
----
-
 ## EORTC QLQ-C30
 
-The EORTC QLQ-C30 is a 30-item questionnaire that has been designed for use in a wide range of cancer patient populations and is a reliable and valid measure of the quality of life in cancer patients. [@aaronson1993] 
+The EORTC QLQ-C30 is a 30-item questionnaire that has been designed for use in a wide range of cancer patient populations and is a reliable and valid measure of the quality of life in cancer patients (Aaronson et al., 1993).
 
 Each item is rated on a 4-point response scale ranging from 1 ("Not at all") to 4 ("Very much"), except items 29 and 30 that have seven response choices on a scale ranging from 1 ("Very poor") to 7 ("Excellent"). (https://www.eortc.org/app/uploads/sites/2/2018/08/Specimen-QLQ-C30-English.pdf)
 
@@ -123,3 +115,4 @@ The dataset can be found [here](ww eortc qlq-c30.csv) and contains the following
 * A threshold of ± 10 or ± 5 points for the cahange from baseline could be used for assessing meaningful worsening or improvement  
 
 ## References
+Aaronson, N. K., S. Ahmedzai, B. Bergman, M. Bullinger, A. Cull, N. J. Duez, A. Filiberti, et al. 1993. “The European Organization for Research and Treatment of Cancer QLQ-C30: A Quality-of-Life Instrument for Use in International Clinical Trials in Oncology.” JNCI Journal of the National Cancer Institute 85 (5): 365–76. https://doi.org/10.1093/jnci/85.5.365.
