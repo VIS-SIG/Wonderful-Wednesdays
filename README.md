@@ -89,7 +89,7 @@ We will make the submissions available to the community together with highlights
 
 * [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). Presented on **August 10th, 2022**.
 
-* [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **August 14th, 2022**.
+* [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **September 14th, 2022**.
 
 ## Downloading single files
 
