@@ -1,3 +1,5 @@
+# Quality of life outcomes in a cancer trial
+
 ## EORTC QLQ-C30
 
 The EORTC QLQ-C30 is a 30-item questionnaire that has been designed for use in a wide range of cancer patient populations and is a reliable and valid measure of the quality of life in cancer patients (Aaronson et al., 1993).
@@ -65,7 +67,7 @@ $$Score=\frac{RS-1}{range}\cdot100$$
 
 # Dataset
 
-The dataset can be found [here](ww eortc qlq-c30.csv) and contains the following variables:
+The dataset is called "ww eortc qlq-c30.csv" and can be found in the list of files on the top of this page. It contains the following variables:
 
 * USUBJID
 
