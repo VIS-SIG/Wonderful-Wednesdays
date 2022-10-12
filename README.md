@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**September 14th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). The challenge is to visualize the treatment benefit, if any, depending on the endpoints.
+**October 12th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). The challenge is to produce data visualisations that provide insight on the missingness pattern of the data.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -90,6 +90,8 @@ We will make the submissions available to the community together with highlights
 * [Prediction of health status (EQ-5D)](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-08-10). Presented on **August 10th, 2022**.
 
 * [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **September 14th, 2022**.
+
+* [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). Presented on **October 12th, 2022**.
 
 ## Downloading single files
 

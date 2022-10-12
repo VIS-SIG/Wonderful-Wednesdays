@@ -80,6 +80,8 @@ Table of contents for the 2021 webinar series data sets:
 
   - [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **September 14th, 2022**.
 
+  - [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). Presented on **October 12th, 2022**.
+
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
 further
