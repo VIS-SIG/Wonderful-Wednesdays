@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**October 12th, 2022**. The current data example focuses on [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). The challenge is to produce data visualisations that provide insight on the missingness pattern of the data.
+**November 9th, 2022**. The current data example focuses on [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). To display the advers event profile of the different vaccines. The visualisation should allow to detect differences in the incidence of adverse events. You may concentrate on the most frequently reported events.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,10 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## July data set
+## November data set
 
-**July 13th, 2022**. The July data example focuses on the [Visualising Ranking Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-07-13). 
-
+**November 9th, 2022**. The current data example focuses on [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -92,6 +91,8 @@ We will make the submissions available to the community together with highlights
 * [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **September 14th, 2022**.
 
 * [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). Presented on **October 12th, 2022**.
+
+* [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). Presented on **November 9th, 2022**.
 
 ## Downloading single files
 
