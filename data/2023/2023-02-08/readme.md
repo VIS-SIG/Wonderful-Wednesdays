@@ -9,7 +9,7 @@ Melinda Gooderham - one of the authors of the paper using this figure - posted i
 
 ## Data set
 
-The [data set](DLQI for AA by study.xlsx) contains the means and the difference between the means and the upper whiskers (likely the standard deviation).
+The [data set](DLQI_for_AA_by_study.xlsx) contains the means and the difference between the means and the upper whiskers (likely the standard deviation).
 
 ## Challenge
 
