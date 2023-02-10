@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**November 9th, 2022**. The current data example focuses on [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). To display the advers event profile of the different vaccines. The visualisation should allow to detect differences in the incidence of adverse events. You may concentrate on the most frequently reported events.
+**February 8th, 2023**. The current data example focuses on [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). The challenge is to provide ways to improve this figure to show the impact of the disease on quality of life measured by the DLQI total score ranging from 0 to 30.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -26,7 +26,7 @@ We will make the submissions available to the community together with highlights
 
 ## Next Webinar
 
-**August 10th, 2022**.
+**March 8th, 2023**.
 
 ## Previous data sets 
 
@@ -93,6 +93,9 @@ We will make the submissions available to the community together with highlights
 * [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). Presented on **October 12th, 2022**.
 
 * [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). Presented on **November 9th, 2022**.
+
+* [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **February 8th, 2023**.
+
 
 ## Downloading single files
 
