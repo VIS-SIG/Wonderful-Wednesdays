@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**February 8th, 2023**. The current data example focuses on [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). The challenge is to provide ways to improve this figure to show the impact of the disease on quality of life measured by the DLQI total score ranging from 0 to 30.
+**March 8th, 2023**. The current data example focuses on [Diary Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-03-08). TThis month’s challenge will be to visualise diary data, whereby patients complete a diary (grading a number of symptoms), each day.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,9 +18,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## November data set
+## March data set
 
-**November 9th, 2022**. The current data example focuses on [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). 
+**November 9th, 2022**. The current data example focuses on [Diary Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-03-08). 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -95,6 +95,8 @@ We will make the submissions available to the community together with highlights
 * [Adverse Event data of COVID-19 vaccination in 2021](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-11-09). Presented on **November 9th, 2022**.
 
 * [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **February 8th, 2023**.
+
+* [Diary Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **March 8th, 2023**.
 
 
 ## Downloading single files
