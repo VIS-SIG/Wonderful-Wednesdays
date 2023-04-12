@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**March 8th, 2023**. The current data example focuses on [Diary Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-03-08). This month’s challenge will be to visualise diary data, whereby patients complete a diary (grading a number of symptoms), each day.
+**March 8th, 2023**. The current data example focuses on [Clinical Global Impression Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,15 +18,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## March data set
+## May data set
 
-**November 9th, 2022**. The current data example focuses on [Diary Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-03-08). 
+**May 10th, 2022**. The current data example focuses on [CGI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**March 8th, 2023**.
+**May 10th, 2023**.
 
 ## Previous data sets 
 

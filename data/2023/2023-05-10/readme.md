@@ -1,36 +1,20 @@
-# Diary Data Challenge
+# Clinical Global Impression Data Challenge
 
 
 ## Background
 
-This month’s challenge will be to visualise diary data, whereby patients complete a diary (grading a number of symptoms), each day.
-For this challenge, we consider a hypothetical diary, consisting of 6 symptoms (Exhaustion, Aching, Tenderness, Depression, Loneliness, Anxiety). 300 subjects (200 active, 100 placebo), grade each of these symptoms on a 4-point scale (0 = None, 1 = Minor, 2 = Moderate, 3 = Extreme) each day, for 100 days.
+This month’s challenge will be to [Clinical Global Impression (CGI) data](CGI_S_3_groups_WWW_example). 
 
+The clinical global impression – severity scale (CGI-S) is a 7-point scale that requires the clinician to rate the severity of the patient's illness at the time of assessment, relative to the clinician's past experience with patients who have the same diagnosis.
 
 ## The Dataset
 
-Whilst simple, the [dataset](WWWDiary.Rds) is intended to highlight how diary datasets can quickly become large as the number of subjects, number of graded symptoms and length of assessment period all increase.
-The [dataset](WWWDiary.Rds) contains the following variables:
-- USUBJID: Unique subject identifier to the 300 subjects
-- TRT: Either Active (200 subjects) or Placebo (100 Subjects)
-- AVAL (resp. AVALC): Numeric (character) response for the given item on the given day
-- PARAM (PARAMN): The symptom (question number) being assessed
-- ADY: Day of assessment (running from 1 through 100)
+The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3.
+
+The data is provided in a summary format rather than indivdual patient data. The aim is to focus on presenting the summary data rather than focusing on how to analyse the data. 
 
 ## The Challenge
 
-The challenge is to use data visualisation to:
-(a) Aid in tracking individual patient disease progression / patient experience throughout the assessment period
-and/or
+Please provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
 
-(b) Comparing the two treatments in terms of how well they improve patient symptoms over the course of the assessment period
-
-
-## Possibilities
-
-- Feel free to restrict attention to a given symptom / subset of symptoms
-- The diary itself is hypothetical, so feel free to create derive your own summaries which may be of interest (for instance, a total score across symptoms or a running average symptoms score over a given number of days)
-
-## Bonus Challenge
-
-- Can you identify whether any of the items are ‘linked’? Is there a meaningful way to classify the items into different symptom ‘sub-scales’ based on findings highlighted by your visualisation(s)?
+You may also consider using Rank-based approaches like Wilcoxon tests or it's extensions 
