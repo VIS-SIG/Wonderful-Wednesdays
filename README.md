@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**March 8th, 2023**. The current data example focuses on [Clinical Global Impression Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
+**April 12th, 2023**. The current data example focuses on [Clinical Global Impression Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge, for the **upcoming May 10th webinar** will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,7 +20,7 @@ We will make the submissions available to the community together with highlights
 
 ## May data set
 
-**May 10th, 2022**. The current data example focuses on [CGI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). 
+**Upcoming May 10th, 2023 webinar**. The current data example focuses on [CGI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
