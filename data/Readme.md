@@ -85,6 +85,10 @@ Table of contents for the 2021 webinar series data sets:
   - [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **February 8th, 2023**.
 
   - [Diary Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **March 8th, 2023**.
+  
+  - [Clinical Global Impression Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-04-12). Presented on **April 12th, 2023**.
+  
+  - [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). Presented on **May 10th, 2023**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

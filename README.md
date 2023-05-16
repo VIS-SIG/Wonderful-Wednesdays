@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**April 12th, 2023**. The current data example focuses on [Clinical Global Impression Data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge, for the **upcoming May 10th webinar** will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
+**May 10th, 2023**. The current data example focuses on [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge, for the **upcoming May 10th webinar** will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -97,6 +97,10 @@ We will make the submissions available to the community together with highlights
 * [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **February 8th, 2023**.
 
 * [Diary Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **March 8th, 2023**.
+
+* [Clinical Global Impression Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-04-12). Presented on **April 12th, 2023**.
+
+* [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). Presented on **May 10th, 2023**.
 
 
 ## Downloading single files
