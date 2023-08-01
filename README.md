@@ -104,6 +104,9 @@ We will make the submissions available to the community together with highlights
 * [Clinical Global Impression Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-04-12). Presented on **April 12th, 2023**.
 
 * [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). Presented on **May 10th, 2023**.
+  
+* [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
+
 
 
 ## Downloading single files
