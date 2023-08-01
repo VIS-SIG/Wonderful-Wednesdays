@@ -2,7 +2,7 @@
 
 **Jul 12th, 2023**. 
 
-The de-identified phase II clinical trial data were provided by Eli Lilley and Company to the CDISC Pilot Project core team, a collaboration of CDISC, Industry and the FDA to pilot the submission of CDISC-adherent datasets.  The data are publically available on [Github](https://github.com/cdisc-org/sdtm-adam-pilot-project/blob/master/sdtmadampilotprojectreport.pdf).
+The de-identified phase II clinical trial data were provided by Eli Lilly and Company to the CDISC Pilot Project core team, a collaboration of CDISC, Industry and the FDA to pilot the submission of CDISC-adherent datasets.  The data are publically available on [Github](https://github.com/cdisc-org/sdtm-adam-pilot-project/blob/master/sdtmadampilotprojectreport.pdf).
 The visualization exercise requests a hypothetical benefit-risk assessment for hypertension be conducted.  It is unrelated to the objective of the phase II trial, which was to study the efficacy of Xanomeline on schizophrenic patients.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
