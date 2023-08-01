@@ -1,6 +1,9 @@
 # Wonderful Wednesdays
 
-**May 10th, 2023**. The current data example focuses on [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge, for the **upcoming May 10th webinar** will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
+**Jul 12th, 2023**. 
+
+The de-identified phase II clinical trial data were provided by Eli Lilley and Company to the CDISC Pilot Project core team, a collaboration of CDISC, Industry and the FDA to pilot the submission of CDISC-adherent datasets.  The data are publically available on [Github](https://github.com/cdisc-org/sdtm-adam-pilot-project/blob/master/sdtmadampilotprojectreport.pdf).
+The visualization exercise requests a hypothetical benefit-risk assessment for hypertension be conducted.  It is unrelated to the objective of the phase II trial, which was to study the efficacy of Xanomeline on schizophrenic patients.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
