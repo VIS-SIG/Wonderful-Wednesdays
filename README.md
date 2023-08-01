@@ -1,6 +1,9 @@
 # Wonderful Wednesdays
 
-**May 10th, 2023**. The current data example focuses on [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). This month’s challenge, for the **upcoming May 10th webinar** will be to visualise CGI data. The CGI-S is an ordered categorical variable. However, CGI is often analysed also as a continuous variable. The visualisation may approach it both ways. It is especially interesting to understand how many patients achieve a score of =1, <=2, and <=3. THe aim of the challenge is to provide data visualisations, which show these and also provide comparisons between the different groups (e.g. based on response differences or odds ratios for the different response categories).
+**Jul 12th, 2023**. 
+
+The de-identified phase II clinical trial data were provided by Eli Lilly and Company to the CDISC Pilot Project core team, a collaboration of CDISC, Industry and the FDA to pilot the submission of CDISC-adherent datasets.  The data are publically available on [Github](https://github.com/cdisc-org/sdtm-adam-pilot-project/blob/master/sdtmadampilotprojectreport.pdf).
+The visualization exercise requests a hypothetical benefit-risk assessment for hypertension be conducted.  It is unrelated to the objective of the phase II trial, which was to study the efficacy of Xanomeline on schizophrenic patients.
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -18,9 +21,9 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## May data set
+## August data set
 
-**Upcoming May 10th, 2023 webinar**. The current data example focuses on [CGI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). 
+**Upcoming August 9th, 2023 webinar**. The current data example focuses on [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). 
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
@@ -101,6 +104,9 @@ We will make the submissions available to the community together with highlights
 * [Clinical Global Impression Data Challenge](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-04-12). Presented on **April 12th, 2023**.
 
 * [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). Presented on **May 10th, 2023**.
+  
+* [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
+
 
 
 ## Downloading single files
