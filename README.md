@@ -1,9 +1,8 @@
 # Wonderful Wednesdays
 
-**Jul 12th, 2023**. 
+**August 9th, 2023**. 
 
-The de-identified phase II clinical trial data were provided by Eli Lilly and Company to the CDISC Pilot Project core team, a collaboration of CDISC, Industry and the FDA to pilot the submission of CDISC-adherent datasets.  The data are publically available on [Github](https://github.com/cdisc-org/sdtm-adam-pilot-project/blob/master/sdtmadampilotprojectreport.pdf).
-The visualization exercise requests a hypothetical benefit-risk assessment for hypertension be conducted.  It is unrelated to the objective of the phase II trial, which was to study the efficacy of Xanomeline on schizophrenic patients.
+The challenge is about visualizing the effect of a baseline adjustment when comparing an intervention to a control arm. The details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -106,6 +105,8 @@ We will make the submissions available to the community together with highlights
 * [US Disease Incidence](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-05-10). Presented on **May 10th, 2023**.
   
 * [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
+
+* [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **May 10th, 2023**.
 
 
 
