@@ -92,7 +92,7 @@ Table of contents for the 2021 webinar series data sets:
 
   - [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
 
-  - [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **May 10th, 2023**.
+  - [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **August 9th, 2023**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

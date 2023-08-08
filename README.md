@@ -106,7 +106,7 @@ We will make the submissions available to the community together with highlights
   
 * [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
 
-* [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **May 10th, 2023**.
+* [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **August 9th, 2023**.
 
 
 
