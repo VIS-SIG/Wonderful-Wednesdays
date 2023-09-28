@@ -2,7 +2,7 @@
 
 **August 9th, 2023**. 
 
-The challenge is about visualizing the effect of a baseline adjustment when comparing an intervention to a control arm. The details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09).
+The challenge is about leveraging visual analytics to identify data issues. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -107,6 +107,9 @@ We will make the submissions available to the community together with highlights
 * [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). Presented on **July 12th, 2023**.
 
 * [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **August 9th, 2023**.
+
+* [Dirty data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13). Presented on **September 13th, 2023**.
+
 
 
 
