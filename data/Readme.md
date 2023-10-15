@@ -95,6 +95,8 @@ Table of contents for the 2021 webinar series data sets:
   - [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **August 9th, 2023**.
 
   - [Dirty data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13). Presented on **September 13th, 2023**.
+  
+  - [Gatekeeping procedure](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11). Presented on **October 11th, 2023**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

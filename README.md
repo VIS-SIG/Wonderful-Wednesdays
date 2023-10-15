@@ -2,7 +2,7 @@
 
 **August 9th, 2023**. 
 
-The challenge is about leveraging visual analytics to identify data issues. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13).
+The challenge is about visualizing a gatekeeping procedure. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -109,6 +109,8 @@ We will make the submissions available to the community together with highlights
 * [Baseline adjustment](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-08-09). Presented on **August 9th, 2023**.
 
 * [Dirty data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13). Presented on **September 13th, 2023**.
+
+* [Gatekeeping procedure](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11). Presented on **October 11th, 2023**.
 
 
 
