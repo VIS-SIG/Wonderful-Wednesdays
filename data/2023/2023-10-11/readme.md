@@ -24,6 +24,8 @@ Simulations work has been carried out with the purpose of finding optimum values
 
 ![](table.png)
 
+The data can be found [here](WW_mult.csv).
+
 ## The Challenge
 
 Produce data visualisation(s) to provide insights into the relationships between the variables. For example:
