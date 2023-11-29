@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-**August 9th, 2023**. 
+**November 8th, 2023**. 
 
 The challenge is about demographic data display. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-11-08).
 
