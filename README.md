@@ -2,7 +2,7 @@
 
 **August 9th, 2023**. 
 
-The challenge is about visualizing a gatekeeping procedure. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11).
+The challenge is about demographic data display. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-11-08).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -111,6 +111,8 @@ We will make the submissions available to the community together with highlights
 * [Dirty data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-09-13). Presented on **September 13th, 2023**.
 
 * [Gatekeeping procedure](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11). Presented on **October 11th, 2023**.
+
+* [Demographic data display](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-11-08). Presented on **November 8th, 2023**.
 
 
 
