@@ -62,7 +62,7 @@ Table of contents for the 2021 webinar series data sets:
   
   - [Effective data visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2021/2021-12-08). Presented on **December 08th, 2021**.
 
-Table of contents for the 2021 webinar series data sets:
+Table of contents for the 2022 webinar series data sets:
 
   - [Uncertainty in study planning](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-01-12). Presented on **January 12th, 2022**.
   
@@ -81,6 +81,8 @@ Table of contents for the 2021 webinar series data sets:
   - [Quality of life outcomes in a cancer trial](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-09-14). Presented on **September 14th, 2022**.
 
   - [Quality of life outcomes in a cancer trial: dealing with missing data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2022/2022-10-12). Presented on **October 12th, 2022**.
+
+Table of contents for the 2023 webinar series data sets:
 
   - [DLQI data](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-02-08). Presented on **February 8th, 2023**.
 
