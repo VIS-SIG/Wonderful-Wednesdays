@@ -2,7 +2,7 @@
 
 ## Data
 
-The challenge is based on [CDISC data](https://github.com/phuse-org/phuse-scripts/tree/master/data/adam/cdiscpilot01). It is a standard ADSL data set (as .xpt or .csv) for subject level data (demographics and baseline.
+The challenge is based on [CDISC data](https://github.com/phuse-org/phuse-scripts/tree/master/data/adam/cdiscpilot01). It is a standard ADSL data set (as .xpt or .csv) for subject level data (demographics and baseline).
 
 ![](table_1.png)  
 ![](table_2.png)  
