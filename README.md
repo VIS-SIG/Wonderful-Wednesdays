@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**December 13th, 2023**. 
+**January 10th, 2024**. 
 
-For the next webinar, we ask you to pick your favorite visualisation. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-12-13).
+The challenge for the next webinar is about improving a plot. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-01-10).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -22,13 +22,13 @@ We will make the submissions available to the community together with highlights
 
 ## January data set
 
-**Upcoming January 10th, 2024 webinar**. There is no data set but we ask you to pick your [favorite visualisation](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-12-13). <!-- The current data example focuses on [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). -->
+**Upcoming February 14th, 2024 webinar**. There is no data set but we ask you to pick and [improve a plot of your choice](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2024/2024-01-10). <!-- The current data example focuses on [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). -->
 
 [Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
 
 ## Next Webinar
 
-**May 10th, 2023**.
+**February 14th, 2024**.
 
 ## Previous data sets 
 
