@@ -19,6 +19,8 @@ Relative abundance of each microbial community in each woman in pregnancy and th
 
 ![](data_1.png)
 
+The data can be found [here](202402_Collaboration_DataVizESIG-BiomarkersESIG_relative_abundance.csv).
+
 ### Data set 2
 
 Taxonomy information of each microbial community
@@ -27,6 +29,8 @@ Taxonomy information of each microbial community
 
 ![](data_2.png)
 
+The data can be found [here](202402_Collaboration_DataVizESIG-BiomarkersESIG_taxonomy_info.csv).
+
 ### Data set 3
 
 Clinical information of each woman (simulated data)
@@ -34,6 +38,8 @@ Clinical information of each woman (simulated data)
 1 row = 1 sample ; 2,055 samples
 
 ![](data_3.png)
+
+The data can be found [here](202402_Collaboration_DataVizESIG-BiomarkersESIG_simulated_metadata.csv).
 
 ## Challenge
 
