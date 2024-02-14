@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**January 10th, 2024**. 
+**February 14th, 2024**. 
 
-The challenge for the next webinar is about improving a plot. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-01-10).
+The challenge for the next webinar is about a microbiome dataset. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,15 +20,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## January data set
+## February data set
 
-**Upcoming February 14th, 2024 webinar**. There is no data set but we ask you to pick and [improve a plot of your choice](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2024/2024-01-10). <!-- The current data example focuses on [benefit-risk assessment](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2023/2023-07-12). -->
+**Upcoming March 14th, 2024 webinar**. The current data example focuses on a [microbiome dataset](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14).
 
-[Submit your visualisations here!](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform)
+Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**February 14th, 2024**.
+**March 14th, 2024**.
 
 ## Previous data sets 
 
@@ -115,6 +115,8 @@ We will make the submissions available to the community together with highlights
 * [Demographic data display](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-11-08). Presented on **November 8th, 2023**.
 
 * [Your favorite visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-12-13). Presented on **December 13th, 2023**.
+
+* [Improving a plot](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2024-01-10). Presented on **January 10th, 2024**.
 
 
 
