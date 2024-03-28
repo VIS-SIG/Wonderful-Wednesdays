@@ -22,7 +22,7 @@ We will make the submissions available to the community together with highlights
 
 ## March data set
 
-**Upcoming April 10th, 2024 webinar**. The current data example focuses on [power and sample size calculations](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13).
+**Upcoming April 10th, 2024 webinar**. The current data example focuses on [power and sample size calculations](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
@@ -118,7 +118,7 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 
 * [Improving a plot](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2024-01-10). Presented on **January 10th, 2024**.
 
-* [Microbiome dataset](https://github.com/RMine-rgb/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14). Presented on **February 14th, 2024**.
+* [Microbiome dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14). Presented on **February 14th, 2024**.
 
 
 
