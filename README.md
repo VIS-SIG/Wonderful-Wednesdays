@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**March 13th, 2024**. 
+**April 10th, 2024**. 
 
-The challenge for the next webinar is about visualising power and sample size calculations. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13).
+The challenge for the next webinar is about flow charts. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-04-10).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,15 +20,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## March data set
+## April data set
 
-**Upcoming April 10th, 2024 webinar**. The current data example focuses on [power and sample size calculations](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13).
+**Upcoming May 8th, 2024 webinar**. The current data example focuses on [flow charts](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-04-10).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**April 10th, 2024**.
+**May 8th, 2024**.
 
 ## Previous data sets 
 
@@ -119,6 +119,8 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 * [Improving a plot](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2024-01-10). Presented on **January 10th, 2024**.
 
 * [Microbiome dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14). Presented on **February 14th, 2024**.
+
+* [Power and sample size calculations](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13). Presented on **March 13th, 2024**.
 
 
 
