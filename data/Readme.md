@@ -111,6 +111,8 @@ Table of contents for the 2023 webinar series data sets:
   - [Power and sample size calculations](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-03-13). Presented on **March 13th, 2024**.
   
   - [Study flow charts](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-04-10). Presented on **April 10th, 2024**.
+  
+  - [Platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08).
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in
