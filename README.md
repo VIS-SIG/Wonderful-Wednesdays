@@ -2,7 +2,7 @@
 
 **May 08th, 2024**. 
 
-The challenge for the next webinar is about platform trial design. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08).
+The challenge for the next webinar is about platform trial designs. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
