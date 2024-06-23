@@ -6,7 +6,7 @@
 
 # Data
 
-- The simulated dataset can be found on [Github](https://github.com/el-meyer/airship/blob/master/data/ExampleDataNASH.csv).
+- The simulated dataset can be found on [Github](https://github.com/el-meyer/airship/blob/master/extra/ExampleDataNASH.csv).
 - Simulation Input Columns and their meaning:
   - ShortTermEndpointQuality = Correlation between surrogate interim and final endpoint
   - Maximumnumberofcohorts = Maximum number of cohorts allowed to enter the platform
