@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**May 8th, 2024**. 
+**June 12th, 2024**. 
 
-The challenge for the next webinar is about platform trial designs. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08).
+The challenge for the next webinar is about platform trial designs. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-06-12).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -22,13 +22,13 @@ We will make the submissions available to the community together with highlights
 
 ## May data set
 
-**Upcoming June 12th, 2024 webinar**. The current data example focuses on [platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08).
+**Upcoming July 10th, 2024 webinar**. The current data example focuses on [platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-06-12).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**May 8th, 2024**.
+**July 12th, 2024**.
 
 ## Previous data sets 
 
@@ -124,7 +124,7 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 
 * [Study flow charts](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-04-10). Presented on **April 10th, 2024**.
 
-
+* [platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08)
 
 
 ## Downloading single files
