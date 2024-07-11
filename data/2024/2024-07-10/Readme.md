@@ -17,6 +17,8 @@
   - PGIS – the “gold standard” – graded on a 4-point scale (‘None’, ‘Mild’, ‘Moderate’, ‘Severe’)
   - ‘NEWTOOL’ – the new measure, scored on an 11-point numeric rating scale from 0 to 10
 
+The data set can be found [here](WWWJulyAugustData.xlsx).
+
 ## Challenge
 
 Use visualisations to support in the derivation in any or all of the following:
