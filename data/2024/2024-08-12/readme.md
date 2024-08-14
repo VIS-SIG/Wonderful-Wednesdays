@@ -79,7 +79,7 @@ library(broom)
 library(survival)
 
 # load data
-ADTTE <- read_csv('2020-04-08-psi-vissig-adtte.csv')
+ADTTE <- read_csv('2024-08-12-psi-vissig-adtte.csv')
 
 # plot KM curve by treatment 
 survfit(Surv(AVAL, CNSR == 0) ~ TRT01P  , data = ADTTE )  %>%
