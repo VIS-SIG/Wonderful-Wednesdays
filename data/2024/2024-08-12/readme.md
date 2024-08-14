@@ -1,4 +1,4 @@
-Example Survival data set
+Progression free survival
 ================
 
 ## Background
