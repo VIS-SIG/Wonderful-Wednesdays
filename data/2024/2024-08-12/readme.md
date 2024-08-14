@@ -90,4 +90,4 @@ survfit(Surv(AVAL, CNSR == 0) ~ TRT01P  , data = ADTTE )  %>%
   ggtitle("Kaplan-Meier estimates by treatment") 
 ```
 
-![](Readme_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](unnamed-chunk-1-1.png)<!-- -->
