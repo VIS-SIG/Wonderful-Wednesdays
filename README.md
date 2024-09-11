@@ -124,11 +124,18 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 
 * [Study flow charts](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-04-10). Presented on **April 10th, 2024**.
 
-* [platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08)
+* [Platform trial designs I](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-05-08). Presented on **May 8th, 2024**.
 
-* [platform trial designs](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-06-12)
+* [Platform trial designs II](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-06-12). Presented on **June 12th, 2024**.
+
+* [Responder definition](data/2024/2024-07-10). Presented on **July 10th, 2024**.
+
+* [Progression free survival](data/2024/2024-08-12). Presented on **August 12th, 2024**.
+
+* [Personalised dosing](data/2024/2024-09-11). Presented on **September 11th, 2024**.
 
 
 ## Downloading single files
 
 **NOTE** to download a single data set as a csv file, click on the raw button and save the file. The [following link describes the process in further detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
+Thanks to the github team you may now use the "Download raw file"-Button, too.
