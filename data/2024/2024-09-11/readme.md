@@ -22,7 +22,7 @@ A simulated dose response [data set](WWW54ExampleData.csv)
    + age (‘<40 years’ or ‘≥40 years’)
    + race (‘Black’, ‘Asian’, ‘White’)
    + sex (‘Female’, ‘Male’)
-   + type (type of disease: ‘Acute disease’ or ‘Chronic disease’)
+   + type (type of disease: ‘Acute disease’ or ‘Chronic disease’)
 
 
 ## The Challenge
