@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**July 10th, 2024**. 
+**September 11th, 2024**. 
 
-The challenge for the next webinar is about responder definition derivation. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-07-10).
+The challenge for the next webinar is about personalized dosing. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-09-11).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -20,15 +20,15 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## July data set
+## September data set
 
-**Upcoming August 14th, 2024 webinar**. The current data example focuses on [responder definition derivation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-07-10).
+**Upcoming October 9th, 2024 webinar**. The current data example focuses on [personalized dosing](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-09-11).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**August 14th, 2024**.
+**October 9th, 2024**.
 
 ## Previous data sets 
 
