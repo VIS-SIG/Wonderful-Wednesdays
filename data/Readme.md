@@ -103,7 +103,9 @@ Table of contents for the 2023 webinar series data sets:
   - [Demographic data display](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-10-11). Presented on **November 8th, 2023**.
   
   - [Your favorite visualisation](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2023/2023-12-13). Presented on **December 13th, 2023**.
-  
+
+Table of contents for the 2024 webinar series data sets:
+
   - [Improving a plot](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-01-10). Presented on **January 10th, 2024**.
   
   - [Microbiome dataset](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-02-14). Presented on **February 14th, 2024**.
