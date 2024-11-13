@@ -125,6 +125,8 @@ Table of contents for the 2024 webinar series data sets:
   - [Personalized dosing](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-09-11). Presented on **September 11th, 2024**.
   
   - [Improving a bad chart](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-10-09). Presented on **October 9th, 2024**.
+  
+  - [Inter-rater and intra-rater reliability](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-10-09). Presented on **November 13th, 2024**.
 
 **NOTE** to download a single data set as a csv file, click on the raw
 button and save the file. The [following link describes the process in

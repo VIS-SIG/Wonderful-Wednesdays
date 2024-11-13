@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-**October 9th, 2024**. 
+**November 13th, 2024**. 
 
-The challenge for the next webinar is about improving a bad chart. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-10-09).
+The challenge for the next webinar is about inter-rater and intra-rater reliability. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-11-13).
 
 For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
 
@@ -22,13 +22,13 @@ We will make the submissions available to the community together with highlights
 
 ## October data set
 
-**Upcoming November 13th, 2024 webinar**. The current data example focuses on [improving a bad chart](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-10-09).
+**Upcoming December 11th, 2024 webinar**. The current data example focuses on [Inter-rater and intra-rater reliability](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-11-13).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**November 13th, 2024**.
+**December 11th, 2024**.
 
 ## Previous data sets 
 
@@ -135,6 +135,8 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 * [Personalised dosing](data/2024/2024-09-11). Presented on **September 11th, 2024**.
 
 * [Improving a bad chart](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-10-09). Presented on **October 9th, 2024**.
+
+* [Inter-rater and intra-rater reliability](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-11-13). Presented on **November 13th, 2024**.
 
 ## Downloading single files
 
