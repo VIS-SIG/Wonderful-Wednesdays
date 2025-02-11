@@ -32,8 +32,6 @@ Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAa
 
 ## Previous data sets 
 
-Here's the list ordered in reverse, from the most recent to the oldest:
-
 * [Best of the year](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-12-11). Presented on **December 11th, 2024**.
 
 * [Inter-rater and intra-rater reliability](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-11-13). Presented on **November 13th, 2024**.
