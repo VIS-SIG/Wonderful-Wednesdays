@@ -1,4 +1,4 @@
-#Visualizing Benefit-Risk Profiles in Drug Development
+## Visualizing Benefit-Risk Profiles in Drug Development
 
 **Background**: The assessment of benefit-risk profiles is crucial in drug development and regulatory decision-making. Effective visualization of these profiles can greatly enhance understanding and communication among stakeholders. This challenge is inspired by the work presented in the paper: "Planning Benefit-Risk Assessments Using Visualizations" by Colopy MW, Gakava L, Chen C. Ther Innov Regul Sci. 2023 Nov;57(6):1123-1135. doi: 10.1007/s43441-023-00563-9. Epub 2023 Sep 8. PMID: 37682462. 
 
