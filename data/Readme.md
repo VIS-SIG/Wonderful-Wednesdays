@@ -1,5 +1,3 @@
-Certainly! I'll reorder the data sets by descending dates, grouping them by year. Here's the reordered list:
-
 Data set overview
 =================
 
