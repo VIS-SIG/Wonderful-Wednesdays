@@ -2,7 +2,7 @@
 
 Updated **March 12th, 2025**. 
 
-For the next webinar, the challenge is to visualise the Marcov Trace. Details can be found [here](2025/2025-03-12).
+For the next webinar, the challenge is to visualise the Marcov Trace. Details can be found [here](data/2025/2025-03-12).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
@@ -28,9 +28,9 @@ We will make the submissions available to the community together with highlights
 
 ## Previous data sets 
 
-* [Benefit-Risk Profiles](2025/2025-02-12). Presented on **February 12th, 2025**.
+* [Benefit-Risk Profiles](data/2025/2025-02-12). Presented on **February 12th, 2025**.
  
-* [Adverse Events](2025/2025-01-08). Presented on **January 8th, 2025**.
+* [Adverse Events](2025/data/2025-01-08). Presented on **January 8th, 2025**.
 
 * [Best of the year](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-12-11). Presented on **December 11th, 2024**.
 
