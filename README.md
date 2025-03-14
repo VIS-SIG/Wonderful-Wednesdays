@@ -1,10 +1,16 @@
 # Wonderful Wednesdays
 
-**December 11th, 2024**. 
+Updated **March 12th, 2025**. 
 
-For the next webinar, you are asked to pick the best visualisation of the year. Details can be found [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-12-11).
+For the next webinar, the challenge is to visualise the Marcov Trace. Details can be found [here](2025/2025-03-12).
 
-For more on PSI and wonderful wednesdays see https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays
+Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
+
+## Next Webinar
+
+**April 9th, 2025**.
+
+For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
 ## Learn and Apply Key Principles of Data Visualisations
 The data visualization special interest group (VIS SIG) was recently founded under the umbrella of EFSPI and PSI. Learn more about the VIS SIG.
@@ -20,17 +26,11 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## December data set
-
-**Upcoming January 8th, 2024 webinar**. The upcoming webinar is about [the best of the year](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-12-11).
-
-Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
-
-## Next Webinar
-
-**January 8th, 2024**.
-
 ## Previous data sets 
+
+* [Benefit-Risk Profiles](2025/2025-02-12). Presented on **February 12th, 2025**.
+ 
+* [Adverse Events](2025/2025-01-08). Presented on **January 8th, 2025**.
 
 * [Best of the year](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2024/2024-12-11). Presented on **December 11th, 2024**.
 
