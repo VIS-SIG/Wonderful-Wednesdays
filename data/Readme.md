@@ -1,6 +1,17 @@
 Data set overview
 ================
 
+# Table of contents for the 2025 webinar series data sets:
+
+- [Marcov Trace](2025/2025-03-12).
+  Presented on **March 12th, 2025**.
+
+- [Benefit-Risk Profiles](2025/2025-02-12).
+  Presented on **February 12th, 2025**.
+
+- [Adverse Events](2025/2025-01-08).
+  Presented on **January 8th, 2025**.
+
 # Table of contents for the 2024 webinar series data sets:
 
 - [Best of the
@@ -222,7 +233,4 @@ Data set overview
   time](https://github.com/VIS-SIG/Wonderful-Wednesdays/tree/master/data/2020/2020-03-11).
   Present on **March 11th, 2020**.
 
-**NOTE** to download a single data set as a csv file, click on the raw
-button and save the file. The [following link describes the process in
-further
-detail](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
+
