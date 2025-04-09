@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **March 12th, 2025**. 
+Updated **April 9th, 2025**. 
 
-For the next webinar, the challenge is to visualise the Marcov Trace. Details can be found [here](data/2025/2025-03-12).
+For the next webinar, the challenge is to visualise the data on Macrophage Activation Syndrome. Details can be found [here](data/2025/2025-04-09).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**April 9th, 2025**.
+**May 14th, 2025**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Marcov Trace](2025/2025-03-12). Presented on **March 12th, 2025**.
 
 * [Benefit-Risk Profiles](data/2025/2025-02-12). Presented on **February 12th, 2025**.
  
