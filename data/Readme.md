@@ -3,6 +3,9 @@ Data set overview
 
 # Table of contents for the 2025 webinar series data sets:
 
+- [Macrophage Activation Syndrome](2025/2025-04-09).
+  Presented on **April 9th, 2025**.
+
 - [Marcov Trace](2025/2025-03-12).
   Presented on **March 12th, 2025**.
 
