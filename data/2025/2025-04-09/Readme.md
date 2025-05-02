@@ -6,7 +6,7 @@ Current standard therapy includes high dose **glucocorticoid (GC) treatment**,  
 
 ## The data
 
-The data provided are based on two pooled open-label studies in children (n=39) with a diagnosis of MAS disease currently receiving GC treatment. Enrolled subjects started a new investigational drug on day 1, and one objective of the study was to reduce (taper) the GC dose to a safe level during the 8 week interventional period.
+The [data](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2025/2025-04-09/WW_GCdose.csv) provided are based on two pooled open-label studies in children (n=39) with a diagnosis of MAS disease currently receiving GC treatment. Enrolled subjects started a new investigational drug on day 1, and one objective of the study was to reduce (taper) the GC dose to a safe level during the 8 week interventional period.
 
 The data include daily GC doses levels for the 56 day interventional period, and also weekly average GC doses (week 1-8).
 
