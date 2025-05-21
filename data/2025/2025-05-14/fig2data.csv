@@ -1,0 +1,37 @@
+"","x","y","file","class","treat","stat","visit","serumK"
+"1",0,5.36802973977695,"plot-data-a-llc","a","SZC group","llc","Baseline",5.37
+"2",1,4.87732342007435,"plot-data-a-llc","a","SZC group","llc","1st week",4.88
+"3",2,4.63197026022305,"plot-data-a-llc","a","SZC group","llc","2nd week",4.63
+"4",3,4.52044609665428,"plot-data-a-llc","a","SZC group","llc","4th week",4.52
+"5",4,4.27509293680297,"plot-data-a-llc","a","SZC group","llc","6th week",4.28
+"6",5,4.18587360594796,"plot-data-a-llc","a","SZC group","llc","8th week",4.19
+"7",0,5.93308550185874,"plot-data-a-ulc","a","SZC group","ulc","Baseline",5.93
+"8",1,5.39033457249071,"plot-data-a-ulc","a","SZC group","ulc","1st week",5.39
+"9",2,5.01115241635688,"plot-data-a-ulc","a","SZC group","ulc","2nd week",5.01
+"10",3,5.04089219330855,"plot-data-a-ulc","a","SZC group","ulc","4th week",5.04
+"11",4,5.15241635687732,"plot-data-a-ulc","a","SZC group","ulc","6th week",5.15
+"12",5,5.08550185873606,"plot-data-a-ulc","a","SZC group","ulc","8th week",5.09
+"13",0,5.65799256505576,"plot-data-a-mean","a","SZC group","mean","Baseline",5.66
+"14",1,5.13754646840149,"plot-data-a-mean","a","SZC group","mean","1st week",5.14
+"15",2,4.83271375464684,"plot-data-a-mean","a","SZC group","mean","2nd week",4.83
+"16",3,4.78066914498141,"plot-data-a-mean","a","SZC group","mean","4th week",4.78
+"17",4,4.72118959107807,"plot-data-a-mean","a","SZC group","mean","6th week",4.72
+"18",5,4.63940520446097,"plot-data-a-mean","a","SZC group","mean","8th week",4.64
+"19",0,5.33085501858736,"plot-data-b-llc","b","SPS group","llc","Baseline",5.33
+"20",1,5.10780669144981,"plot-data-b-llc","b","SPS group","llc","1st week",5.11
+"21",2,4.79553903345725,"plot-data-b-llc","b","SPS group","llc","2nd week",4.8
+"22",3,4.83271375464684,"plot-data-b-llc","b","SPS group","llc","4th week",4.83
+"23",4,4.43122676579926,"plot-data-b-llc","b","SPS group","llc","6th week",4.43
+"24",5,4.34200743494424,"plot-data-b-llc","b","SPS group","llc","8th week",4.34
+"25",0,5.94795539033457,"plot-data-b-ulc","b","SPS group","ulc","Baseline",5.95
+"26",1,5.71003717472119,"plot-data-b-ulc","b","SPS group","ulc","1st week",5.71
+"27",2,5.61338289962825,"plot-data-b-ulc","b","SPS group","ulc","2nd week",5.61
+"28",3,5.42007434944238,"plot-data-b-ulc","b","SPS group","ulc","4th week",5.42
+"29",4,5.47955390334572,"plot-data-b-ulc","b","SPS group","ulc","6th week",5.48
+"30",5,5.53903345724907,"plot-data-b-ulc","b","SPS group","ulc","8th week",5.54
+"31",0,5.65055762081784,"plot-data-b-mean","b","SPS group","mean","Baseline",5.65
+"32",1,5.41263940520446,"plot-data-b-mean","b","SPS group","mean","1st week",5.41
+"33",2,5.21189591078067,"plot-data-b-mean","b","SPS group","mean","2nd week",5.21
+"34",3,5.12267657992565,"plot-data-b-mean","b","SPS group","mean","4th week",5.12
+"35",4,4.95910780669145,"plot-data-b-mean","b","SPS group","mean","6th week",4.96
+"36",5,4.9368029739777,"plot-data-b-mean","b","SPS group","mean","8th week",4.94
