@@ -13,3 +13,17 @@ Within the publication the below plot was present. This months challenge is to i
 
 ## The data
 The data is in the plot and in the publication. There are tools to extract the data. If you're having trouble retrieving the data or you just want to concentrate on the visualisation, make sure to come back here after the third Wednesday of May to find the data [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2025/2025-05-14/fig2data.csv).
+
+| Variable Name | Variable Label                           |
+|---------------|------------------------------------------|
+| x             | Original value from the vertical axis    |
+| y             | Original value from the horizontal axis  |
+| file          | File name of data input                  |
+| class         | Original group label                     |
+| treat         | Treatment group (derived)                |
+| stat          | Statistical measure                      |
+|               |   mean: mean value                       |
+|               |   llc:  lower limit of confidence        |
+|               |   ulc:  upper limit of confidence        |
+| visit         | Study visit (derived)                    |
+| serumK        | Blood serum level of Potassium (derived) |
