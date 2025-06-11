@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-Updated **May 15th, 2025**. 
+Updated **June 11th, 2025**. 
 
-For the next webinar, the challenge is to visualise the data from a hyperkalemia trial. Details can be found [here](data/2025/2025-05-14).
+For the next webinar, the challenge is to visualise the data from a hyperkalemia trial. Details can be found [here](data/2025/2025-06-11).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Hyperkalemia Trial](2025/2025-05-14). Presented on **May 14th, 2025**.
 
 * [Macrophage Activation Syndrome](2025/2025-04-09). Presented on **April 9th, 2025**.
 
