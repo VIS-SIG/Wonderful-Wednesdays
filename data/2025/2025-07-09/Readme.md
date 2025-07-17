@@ -27,6 +27,3 @@ Compare the two treatment arms, considering how intercurrent events might be han
   - Set to missing and impute
   - Impute as non-response
   - Something else?
-
-## The data
-The patient level data was simulated by an AI generated python code. This is not real data and not the data the publication is based on. Please find the simulated data [here](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2025/2025-06-11/serum_potassium_study_data.csv).
