@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **July 9th, 2025**. 
+Updated **August 21st, 2025**. 
 
-For the next webinar, the challenge is about intercurrent events. Details can be found [here](data/2025/2025-07-09).
+For the next webinar, the challenge is about intercurrent events. Details can be found [here](data/2025/2025-08-13).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**July 9th, 2025**.
+**September 10th, 2025**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
