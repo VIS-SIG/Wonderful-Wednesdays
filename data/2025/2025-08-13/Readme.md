@@ -20,3 +20,13 @@ Comparison of Overall Improvement in Steatosis at the end of study.
 
 ## The data
 The [data](LSM_Score.csv) is derived to match the plotted results in the publication.
+
+| Variable Name | Variable Label                           |
+|---------------|------------------------------------------|
+| Group         | Treatment group                          |
+| Baseline_kPa  | Baseline value of the LSM Score          |
+| EOS_kPa       | End of study value of the LSM Score      |
+| Sex           | Sex (male/female)                        |
+| Steatosis     | Course of steatosis                      |
+| Age           | Age at baseline in years                 |
+| Weight        | Baseline weight in kg                    |
