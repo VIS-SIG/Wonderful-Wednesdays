@@ -11,7 +11,7 @@ The publication is available via [NIH](https://pubmed.ncbi.nlm.nih.gov/40765845/
 Create visualisation to explore possible differences in the treatment effect with regard to subgroups.
 
 ## The data
-The [data](./2025-08-13/LSM_Score.csv) is derived to match the plotted results in the publication. Some baseline characteristics are simulated for the purpose of the challenge.
+The [data](../2025-08-13/LSM_Score.csv) is derived to match the plotted results in the publication. Some baseline characteristics are simulated for the purpose of the challenge.
 
 | Variable Name | Variable Label                           |
 |---------------|------------------------------------------|
