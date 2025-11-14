@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **October 21st, 2025**. 
+Updated **November 14th, 2025**. 
 
-For the next webinar, the challenge is about the exploration of effects in subgroups. Details can be found [here](data/2025/2025-10-08).
+For the next webinar, the challenge is to create a seasonal plot. Details can be found [here](data/2025/2025-11-12).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**November 12th, 2025**.
+**December 10th, 2025**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Improving plots](data/2025/2025-10-08). Presented on **October 8th, 2025**.
 
 * [Fatty liver disease subgroups](data/2025/2025-09-10). Presented on **September 10th, 2025**.
 
