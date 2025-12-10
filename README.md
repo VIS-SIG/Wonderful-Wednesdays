@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-Updated **November 14th, 2025**. 
+Updated **December 10th, 2025**. 
 
-For the next webinar, the challenge is to create a seasonal plot. Details can be found [here](data/2025/2025-11-12).
+For the next webinar, the challenge from September on fatty liver disease will be revisited. Details can be found [here](data/2025/2025-12-10).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Seasonal plots](data/2025/2025-11-12). Presented on **November 12th, 2025**.
 
 * [Improving plots](data/2025/2025-10-08). Presented on **October 8th, 2025**.
 
