@@ -1,7 +1,5 @@
 # Exercise in Pregnancy
 
-This challenge was posted already in September 2025. As not all proposed visualisations have been presented, there will be an additional webinar with this topic. Feel free to elaborate on the presented visuals or to propose new ones.
-
 ## The background
 
 There is a recent publication:
