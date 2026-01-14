@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **December 10th, 2025**. 
+Updated **January 14th, 2026**. 
 
-For the next webinar, the challenge from September on fatty liver disease will be revisited. Details can be found [here](data/2025/2025-12-10).
+For the next webinar, the challenge is to visualise recently published study results. Details can be found [here](data/2026/2026-01-14).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**December 10th, 2025**.
+**February 11th, 2026**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Fatty liver disease subgroups - revisited](data/2025/2025-12-10). Presented on **December 10th, 2025**.
 
 * [Seasonal plots](data/2025/2025-11-12). Presented on **November 12th, 2025**.
 
