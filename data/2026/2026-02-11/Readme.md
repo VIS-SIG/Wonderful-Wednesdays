@@ -12,7 +12,7 @@ The challenge is to compare the relative performance of the treatments across th
 You may download [data](../2026-02-11/simulated_cdi_dataset.xlsx) as Excel file. R users may use the following code to load the data.
 
 
-``` {r, eval=FALSE}
+```r
 
 # Loading
 library("openxlsx")
