@@ -11,12 +11,13 @@ The challenge is to compare the relative performance of the treatments across th
 ## The data
 You may download [data](../2026-02-11/simulated_cdi_dataset.xlsx) as Excel file. R users may use the following code to load the data.
 
-```{r, echo = TRUE, eval=FALSE}
+
+```{r, eval=FALSE}
 
 # Loading
-library("readxl")
+library("openxlsx")
 
 # loading xlsx file
-my_data <- read_excel("https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/refs/heads/master/data/2026/2026-02-11/simulated_cdi_dataset.xlsx")
+my_data <- read.xlsx("https://raw.githubusercontent.com/VIS-SIG/Wonderful-Wednesdays/refs/heads/master/data/2026/2026-02-11/simulated_cdi_dataset.xlsx")
 
 ```
