@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **February 13th, 2026**. 
+Updated **March 12th, 2026**. 
 
-For the next webinar, the challenge is to visualise recently published study results. Details can be found [here](data/2026/2026-02-11).
+For the next webinar, the challenge is to visualise recently published study results. Details can be found [here](data/2026/2026-03-11).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**March 11th, 2026**.
+**April 8th, 2026**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -28,7 +28,9 @@ We will make the submissions available to the community together with highlights
 
 ## Previous data sets 
 
-* [Exercise in Pregnancy](data/2025/2026-01-14). Presented on **January 14th, 2026**.
+* [Treatment Attributes](data/2026/2026-02-11). Presented on **February 11th, 2026**.
+
+* [Exercise in Pregnancy](data/2026/2026-01-14). Presented on **January 14th, 2026**.
 
 * [Fatty liver disease subgroups - revisited](data/2025/2025-12-10). Presented on **December 10th, 2025**.
 
