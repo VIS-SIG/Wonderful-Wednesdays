@@ -16,6 +16,20 @@ Fig 1. Predicted average daily stress (+/-95% CI) across time as a function of i
 
 ![MBC2-Stress](mbc2_stress.jpg)
 
+Fig 2. Predicted Mean (+/-95% CI) Sleep Duration Across Time as a Function of Intervention Type 
+
+![MBC2-Sleep](mbc2_sleep.jpg)
+
 ## The data
 
-The original data is not available. You may generate your data. Also simulated data will be available here within the next week.
+The original data is not available. Simulated data is available for [download](../2026-03-11/simulated_MBC2_data.csv). The R code used for simulating the data may be found on our [github page](https://github.com/VIS-SIG/Wonderful-Wednesdays/blob/master/data/2026/2026-03-11/simulate_MBC2.R).
+
+The two original plots shown above have been redone with the simulated data:
+
+Fig 1 (simulated). Predicted average daily stress (+/-95% CI) across time as a function of intervention type
+
+![MBC2-Stress-simulated](plot_stress.png)
+
+Fig 2 (simulated). Predicted Mean (+/-95% CI) Sleep Duration Across Time as a Function of Intervention Type 
+
+![MBC2-Sleep-simulated](plot_sleep.png)
