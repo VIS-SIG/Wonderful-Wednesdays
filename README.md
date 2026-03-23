@@ -1,6 +1,6 @@
 # Wonderful Wednesdays
 
-Updated **March 12th, 2026**. 
+Updated **March 23rd, 2026**. 
 
 For the next webinar, the challenge is to visualise recently published study results. Details can be found [here](data/2026/2026-03-11).
 
