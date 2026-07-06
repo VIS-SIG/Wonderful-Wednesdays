@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **June 11th, 2026**. 
+Updated **July 6th, 2026**. 
 
-For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-06-10).
+For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-07-08).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**July 8th, 2026**.
+**August 12th, 2026**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous data sets 
+
+* [Pharmacokinetics](data/2026/2026-06-10). Presented on **June 10th, 2026**.
 
 * [Fraud in Clinical Trials](data/2026/2026-05-13). Presented on **May 13th, 2026**.
 
