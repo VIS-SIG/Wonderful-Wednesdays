@@ -20,9 +20,9 @@ You work for a medical communications agency, educating healthcare providers and
 Do you draw a different conclusion?
 
 Some more assumptions:
-COVID infection rate (without vaccine protection): 30%
-CVST prevalence in COVID-infected patients: 400 cases*
-Vaccine effectiveness: 70%
+* COVID infection rate (without vaccine protection): 30%
+* CVST prevalence in COVID-infected patients: 400 cases*
+* Vaccine effectiveness: 70%
 
 ## Challenge #3
 
