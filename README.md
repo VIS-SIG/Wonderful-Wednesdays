@@ -1,14 +1,14 @@
 # Wonderful Wednesdays
 
-Updated **July 6th, 2026**. 
+Updated **October 13th, 2026**. 
 
-For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-07-08).
+For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-10-14).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
 ## Next Webinar
 
-**August 12th, 2026**.
+**November 10th, 2026**.
 
 For more on PSI and wonderful wednesdays see [https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays)
 
@@ -26,7 +26,11 @@ You will be able to submit your improvements for feedback via a google form on t
 We will make the submissions available to the community together with highlights of the strength and limitations through our [blog](https://vis-sig.github.io/blog/). Over time, this will lead to a gallery of visualizations for others to learn from.
 
 
-## Previous data sets 
+## Previous challenges 
+
+* [Vaccine Safety](data/2026/2026-09-09). Presented on **September 9th, 2026**.
+
+* [Protocol Amendment Storytelling](data/2026/2026-07-08). Presented on **July 8th, 2026**.
 
 * [Pharmacokinetics](data/2026/2026-06-10). Presented on **June 10th, 2026**.
 
