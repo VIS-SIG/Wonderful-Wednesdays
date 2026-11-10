@@ -1,8 +1,8 @@
 # Wonderful Wednesdays
 
-Updated **October 13th, 2026**. 
+Updated **November 11th, 2026**. 
 
-For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-10-14).
+For the next webinar, there is a new challenge. Details can be found [here](data/2026/2026-11-11).
 
 Submit your visualisations [here](https://docs.google.com/forms/d/e/1FAIpQLSdNAaiuUAD89LAdQm5KNnLWs-MjqA4pzX2VHAwN7iqwoKpi-Q/viewform) or send them to <info@wonderfulwednesday.org>!
 
@@ -27,6 +27,8 @@ We will make the submissions available to the community together with highlights
 
 
 ## Previous challenges 
+
+* [Prurigo Nodularis](data/2026/2026-10-14). Presented on **October 14th, 2026**.
 
 * [Vaccine Safety](data/2026/2026-09-09). Presented on **September 9th, 2026**.
 
