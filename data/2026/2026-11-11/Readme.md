@@ -18,12 +18,12 @@ Using visualization as your primary tool, explore whether the observed neuropath
 * Investigate the influence of permanent treatment discontinuation on interpretation of neuropathy risk.
 * Compare at least two visual approaches and explain what each reveals or obscures.
 * Communicate a balanced conclusion for a multidisciplinary clinical development team.
-* 
+
 Deliverable: up to three visualizations plus a short commentary (approximately 250–500 words) describing your key discoveries, assumptions, and limitations. Any statistical software is welcome. The challenge is open and free to participate.
 
 ## Data
 
-The accompanying Excel workbook contains 300 simulated randomized patients (150 per treatment arm). Each record is one patient. Variables include treatment, age, sex, baseline severity, prior neurotoxic exposure, follow-up time, first-event code and label, discontinuation reason, and administrative follow-up duration. See the Data dictionary worksheet for definitions.
+The accompanying [Excel workbook](../2026-11-11/Data_Time_to_event_competing_risk.xlsx) is provided in Excel format. contains 300 simulated randomized patients (150 per treatment arm). Each record is one patient. Variables include treatment, age, sex, baseline severity, prior neurotoxic exposure, follow-up time, first-event code and label, discontinuation reason, and administrative follow-up duration. See the Data dictionary worksheet for definitions.
 Event coding: 0 = no event observed (censored); 1 = neuropathy; 2 = permanent treatment discontinuation before neuropathy. Times are in months. The dataset does not systematically record neuropathy after discontinuation. All records are synthetic and are not evidence about a real treatment.
 
 ## For organizers: What learnings or skills does this challenge test?
