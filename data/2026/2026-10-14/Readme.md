@@ -18,4 +18,4 @@ Observe the plot and evaluate the design decisions made. Check what graphical pr
 
 ## Data
 
-The original data is not freely available. Simulated data will be made available to mimic the results of the study.
+The original data is not freely available. Simulated [data](../2026-10-14/simulated_study_data.xlsx) is provided in Excel format to mimic the results of the study.
